@@ -60,5 +60,11 @@
   }
  ],
  "status": "written",
- "wordCount": 861
+ "wordCount": 861,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-new-mexico.jpg",
+  "alt": "Replacement Minerals in New Mexico location",
+  "width": 1600,
+  "height": 1000
+ }
 }

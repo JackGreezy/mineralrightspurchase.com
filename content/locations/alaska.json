@@ -64,5 +64,11 @@
   }
  ],
  "status": "written",
- "wordCount": 914
+ "wordCount": 914,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-alaska.jpg",
+  "alt": "Sell Mineral Rights in Alaska location",
+  "width": 1600,
+  "height": 1000
+ }
 }

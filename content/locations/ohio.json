@@ -61,5 +61,11 @@
   }
  ],
  "status": "written",
- "wordCount": 874
+ "wordCount": 874,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-ohio.jpg",
+  "alt": "Replacement Minerals in Ohio location",
+  "width": 1600,
+  "height": 1000
+ }
 }

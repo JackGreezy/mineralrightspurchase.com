@@ -64,5 +64,11 @@
   }
  ],
  "status": "written",
- "wordCount": 942
+ "wordCount": 942,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-illinois.jpg",
+  "alt": "Sell Mineral Rights in Illinois location",
+  "width": 1600,
+  "height": 1000
+ }
 }

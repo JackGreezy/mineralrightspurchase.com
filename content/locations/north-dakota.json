@@ -60,5 +60,11 @@
   }
  ],
  "status": "written",
- "wordCount": 883
+ "wordCount": 883,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-north-dakota.jpg",
+  "alt": "Replacement Minerals in North Dakota location",
+  "width": 1600,
+  "height": 1000
+ }
 }

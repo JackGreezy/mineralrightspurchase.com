@@ -64,5 +64,11 @@
   }
  ],
  "status": "written",
- "wordCount": 880
+ "wordCount": 880,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-kansas.jpg",
+  "alt": "Replacement Minerals in Kansas location",
+  "width": 1600,
+  "height": 1000
+ }
 }

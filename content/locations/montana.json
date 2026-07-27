@@ -67,5 +67,11 @@
   }
  ],
  "status": "written",
- "wordCount": 1047
+ "wordCount": 1047,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-montana.jpg",
+  "alt": "Replacement Minerals in Montana location",
+  "width": 1600,
+  "height": 1000
+ }
 }

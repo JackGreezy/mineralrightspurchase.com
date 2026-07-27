@@ -60,5 +60,11 @@
   }
  ],
  "status": "written",
- "wordCount": 855
+ "wordCount": 855,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-pennsylvania.jpg",
+  "alt": "Replacement Minerals in Pennsylvania location",
+  "width": 1600,
+  "height": 1000
+ }
 }
