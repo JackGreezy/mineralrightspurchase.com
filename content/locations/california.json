@@ -1,0 +1,68 @@
+{
+ "slug": "california",
+ "title": "Sell Mineral Rights in California",
+ "type": "state",
+ "group": "San Joaquin, LA basin legacy",
+ "primaryKeyword": "mineral rights california",
+ "seo": {
+  "vol": 90,
+  "cpc": 2.99
+ },
+ "metaTitle": "Sell Mineral Rights in California: The Purchase Steps",
+ "metaDescription": "Legacy San Joaquin and LA basin mineral interests often carry a century of fractional heirship. Here is how a California purchase moves from offer to recorded deed.",
+ "heroLead": "A California mineral interest that has been in the same family since the early twentieth century usually comes with more names on the title chain than the current owner expects, and that chain is where a purchase either moves quickly or stalls.",
+ "intro": [
+  "California's private mineral ownership traces mostly to two areas: the San Joaquin basin around Kern County, still one of the most productive onshore oil regions in the country, and the legacy Los Angeles basin fields where drilling began well over a century ago and many original mineral owners' descendants never consolidated their fractional shares. If you hold a small percentage interest that split further with each generation, the title work on a purchase is where most of the time actually goes.",
+  "This page covers what a buyer's examiner checks, how county recording works here, and what the regulatory backdrop around older wells means for a sale."
+ ],
+ "sections": [
+  {
+   "heading": "Fractional heirship on century-old interests",
+   "paragraphs": [
+    "It is common for a Los Angeles basin or Kern County mineral interest to have divided among grandchildren and great-grandchildren of the original owner, sometimes leaving individual shares in the fractions of a percent. A title examiner reconstructing this chain will need probate records, wills, or heirship affidavits for each generational transfer, and if any link in that chain was never formally recorded with the county recorder, that gap has to be resolved with a curative affidavit before a buyer's title company will insure the purchase.",
+    "If you are not sure exactly what percentage you own because the interest was described in an old deed as a fraction of a fraction going back generations, a buyer's examiner can typically work that percentage out from the recorded chain, but expect this step to take longer than in states where interests were more recently created."
+   ]
+  },
+  {
+   "heading": "County recorder practice and legal descriptions",
+   "paragraphs": [
+    "California deeds are recorded with the County Recorder in the county where the mineral interest is located, and San Joaquin basin production spans several counties including Kern, Kings, and Fresno, each with its own recorder's office and indexing conventions. Older Los Angeles basin legal descriptions sometimes reference original subdivision tract maps rather than a standard section, township, and range description, so the examiner may need to cross-reference a historical plat to confirm the description in your deed matches the current parcel.",
+    "Because some of these fields have been producing for well over a century, it is also worth checking whether your interest is described by a fixed royalty fraction from an old lease versus a percentage of the mineral fee itself, since those are treated differently in a purchase and the deed language needs to reflect exactly which one you hold."
+   ]
+  },
+  {
+   "heading": "Regulatory context that affects a sale",
+   "paragraphs": [
+    "California's oil and gas regulator, CalGEM, oversees well permitting, idle well fees, and plugging requirements, and buyers active in legacy fields increasingly factor a well's operational status into their offer, since an interest tied to an idle or soon-to-be-plugged well carries a different production outlook than one tied to an actively producing well. This does not affect your title, but it does affect how a buyer values the interest.",
+    "Setback rules and local land use restrictions in some California counties have also slowed new permitting near residential areas, which has made buyers more conservative about acreage near urban growth boundaries in the LA basin specifically, while San Joaquin basin acreage further from population centers has not seen the same effect."
+   ]
+  },
+  {
+   "heading": "Escrow, closing statement, and recording the deed",
+   "paragraphs": [
+    "Once title is cleared, a California purchase typically closes through an escrow company or title company that holds funds until the mineral deed is signed and notarized. The closing statement will itemize the purchase price, any prorated royalty owed for production before the closing date, and the net amount paid to you.",
+    "The deed is then recorded with the County Recorder, and the buyer sends a copy to the operator to update the division order. For fractional heirship interests, keep a copy of the heirship affidavit or probate documentation used to establish your chain, since it is useful if any remaining family co-owners decide to sell their shares later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does a California mineral title check take longer than in other states?",
+   "answer": "Many California interests, particularly in the Los Angeles basin, have been divided across multiple generations of heirs without formal consolidation, so an examiner has to reconstruct a longer, more fragmented chain of title than in states where interests were created more recently."
+  },
+  {
+   "question": "Does an idle well affect whether I can sell my mineral rights?",
+   "answer": "No, an idle or non-producing well does not prevent a sale, but it does affect how a buyer prices the offer, since idle status can mean the well is not currently generating royalty income and its future production timeline is less certain."
+  },
+  {
+   "question": "Where are mineral deeds recorded in California?",
+   "answer": "With the County Recorder in the county where the mineral interest sits. San Joaquin basin production spans several counties, so it is worth confirming which county's recorder holds your specific chain of title before starting a sale."
+  },
+  {
+   "question": "I only know my interest as a fraction from an old family deed. Can it still be sold?",
+   "answer": "Yes. A title examiner can typically trace a fractional interest back through the recorded chain to confirm your current percentage, even if the original deed described it in unfamiliar terms, though this may take longer if several generations of transfers were never formally recorded."
+  }
+ ],
+ "status": "written",
+ "wordCount": 935
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "utah",
+ "title": "Sell Mineral Rights in Utah",
+ "type": "state",
+ "group": "Uinta basin",
+ "primaryKeyword": "mineral rights utah",
+ "seo": {
+  "vol": 170,
+  "cpc": 5.81
+ },
+ "metaTitle": "Sell Mineral Rights in Utah | Uinta Basin Purchase Guide",
+ "metaDescription": "Duchesne or Uintah County minerals? Utah's waxy Uinta crude prices differently than other basins. What that means before you sell your mineral rights.",
+ "heroLead": "Uinta Basin crude behaves differently than oil almost anywhere else, and that difference shows up directly in what your Utah minerals are worth.",
+ "intro": [
+  "The Uinta Basin sits in northeastern Utah, spanning Duchesne and Uintah counties, with Vernal serving as the region's hub for oilfield activity. What makes this basin distinct is the crude itself: much of Uinta production is a waxy, paraffin-heavy oil that solidifies at relatively warm temperatures, which historically meant it had to be trucked or railed out heated rather than moved by standard pipeline, adding real transportation cost that shows up as a wider price differential against benchmark crude.",
+  "That transportation reality, more than almost anything else, is what a buyer is thinking about when valuing a Uinta Basin mineral interest. Understanding it puts you in a much better position to evaluate an offer than treating your Utah minerals like they'd price the same as a tract in the Permian."
+ ],
+ "sections": [
+  {
+   "heading": "Why waxy crude changes the value conversation",
+   "paragraphs": [
+    "Because Uinta crude needs special handling to move to market, whether that's heated rail cars, specialized trucking, or newer pipeline infrastructure built to accommodate the wax content, the netback price your operator actually realizes typically trails the standard benchmark by a wider margin than you'd see in a basin with straightforward pipeline access. Your royalty check reflects that realized price, not the headline crude number you might see in the news. A buyer evaluating your interest is looking at your actual recent check stubs specifically because the differential matters this much here, so bring several months of statements to the conversation rather than assuming a generic oil price applies."
+   ]
+  },
+  {
+   "heading": "Split estate near tribal and federal land",
+   "paragraphs": [
+    "The Uinta Basin sits adjacent to and partly overlaps the Uintah and Ouray Reservation, and a meaningful share of the basin's mineral ownership involves federal, tribal, or state trust minerals alongside private fee interests, sometimes within the same general area or unit. If you own private fee minerals near this boundary, your buyer's title search needs to confirm precisely which category your interest falls into, since federal and tribal trust minerals aren't privately transferable the way fee minerals are, and the paperwork trail differs substantially between the two."
+   ]
+  },
+  {
+   "heading": "Title work in Duchesne and Uintah counties",
+   "paragraphs": [
+    "Duchesne County's seat is Duchesne, and Uintah County's is Vernal, both handling a steady volume of oil and gas records given the basin's long production history dating back decades. A title examiner traces your interest back to a clean root, commonly an original homestead or allotment-era patent, confirming every subsequent transfer is properly recorded. Given the number of older instruments in this basin's history, expect the title search to take a bit of digging if your family's ownership traces back multiple generations without recent paperwork activity."
+   ]
+  },
+  {
+   "heading": "How escrow and closing work here",
+   "paragraphs": [
+    "Once you agree on a number, a title company holds funds in escrow while the mineral deed is drafted against your confirmed interest, signed, and recorded at the county clerk's office. Funds release once the recording is confirmed clean. Because Uinta Basin valuations lean so heavily on realized price rather than headline benchmarks, a straightforward way to sanity-check any offer is to ask how the buyer arrived at their differential assumption and compare it against your actual recent statements."
+   ]
+  },
+  {
+   "heading": "New pipeline capacity and what it could mean over time",
+   "paragraphs": [
+    "Infrastructure investment aimed at reducing the basin's transportation bottleneck has been discussed and pursued in various forms over the years, and any meaningful expansion of pipeline capacity out of the Uinta Basin would tend to narrow the differential that's held realized prices down. Nothing about that possibility should be treated as a promise about future pricing, but it's a reasonable factor to ask a buyer how they're weighing when they explain their valuation approach, alongside your recent check stubs and current decline behavior on the well you're tied to."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does Uinta Basin oil sell for less than the benchmark price I see quoted?",
+   "answer": "Uinta crude is waxy and requires specialized transportation, heated rail or trucking historically, which adds cost that widens the price differential against standard benchmarks. Your royalty reflects the realized price after that differential, not the headline number."
+  },
+  {
+   "question": "Is my mineral interest actually federal, tribal, or private?",
+   "answer": "Given the basin's proximity to the Uintah and Ouray Reservation and adjacent federal land, this needs to be confirmed through the county title search. Only privately held fee minerals are transferable to a private buyer through a standard purchase."
+  },
+  {
+   "question": "How long does closing take in Duchesne or Uintah County?",
+   "answer": "Typically three to five weeks. Older allotment-era title chains common in this basin can take longer to trace than a more recently developed play."
+  },
+  {
+   "question": "How should I evaluate an offer given the differential issue?",
+   "answer": "Ask the buyer directly how they're accounting for the transportation differential and compare that against your actual recent royalty check stubs rather than a general market price, since that's the number that actually reflects your production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 854,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-utah.jpg",
+  "alt": "Replacement Minerals in Utah location",
+  "width": 1600,
+  "height": 1000
+ }
+}

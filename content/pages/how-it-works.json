@@ -1,0 +1,83 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How a Mineral Rights Purchase Works: The Timeline",
+ "metaDescription": "The full timeline of a mineral rights sale, from initial offer through the purchase agreement, title work, escrow, closing, and deed recording.",
+ "heroLead": "Six stages, in order, with the paperwork each one produces. This is the timeline behind every purchase we make.",
+ "intro": [
+  "This page lays out the mechanical sequence of a mineral rights purchase, start to finish, so you know what to expect at each step and roughly how long it takes. Every transaction has its own quirks, but the order below holds in nearly every case."
+ ],
+ "sections": [
+  {
+   "heading": "The initial offer",
+   "paragraphs": [
+    "We start with whatever information you can share: county, general location, and if the interest is producing, recent royalty payment history. From that we build a preliminary offer, using decline curve analysis for producing interests or comparable nearby sales for undeveloped acreage. This offer is a starting point for a conversation, not a final number, and it's made before formal title work begins.",
+    "This stage is also when we'll ask what kind of interest you're dealing with, mineral rights, a royalty interest, or something else, since that shapes both the pricing and what the eventual deed needs to convey."
+   ]
+  },
+  {
+   "heading": "Signing the purchase agreement",
+   "paragraphs": [
+    "If you accept the terms, we put them in writing as a purchase and sale agreement, which sets the price, the closing timeline, and a due diligence period, typically thirty to sixty days, during which title gets examined. The agreement also spells out the conditions under which either side can adjust or walk away, most commonly a title defect discovered during that window.",
+    "This is the point where earnest money, if part of the deal, gets placed into escrow rather than paid directly, so it's protected on both sides while due diligence runs its course."
+   ]
+  },
+  {
+   "heading": "Title examination",
+   "paragraphs": [
+    "During due diligence, we examine the county courthouse records covering your interest: the chain of title, any liens, unreleased old leases, and whether the legal description matches current plat records. This is where issues with inherited or older interests most often surface, things like a deed that was never formally updated after a death in the family, and where those issues typically get resolved, sometimes with a corrective deed or affidavit of heirship, before closing."
+   ]
+  },
+  {
+   "heading": "Setting up escrow",
+   "paragraphs": [
+    "Once title clears, closing is arranged through a title company or escrow agent acting as a neutral third party. Your signed mineral deed and our funds are both delivered into escrow, so that neither side releases first and neither side is exposed to the other failing to follow through. Earnest money, if applicable, has typically already been held this way since the agreement was signed."
+   ]
+  },
+  {
+   "heading": "Closing day",
+   "paragraphs": [
+    "At closing, escrow releases funds and the deed simultaneously. You receive payment, and we receive a signed mineral deed reflecting the interest and warranty type agreed to in the purchase agreement. You'll also sign a closing statement and any tax paperwork required, such as a W-9.",
+    "Closing rarely requires you to be anywhere in person. Documents are typically signed with a local notary near you and returned by mail or courier, coordinated on a schedule that works for you rather than requiring travel."
+   ]
+  },
+  {
+   "heading": "Recording and division order transfer",
+   "paragraphs": [
+    "The deed gets recorded at the county clerk's office, making the sale part of the public record and establishing our ownership against any future claims. If the interest is producing, we then notify the operator and request a new division order, which typically takes one to three payment cycles to process. It's normal for a seller to receive one or two more royalty checks after closing while that update makes its way through the operator's system.",
+    "Once recording is complete, you'll receive a copy of the recorded deed for your own records, which is worth keeping alongside your closing statement in case questions ever come up down the road, particularly when tax season arrives and you're working out basis and gain with your CPA."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole timeline usually take?",
+   "answer": "A straightforward transaction with clear title commonly closes in three to six weeks from signed agreement to recorded deed. Title issues involving heirship or old unreleased leases can extend that."
+  },
+  {
+   "question": "What can delay closing?",
+   "answer": "The most common delays involve title: a legal description that doesn't match county records, multiple heirs who all need to sign, or an old lease that was never formally released."
+  },
+  {
+   "question": "Do I need to be present in person to close?",
+   "answer": "No. Mineral rights closings are typically handled by mail or through a local notary near you, coordinated by the title company or escrow agent, without requiring travel."
+  },
+  {
+   "question": "When exactly do I get paid?",
+   "answer": "At closing, when escrow releases funds and the deed simultaneously, funds are disbursed to you according to the payment method specified in the closing paperwork."
+  },
+  {
+   "question": "Why don't my royalty checks redirect immediately after closing?",
+   "answer": "The deed transfers ownership, but the operator still has to process a new division order before payments redirect, which commonly takes one to three payment cycles depending on the operator's paperwork backlog and how many owners are involved in the unit overall at the time of transfer."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-mineralrightspurchase-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

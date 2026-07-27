@@ -1,0 +1,71 @@
+{
+ "slug": "montana",
+ "title": "Sell Mineral Rights in Montana",
+ "type": "state",
+ "group": "Bakken edge, Powder River MT",
+ "primaryKeyword": "mineral rights montana",
+ "seo": {
+  "vol": 210,
+  "cpc": 10.76
+ },
+ "metaTitle": "Sell Mineral Rights in Montana | Bakken & Powder River",
+ "metaDescription": "Own minerals in Richland, Sheridan, or Powder River County, Montana? Learn how a purchase actually closes, from title check to funded escrow, before you sign.",
+ "heroLead": "Montana mineral owners sit on two very different plays, and the closing process looks a little different depending on which one you're in.",
+ "intro": [
+  "Montana's oil and gas geography splits into two pockets that rarely get mentioned in the same breath. Up in the northeast corner, Richland and Sheridan counties catch the western edge of the Bakken and Three Forks trend that made North Dakota famous, with wells stepping across the state line around Sidney and Plentywood. Down in the southeast, Powder River County and its neighbors sit on the Montana side of the Powder River Basin, a coalbed methane and conventional oil area that's been produced in fits and starts for decades.",
+  "If you inherited a mineral interest from a Montana homestead, or you're holding a fractional share your grandparents leased out in the 1950s, the paperwork trail and the closing mechanics differ from what you'd see in a busier state like Texas or Oklahoma. This page walks through what actually happens between the day you get an offer and the day funds hit your account."
+ ],
+ "sections": [
+  {
+   "heading": "Two basins, two different title pictures",
+   "paragraphs": [
+    "In the Bakken-edge counties, title tends to be cleaner and more active. Richland County's records at the courthouse in Sidney show a fairly steady chain of leases and assignments tied to horizontal units, because operators there have kept drilling and re-permitting through multiple price cycles. A buyer pulling a Richland County title search is usually looking at a handful of assignments, not dozens.",
+    "Powder River Basin minerals often tell a slower story. Wells there skew older and shallower, some dating back to conventional plays from mid-century, and a share of the acreage sat held-by-production on marginal wells for long stretches with little paper activity. That's not a red flag by itself, but it does mean the title examiner has to work back further to confirm the chain is unbroken, and that can add a few days to the process."
+   ]
+  },
+  {
+   "heading": "What the closing actually involves",
+   "paragraphs": [
+    "Once you accept a purchase offer, the buyer orders a title search covering your specific tract, usually running the index at the county clerk and recorder's office back to the original patent or a reasonable root of title. Montana counties are sparsely staffed compared to their Texas equivalents, so turnaround on a courthouse pull can take longer than you'd expect for a rural county with a small population.",
+    "While title runs, you'll get a mineral deed to review, along with an escrow instruction sheet. Escrow is standard on these deals precisely because the buyer doesn't want to release funds until the deed is recorded clean, and you don't want to sign away the interest before you're paid. A title company or attorney holds the funds, the deed gets recorded at the courthouse, and once the recorded document comes back showing no competing claims, funds are released. In Montana that whole loop commonly runs a few weeks depending on how fast the county can turn the recording."
+   ]
+  },
+  {
+   "heading": "Fractional interests and heirship in Montana",
+   "paragraphs": [
+    "A lot of Montana mineral ownership traces back to homestead-era patents that got split among children and grandchildren over multiple generations without anyone updating the courthouse record. If you're only holding a small fractional interest, say a sixteenth or a sixty-fourth from an old family estate, the deed you sign needs to describe that fraction precisely, tied back to the original conveying instrument, or the title company will kick it back.",
+    "If the interest passed through a probate that was never finalized, or an heir died intestate, that has to get cleared before closing. It doesn't necessarily kill the deal, but it usually means an affidavit of heirship or a short probate action needs to happen first, and any reputable buyer will tell you that up front rather than surprise you at the closing table."
+   ]
+  },
+  {
+   "heading": "Non-participating royalty vs. mineral fee",
+   "paragraphs": [
+    "Montana has a fair number of non-participating royalty interests floating around, especially on older Powder River Basin tracts where the mineral fee and the royalty were split at some point in the ownership history. It matters which one you hold, because an NPRI owner generally can't sign an oil and gas lease and doesn't have executive rights, which changes what a buyer is actually purchasing and how the deed needs to be worded. Read your existing deed or the most recent division order carefully before you talk value with anyone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does closing take on a Montana mineral purchase?",
+   "answer": "It varies with county workload, but a typical Richland or Sheridan County closing runs two to four weeks from signed offer to funded escrow. Powder River Basin tracts with older or thinner title can run longer if the examiner needs to trace an interest back further."
+  },
+  {
+   "question": "Do I need a lawyer to sell my Montana minerals?",
+   "answer": "It's not required, but if your interest passed through an unresolved estate or you're unsure of your exact fractional share, a short consult with an attorney or your CPA before you sign anything is worth the cost."
+  },
+  {
+   "question": "What's the difference between selling minerals and just leasing them?",
+   "answer": "A lease is temporary and pays you a bonus plus ongoing royalty as long as the well produces. A mineral purchase transfers the underlying ownership permanently, typically for an upfront payment reflecting the value of future production, calculated against your recent royalty history and current activity in the area."
+  },
+  {
+   "question": "Why does the buyer insist on escrow instead of paying me directly at signing?",
+   "answer": "Escrow protects both sides. You don't release the deed until the title company confirms funds are ready to disburse, and the buyer doesn't release funds until the deed is recorded and shows a clean chain of title. Neither party is exposed to the other backing out mid-transaction."
+  },
+  {
+   "question": "My family owns a small fractional interest from an old homestead. Is that still worth pursuing?",
+   "answer": "Small fractional interests are common in Montana and are routinely bought, but the deed has to reference your exact share and the instrument that created it. Pull your most recent division order or a copy of the deed from the courthouse before requesting an offer."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1047
+}

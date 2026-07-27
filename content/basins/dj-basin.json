@@ -1,0 +1,83 @@
+{
+ "slug": "dj-basin",
+ "title": "DJ Basin Mineral Rights",
+ "type": "basin",
+ "group": "CO/WY/NE",
+ "primaryKeyword": "dj basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "DJ Basin Mineral Rights Purchase Process",
+ "metaDescription": "Selling DJ Basin minerals near Colorado's Wattenberg Field? Here's how setback rules, Niobrara/Codell benches, and closing actually work.",
+ "heroLead": "Colorado regulates where and how a well can be drilled near homes and schools more tightly than most states, and that overlay shows up directly in DJ Basin diligence.",
+ "intro": [
+  "The Denver-Julesburg Basin centers on the Wattenberg Field in Weld County, Colorado, one of the most densely drilled oil and gas fields in the country, with development also extending into Wyoming and Nebraska on the basin's edges. Most DJ Basin minerals we evaluate already have some production or permitting history, since the core field has been drilled continuously for decades and intensively so over the last ten years with horizontal development.",
+  "What sets a DJ Basin purchase apart from other basins isn't the mineral transfer mechanics — those follow the standard title, offer, escrow, closing sequence — it's the regulatory layer around surface access and setbacks that operators have to navigate, which can affect permitting timelines and, in turn, how we assess near-term activity on a specific tract."
+ ],
+ "sections": [
+  {
+   "heading": "Setback rules and what they mean for permitting activity",
+   "paragraphs": [
+    "Colorado's oil and gas regulator, the Energy and Carbon Management Commission, enforces statewide setback distances between wells and occupied buildings that are stricter than in most producing states, and Weld County's own land use rules add another layer on top. In practice, this means some tracts near residential development have seen permitting slow or shift to different well pad locations than would be typical elsewhere, while rural core-field acreage away from rooftops continues to see active horizontal drilling. We check current permit filings and pad locations for your specific section, since setback exposure varies block by block within the same county."
+   ]
+  },
+  {
+   "heading": "Niobrara and Codell bench activity",
+   "paragraphs": [
+    "Wattenberg Field development targets the Niobrara chalk, typically across its A, B, and C benches, along with the Codell sandstone just below it, often in the same multi-well pad. Because this field has been developed in phases over many years, some tracts have older vertical wellbores from decades ago still on the books alongside newer horizontal units, and division orders can reflect both. We review the full well history for your tract, not only the most recent horizontal unit, since older interests sometimes carry different royalty terms that still affect your current statement."
+   ]
+  },
+  {
+   "heading": "Closing and proration on Wattenberg Field interests",
+   "paragraphs": [
+    "Weld County's records are well digitized, and most DJ Basin tracts we purchase are already producing, so closing typically includes proration of the most recent royalty check to the exact closing date. Escrow holds the purchase funds until title is confirmed clean and the operator's division order team has what it needs to process the transfer, which for an active Wattenberg tract is usually a straightforward, well-documented process compared to more rural basins."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "For a producing Wattenberg Field tract, a recent royalty statement and the current division order let us confirm your decimal interest quickly, since Weld County operators generally maintain well-organized records. For acreage that's leased but not yet producing, we work from the lease and any current permit filings for your section.",
+    "If your tract has both older vertical wellbore history and a newer horizontal unit, providing whatever historical statements you have helps us build a complete picture, though we can also reconstruct much of that history directly from operator and county records if your own files are incomplete."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do Colorado setback rules affect whether my minerals get drilled?",
+   "answer": "They can affect where and when a well pad is sited near your acreage, particularly close to residential areas, but they don't eliminate development rights. We check current permitting activity for your specific tract rather than assuming setbacks stop drilling outright."
+  },
+  {
+   "question": "What's the difference between the Niobrara and Codell on my division order?",
+   "answer": "They're separate producing zones often developed together from the same pad but sometimes carrying different unit configurations or historical lease terms. We review both when they apply to your tract so the offer reflects the full picture, not only the most recent well."
+  },
+  {
+   "question": "Is Weld County title research faster than other basins?",
+   "answer": "Generally yes. Weld County's clerk and recorder records are well digitized, which usually keeps title review and closing timelines shorter than basins with more rural, less digitized counties."
+  },
+  {
+   "question": "Can I sell if my tract has an old vertical well plus a newer horizontal unit?",
+   "answer": "Yes. We review the complete well history, including legacy vertical wellbores, to make sure the offer accounts for every producing interest tied to your minerals, not only the most recent development."
+  },
+  {
+   "question": "Does an older vertical well on my tract affect a newer horizontal unit's value?",
+   "answer": "It can add documentation to review but doesn't reduce value on its own. We check the full well history so the offer reflects everything tied to your minerals."
+  },
+  {
+   "question": "Do you purchase minerals near residential development where setbacks apply?",
+   "answer": "Yes. Setback rules affect where a well can be sited, not whether your minerals can be sold. We check current and likely future activity for your specific tract before making an offer."
+  },
+  {
+   "question": "Does a multi-well pad near my tract change how my interest is valued?",
+   "answer": "It can, since a densely developed pad often means more completed wells contributing to your unit. We review the full pad history rather than pricing off a single well."
+  }
+ ],
+ "wordCount": 891,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-dj-basin-mineralrightspurchase-com.jpg",
+  "alt": "DJ Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

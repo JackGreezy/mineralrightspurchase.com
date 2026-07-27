@@ -1,0 +1,8 @@
+qa-out/
+content
+images
+data
+*.ref
+public/assets-f/js
+public/assets-f/img
+public/assets-f/media

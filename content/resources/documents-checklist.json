@@ -1,0 +1,78 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents You Need to Sell Mineral Rights: The Closing Folder",
+ "metaDescription": "Everything that typically goes in the closing folder for a mineral rights sale, from the original deed to the division order, and where to find each one.",
+ "heroLead": "Think of this as the folder a buyer will eventually ask you to build. Starting it early is the single easiest way to shorten your own closing.",
+ "intro": [
+  "Every mineral rights sale ends up needing roughly the same stack of paperwork, whether the interest is producing or not. Some of it you'll already have; some of it a title company will pull for you during their own research. Knowing the difference ahead of time keeps you from scrambling once an offer is on the table.",
+  "Not every document below applies to every seller. Treat this as a checklist to work through, not a requirement that every line be filled before you can start a conversation with a buyer."
+ ],
+ "sections": [
+  {
+   "heading": "Proof of ownership",
+   "paragraphs": [
+    "The most important document is whatever deed or instrument shows how you acquired the mineral interest, whether that's a deed from a previous purchase, a will or probate order if you inherited it, or a trust document if the interest is held in a trust. If you don't have the original, the county clerk or recorder's office where the minerals sit can usually provide a certified copy for a small fee.",
+    "For inherited interests where the deceased owner's name is still on record, you may also need an affidavit of heirship or a probate order showing how the interest passed to you, particularly if it changed hands more than once across generations without being formally re-deeded each time."
+   ]
+  },
+  {
+   "heading": "Production and payment history",
+   "paragraphs": [
+    "If the interest is producing, gather recent royalty check stubs or the operator's monthly statements, ideally the last twelve to twenty-four months if you have them. This is what a buyer uses to build the pricing multiple, and more history generally leads to a more confident offer rather than a conservative one hedged for uncertainty.",
+    "Also useful, though not always available to you directly: your most recent division order, which shows the decimal interest the operator has you recorded at, and any prior division orders if your interest changed size over time."
+   ]
+  },
+  {
+   "heading": "Lease and legal paperwork",
+   "paragraphs": [
+    "If your minerals are under an active lease, gather a copy of it, along with any amendments or ratifications signed since. This tells a buyer the royalty rate, the lease term, and whether it's held by production or approaching expiration, all of which affect value. If there's no current lease, note that as well, since unleased minerals get priced differently than leased ones.",
+    "Also worth pulling together: any correspondence from operators about pooling, unitization, or proposed drilling, since these often signal upcoming activity that a buyer will want to know about."
+   ]
+  },
+  {
+   "heading": "Identification and closing logistics",
+   "paragraphs": [
+    "At closing you'll need government-issued identification for notarization, and if the interest is held by an entity, formation documents and proof of who's authorized to sign on the entity's behalf. Have your current mailing address and, if applicable, direct deposit information ready as well, since that's what gets updated on the new division order after closing."
+   ]
+  },
+  {
+   "heading": "Documents specific to inherited or multi-owner interests",
+   "paragraphs": [
+    "When minerals passed through a family across more than one generation without formal re-deeding at each step, gather whatever you can find connecting each transfer: death certificates, wills, and any probate court records. If a formal probate never happened, an affidavit of heirship prepared by an attorney can often bridge the gap, though the specific requirements vary by state.",
+    "If the interest is currently owned jointly by siblings or other relatives, having everyone's current contact information ready early helps, since most closings require every owner to sign, and tracking down a co-owner who's moved or lost touch with the rest of the family is one of the more common sources of delay."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I've lost my original deed?",
+   "answer": "That's common, especially with older or inherited interests. A certified copy can typically be obtained from the county clerk's office where the property is located for a modest fee."
+  },
+  {
+   "question": "Do I need my royalty statements if my minerals aren't leased or producing?",
+   "answer": "No. Unleased or non-producing minerals are priced on comparable sales and nearby activity instead, so payment history isn't part of that picture."
+  },
+  {
+   "question": "What is an affidavit of heirship and when do I need one?",
+   "answer": "It's a sworn statement establishing how a deceased owner's interest passed to heirs when there was no formal probate proceeding, or the deed was never updated. Title companies commonly require one for inherited interests without a clean paper trail."
+  },
+  {
+   "question": "Can I start the sale process before I've gathered every document?",
+   "answer": "Yes. Buyers can typically start title work with just a general sense of location and ownership and pull most of what's needed from county records as the process moves forward."
+  },
+  {
+   "question": "Who actually orders the title search, me or the buyer?",
+   "answer": "Almost always the buyer or their title company orders and pays for title work as part of due diligence, since it's their funds at risk if the title turns out to have a defect."
+  }
+ ],
+ "wordCount": 852,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-mineralrightspurchase-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

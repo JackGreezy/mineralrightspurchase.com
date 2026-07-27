@@ -1,0 +1,70 @@
+{
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "metaTitle": "Selling Mineral Rights From Out of State | Remote Closing Steps",
+ "metaDescription": "You don't need to visit the county to sell mineral rights you hold from another state. Here's how notarization, mail, and e-closing actually work.",
+ "heroLead": "Living a thousand miles from the county where your minerals sit doesn't add a trip to the closing, it just moves the same paperwork through the mail or a remote notary instead.",
+ "intro": [
+  "A meaningful share of mineral owners have never set foot on the ground they hold rights to. The interest came through a grandparent who homesteaded in a county the family hasn't lived in for decades, or through a spouse's side that relocated generations ago, and the current owner is managing royalty statements and lease offers from another state entirely, sometimes without much confidence about who to even call locally.",
+  "None of that changes how the sale closes. Mineral deeds are recorded in the county where the minerals are located regardless of where the signing happens, and the mechanics for signing at a distance are well established, used constantly for exactly this kind of ownership."
+ ],
+ "sections": [
+  {
+   "heading": "How signing works when you're not local",
+   "paragraphs": [
+    "The deed has to be notarized, but the notary doesn't need to be in the county, or even the state, where the minerals sit. Any licensed notary where you live can notarize your signature, and most title companies handling these deals mail the closing package to the seller directly, with clear instructions on where to sign and where the notary stamps. Some closings now use remote online notarization, where the signing and notarization both happen over a live video session, which several states have formally authorized and more are adopting.",
+    "Once notarized, the deed goes back to the buyer or their title company, who handles recording it in the correct county. The seller never needs to interact with that county clerk's office directly, and in most cases never needs to travel there at all."
+   ]
+  },
+  {
+   "heading": "Verifying the county and legal description from a distance",
+   "paragraphs": [
+    "One real challenge for absentee owners is confirming the legal description matches what you actually own, especially if the paperwork you have at home is old, incomplete, or refers to the property the way it was described decades ago rather than how the county indexes it now. A buyer's title examiner does this verification independently by pulling county records directly, so you're not solely responsible for getting the legal description perfect from memory or old paperwork.",
+    "What helps most is providing whatever documentation you do have, old deeds, division order paperwork, prior royalty statements, even if you're not sure it's complete or current, so the examiner has a starting point rather than working from the county index alone."
+   ]
+  },
+  {
+   "heading": "Getting proceeds without a local bank trip",
+   "paragraphs": [
+    "Closing funds for mineral sales are almost always disbursed by wire transfer or check mailed directly to the seller, not handled in person, so there's no need for a local bank visit tied to the closing itself. Wire instructions are typically confirmed by phone with the title company as a fraud-prevention step, worth doing regardless of distance since wire fraud targeting real estate and mineral closings has become common enough that legitimate closers expect and welcome that verification call.",
+    "If multiple heirs or co-owners in different states are closing together, each person's funds are typically disbursed separately according to their fractional share, so there's no need to coordinate a single shared payment among family members spread across different states."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to travel to the county where my minerals are located to sell them?",
+   "answer": "No. The deed is recorded in that county, but signing happens wherever you live, using a local notary or a remote online notarization session, and the closing package is handled by mail or courier."
+  },
+  {
+   "question": "Can a notary in a different state notarize my mineral deed?",
+   "answer": "Yes. Notarization is tied to where you sign, not where the property is located. Any licensed notary in your own state can notarize the deed for county recording elsewhere."
+  },
+  {
+   "question": "What if I don't have the exact legal description for my interest?",
+   "answer": "That's normal for older or inherited interests. The buyer's title examiner pulls the legal description independently from county records, so provide whatever paperwork you have even if it's incomplete, and they'll confirm the rest."
+  },
+  {
+   "question": "How do I receive payment if I live in a different state than the minerals?",
+   "answer": "By wire transfer or mailed check, the same as any mineral closing. Distance doesn't change disbursement, though expect a verification call to confirm wire instructions as a standard fraud-prevention step."
+  },
+  {
+   "question": "Is remote online notarization legally valid for a mineral deed?",
+   "answer": "In states that have authorized it, yes, and more states continue to adopt it. Where it's not yet available, traditional in-person notarization with a local notary works just as well for a mailed closing package."
+  },
+  {
+   "question": "What if my mailing address doesn't match what the county has on file?",
+   "answer": "That's common after a move or two and is easy to correct with a current government ID at signing. It generally doesn't slow down closing, though it's worth updating your address with the operator separately so future royalty statements and any correspondence reach you without delay."
+  }
+ ],
+ "status": "written",
+ "wordCount": 860,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-mineralrightspurchase-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

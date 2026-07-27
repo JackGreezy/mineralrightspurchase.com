@@ -1,0 +1,57 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * forma-djr-micro:
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e0
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e1
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e2
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e3
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e4
+ *   - http://typekit.com/eulas/00000000000000003b9ae4e5
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-11-16 21:05:37 UTC"}*/
+
+@import url("/assets-f/css/dbe34126d77312.css");
+
+@font-face {
+font-family:"forma-djr-micro";
+src:url("/assets-f/fonts/b489a9c306913d.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-micro";
+
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-micro";
+
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-micro";
+src:url("/assets-f/fonts/2dccd0e51078ac.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-micro";
+
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-micro";
+src:url("/assets-f/fonts/f891c3804c0578.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-forma-djr-micro { font-family: "forma-djr-micro",sans-serif; }

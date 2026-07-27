@@ -1,0 +1,73 @@
+{
+ "slug": "fractional-mineral-interests",
+ "title": "Fractional & Small Interests",
+ "type": "situation",
+ "note": "tiny undivided interests, many heirs",
+ "metaTitle": "Selling Small Fractional Mineral Interests | Closing Basics",
+ "metaDescription": "A 1/64th undivided interest with a dozen co-owners can still close as a standalone sale. Here's how buyers price and close tiny mineral fractions.",
+ "heroLead": "A mineral interest that's been divided four generations deep, down to a fraction most owners can't even picture, is still a title asset a buyer can close on its own.",
+ "intro": [
+  "Every generation an original tract of minerals passes to heirs without being consolidated, the ownership fraction gets smaller. A great-grandparent's 1/4 mineral interest becomes four grandchildren's 1/16 each, then their children's 1/64 or 1/128, and so on. By the time a current owner gets a royalty statement, they're often looking at a decimal interest with more zeros than they know what to do with, wondering whether an interest that small is even worth the paperwork to sell.",
+  "It usually is, because the sale of a fractional interest doesn't require consolidating with co-owners first. Mineral interests are undivided, meaning every co-owner holds a right to the whole tract proportional to their fraction, not a right to a specific carved-out corner of it. That structure is exactly what makes a fractional sale possible without anyone else's participation."
+ ],
+ "sections": [
+  {
+   "heading": "Why undivided ownership makes small sales possible",
+   "paragraphs": [
+    "Because each heir's share is undivided rather than staked out on the ground, a single co-owner can convey their fraction alone, with a deed that identifies the decimal or fractional interest by name and legal description of the tract. The buyer steps into that same undivided position, becoming one more co-tenant among however many others already exist, with no need to survey, partition, or get sign-off from the rest of the family.",
+    "That's different from surface real estate, where a small undivided share in a house is nearly impossible to sell to anyone but a co-owner. Mineral fractions trade on their own because the buyer isn't acquiring a place to live, just the right to royalty income and lease bonus proportional to that fraction, which functions the same whether it's a 1/4 interest or a 1/512th."
+   ]
+  },
+  {
+   "heading": "How the decimal interest gets confirmed before closing",
+   "paragraphs": [
+    "The number that matters at closing is the net mineral acre or decimal interest figure, and it has to be verified two ways: against the deed history in the county records, and against what the operator has on file for division order purposes if the tract is producing. Those two numbers occasionally don't match, usually because a prior generation's deed was recorded with a fraction of a fraction that got miscalculated, or because a partial sale by an ancestor decades ago was never reflected in later royalty statements.",
+    "Sorting that mismatch out before closing, rather than after, avoids a title curative process holding up funding. If your royalty checks and your deed history tell different stories about the size of your interest, that's worth raising with the buyer early rather than assuming the smaller of the two numbers is automatically correct."
+   ]
+  },
+  {
+   "heading": "Why buyers still pursue tiny fractions",
+   "paragraphs": [
+    "It's a fair question why anyone would build a closing file, run a title check, and pay recording fees for an interest that might represent a few dollars a month in royalty income. The answer is that fractional interests aggregate. A buyer consolidating dozens of small fractions across the same section or unit ends up with a position that behaves, for management and negotiating leverage purposes, like a single larger interest, even though it was assembled one small deed at a time from unrelated heirs.",
+    "For the seller, that means a small fraction isn't a nuisance to a buyer the way it might be to a landman trying to lease it, it's exactly the kind of piece that fits the strategy. The closing costs on a small deal are proportionally the same as a large one, but they don't scale the price down disproportionately, so a tiny interest still closes on fair, market-consistent terms relative to its size."
+   ]
+  },
+  {
+   "heading": "Multiple heirs, one small tract",
+   "paragraphs": [
+    "It's common for a fractional interest to be held by several living siblings or cousins simultaneously, each with their own smaller slice of the original share. Each of those co-owners can sell independently, on their own timeline, without needing the others to agree. Some families choose to coordinate and sell together in one transaction for simplicity, and a buyer can usually accommodate that with separate deeds executed at the same closing, but it's a convenience, not a requirement.",
+    "Where heirship itself hasn't been formally documented, meaning the current holders never recorded an affidavit of heirship or went through probate after the original owner passed, that gap has to be closed before a deed from that generation will record cleanly. It's a common step with old family fractions and usually a straightforward one once the family history is laid out."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my mineral interest too small to sell?",
+   "answer": "Almost never on its own merits. Because mineral interests are undivided, even a fraction well under one percent can be conveyed by deed and closed as a standalone sale, independent of how many other co-owners exist."
+  },
+  {
+   "question": "Do my siblings or cousins have to agree before I sell my share?",
+   "answer": "No. Each co-owner of an undivided mineral interest can sell their own fraction independently. Other heirs keep their shares and their own decision about whether and when to sell."
+  },
+  {
+   "question": "What if my royalty checks show a different interest size than the deed history?",
+   "answer": "That mismatch is worth flagging early. It usually traces back to a miscalculated fraction-of-a-fraction in an old deed or a prior partial sale that wasn't reflected in later division orders, and it typically gets resolved before closing rather than after."
+  },
+  {
+   "question": "Why would a buyer want such a small interest?",
+   "answer": "Small fractions aggregate. A buyer acquiring several small interests across the same section builds a position that functions like one larger holding, so tiny interests fit the strategy rather than being a nuisance."
+  },
+  {
+   "question": "What if the heirship on my family's interest was never formally recorded?",
+   "answer": "That's common with older family fractions. An affidavit of heirship or a probate filing usually needs to close that gap before a new deed from the current generation will record cleanly, and it's a standard part of curing title on older interests."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1033,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-mineralrightspurchase-com.jpg",
+  "alt": "Fractional & Small Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

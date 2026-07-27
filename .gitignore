@@ -1,0 +1,9 @@
+.vercel
+node_modules
+.DS_Store
+qa-out/
+public/assets-f/img/
+public/assets-f/media/
+public/assets-f/js/
+public/*.ref
+public/assets-f/css/*.gzip

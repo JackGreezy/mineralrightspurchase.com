@@ -1,0 +1,77 @@
+{
+ "slug": "permian-basin",
+ "title": "Permian Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX/NM",
+ "primaryKeyword": "permian basin mineral rights",
+ "seo": {
+  "vol": 20,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Permian Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Permian Basin minerals in the Midland or Delaware sub-basin? Learn how stacked-pay diligence, unit allocation, and closing actually work.",
+ "heroLead": "The Permian Basin is really two basins stitched together under one name, and the first question in any purchase is which side of it your minerals sit on.",
+ "intro": [
+  "When someone says they own \"Permian Basin\" minerals, that tells a buyer almost nothing about value or process until we know whether the tract sits in the Midland Basin or the Delaware Basin, and which county line it falls on. The two sub-basins have different operators, different stacked formations, and different title histories, so the purchase workflow bends around geography from the first phone call.",
+  "What stays constant is the transaction shape: we pull the deed and lease chain, confirm what interest you actually hold, run it against current production or permitting activity, and structure a purchase and sale agreement with a closing date tied to how clean the title comes back."
+ ],
+ "sections": [
+  {
+   "heading": "Why stacked pay changes the diligence checklist",
+   "paragraphs": [
+    "Permian tracts commonly have three, four, or more separate producing intervals stacked under the same surface acreage — Spraberry, Wolfcamp A through D, Bone Spring, Avalon, and older conventional zones below all of it. A single county road and 40-acre tract might have one horizontal well draining the upper Wolfcamp and a completely different operator running a unit through the Bone Spring two thousand feet deeper. That means diligence isn't a single lookup; it's a bench-by-bench review of every formation with an active or permitted unit touching your acreage.",
+    "This is also where valuation gets misread by sellers who compare notes with a neighbor. Two adjoining tracts can carry very different worth if one sits under three completed benches and the other only has permits filed on one. We walk through the permitting and completion history bench by bench during diligence, not because it's academic, but because it directly changes what interest is actually being priced."
+   ]
+  },
+  {
+   "heading": "Allocation wells and how they affect your check",
+   "paragraphs": [
+    "Much of the recent Permian horizontal development uses allocation wells, where a single wellbore crosses multiple leases and production is allocated back to each tract by a formula tied to lateral footage rather than a formal pooling order. If your minerals are under an allocation well, the division order analyst needs the allocation schedule, not only the unit designation, to confirm your decimal interest is correct before we close.",
+    "We request the allocation well agreement and the operator's decimal calculation as part of diligence on any Midland or Delaware Basin tract that's already producing. Mismatches between the recorded allocation and what a royalty statement is actually paying are common enough that we check this before making an offer, not after."
+   ]
+  },
+  {
+   "heading": "Closing mechanics on producing versus non-producing tracts",
+   "paragraphs": [
+    "On a producing Permian tract, escrow holds funds until the title runs clean and the operator confirms in writing that a transfer order can be processed, and we typically prorate the most recent royalty check based on the closing date so neither side collects for a period they didn't own the interest. On acreage that's leased but not yet producing — common on the Delaware side where permitting has outpaced completion — closing is simpler because there's no revenue stream to prorate, but we still confirm the lease hasn't expired and that no held-by-production clause is in dispute.",
+    "County clerk turnaround varies a lot across the Permian footprint. Midland and Ector County records are largely digitized; some of the smaller New Mexico counties on the Delaware side still require a courthouse visit to pull the full chain, which we build into the closing timeline up front so nobody is surprised by a two-week gap."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A current division order and recent royalty statements are the most useful documents for a producing Permian interest, since they let us confirm your decimal interest against the active spacing or allocation unit quickly. For non-producing, permitted acreage, we work primarily from the lease and current permit filings for your specific section."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I'm in the Midland Basin or the Delaware Basin?",
+   "answer": "It comes down to county and, sometimes, which side of the Central Basin Platform your section falls on. We confirm this from your deed's legal description during the first review; it's one of the first things we check because it determines which formations and operators are even relevant."
+  },
+  {
+   "question": "Does owning under multiple stacked benches mean a faster closing?",
+   "answer": "Not necessarily faster, but it usually means more diligence line items since each bench can have its own operator, lease, and production history. We still hold to a normal escrow timeline; there's just more to verify before funds release."
+  },
+  {
+   "question": "What if my minerals are permitted but no well has been drilled yet?",
+   "answer": "We still purchase permitted, non-producing Permian interests. Valuation depends heavily on how advanced the permit is and which operator holds it, so pricing conversations are framed around activity and comparable recent transactions rather than a fixed number."
+  },
+  {
+   "question": "Who handles the division order after closing?",
+   "answer": "Once title transfers, we submit the recorded deed and required documentation directly to the operator's division order department. You aren't responsible for that paperwork; we track it through to confirmation that future checks are issued correctly."
+  },
+  {
+   "question": "Can two adjoining tracts really be priced very differently?",
+   "answer": "Yes, if one sits under more active or completed benches than the other. We price against documented formation-level activity for your specific tract, not neighborhood comparisons."
+  }
+ ],
+ "wordCount": 917,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-permian-basin-mineralrightspurchase-com.jpg",
+  "alt": "Permian Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

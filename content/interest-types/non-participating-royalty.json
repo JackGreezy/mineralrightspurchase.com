@@ -1,0 +1,65 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling an NPRI | Why Executive Rights Aren't in the Deed",
+ "metaDescription": "An NPRI conveys income with no say over leasing. Here's why that missing executive language matters at closing and how it differs from a regular royalty.",
+ "heroLead": "The defining feature of a non-participating royalty interest shows up as an absence in the deed: no executive rights language, on purpose, and that absence is what makes it what it is.",
+ "intro": [
+  "A non-participating royalty interest, NPRI, is a royalty carved out of the mineral estate with one specific limitation built into its creation: the owner has no right to negotiate, execute, or consent to leases on the tract, no matter how large their royalty percentage is. The mineral owner, or whoever holds the executive right, retains full authority to lease the property, choose the operator, and set bonus and royalty terms, while the NPRI holder simply receives their fixed royalty share once and if production happens.",
+  "This is different from a regular royalty interest mainly in emphasis. Most royalty interests already lack executive rights by their nature, but an NPRI specifically originates as a carve-out from the mineral estate with that limitation explicitly named at creation, which matters because the deed conveying it, and any deed selling it later, has to reflect that limitation precisely rather than leave it ambiguous."
+ ],
+ "sections": [
+  {
+   "heading": "Why the deed's silence on executive rights matters",
+   "paragraphs": [
+    "When an NPRI was originally created, typically by a mineral owner reserving or conveying a royalty share while explicitly keeping the leasing authority for themselves, the creating instrument used specific language excluding executive rights, bonus, and delay rentals from what was granted. When you sell that NPRI later, the assignment or deed needs to carry forward that same limitation clearly, so the buyer understands they're acquiring a pure income right with zero say over future leasing decisions on the tract.",
+    "A buyer's title examiner reviewing an NPRI sale traces back to the original creating instrument specifically to confirm the non-participating limitation was properly established and has carried through every subsequent transfer without accidentally being broadened into a fuller mineral or royalty interest along the way, which does happen with imprecise deed language in older transfers."
+   ]
+  },
+  {
+   "heading": "What happens when the mineral owner leases without you",
+   "paragraphs": [
+    "Because the NPRI holder has no leasing authority, the mineral owner can sign a lease, set the bonus amount, and negotiate the royalty rate entirely without the NPRI holder's input or consent. Most states impose some duty of good faith on the executive, meaning the mineral owner generally can't structure a lease specifically to disadvantage the NPRI holder, like accepting an artificially low royalty rate in exchange for an inflated bonus that only the executive keeps, but the NPRI holder still has no vote in the process itself.",
+    "For a buyer evaluating an NPRI, this means the interest's value is tied to how actively the mineral owner is likely to lease the tract, which is a layer of dependency that doesn't exist with a straight mineral interest where the buyer would hold that leasing authority directly."
+   ]
+  },
+  {
+   "heading": "Confirming your NPRI's fraction and depth coverage",
+   "paragraphs": [
+    "As with other severed interests, the fraction the NPRI applies to and whether it covers all depths or only certain formations depends entirely on the original creating instrument's language. It's common for NPRIs created decades ago to cover only the depths being drilled at the time, which for many legacy interests meant shallower formations, leaving deeper horizons later targeted by horizontal drilling outside the NPRI's scope entirely, depending on exactly how the original grant was worded.",
+    "Reading that original instrument, rather than only a recent deed in your name, is what settles the actual scope of an NPRI being sold, and it's worth having that document in hand before a sale is priced rather than assuming it matches whatever the most recent royalty statement implies."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What makes an NPRI different from a regular royalty interest?",
+   "answer": "Both lack executive rights, but an NPRI specifically originates as a carve-out from the mineral estate with that limitation explicitly stated at creation, and any sale of it has to carry that limitation forward clearly in the deed."
+  },
+  {
+   "question": "Can the mineral owner lease the tract without telling me?",
+   "answer": "Generally yes, the mineral owner holds sole executive authority. Most states require some good-faith duty toward the NPRI holder in how the lease is structured, but the NPRI holder has no consent right over the decision itself."
+  },
+  {
+   "question": "Does my NPRI cover every formation or just certain depths?",
+   "answer": "That depends entirely on the original instrument that created it. Older NPRIs sometimes cover only the depths being drilled at the time of creation, which can exclude deeper formations targeted by more recent horizontal drilling."
+  },
+  {
+   "question": "Can I sell my NPRI even though I have no leasing authority?",
+   "answer": "Yes. An NPRI is a fully transferable income right on its own, separate from the executive right, and sells through a deed or assignment that carries forward the same non-participating limitation to the buyer."
+  },
+  {
+   "question": "How does a buyer value an NPRI differently than a regular royalty?",
+   "answer": "Value depends partly on how likely the mineral owner is to actively lease the tract, since the NPRI holder has no control over that decision, adding a layer of dependency a straight mineral interest wouldn't carry."
+  }
+ ],
+ "status": "written",
+ "wordCount": 872,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-mineralrightspurchase-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

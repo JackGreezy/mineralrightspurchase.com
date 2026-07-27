@@ -1,0 +1,77 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Mineral Rights: Basis, 1099s, Withholding",
+ "metaDescription": "A plain-language walkthrough of how selling mineral rights gets taxed, covering cost basis, capital gains treatment, 1099 reporting, and closing-table withholding.",
+ "heroLead": "The tax side of a mineral rights sale trips up more sellers than the deed does, mostly because nobody explains cost basis before the closing statement shows up.",
+ "intro": [
+  "Selling mineral rights is a taxable event, and how it gets taxed depends on details that are specific to your situation: how you acquired the interest, how long you held it, and whether you were also receiving royalty income beforehand. This page explains the mechanics in plain terms so the paperwork at closing makes sense before you see it.",
+  "This is general information, not tax advice. Confirm your specific situation with your CPA before closing, particularly around basis and holding period, since those two details drive most of the outcome."
+ ],
+ "sections": [
+  {
+   "heading": "Cost basis: the number that determines your gain",
+   "paragraphs": [
+    "Your taxable gain is the sale price minus your cost basis in the interest, not the full sale price. If you purchased the minerals yourself, basis is generally what you paid. If you inherited them, basis is typically stepped up to the fair market value on the date of the previous owner's death, which for long-held family minerals can mean a much smaller taxable gain than the sale price alone would suggest.",
+    "Establishing basis on inherited or very old interests can be the hardest part of the tax picture, since there may be no records from decades back. A CPA can often reconstruct a reasonable basis using historical valuation methods, but this is worth starting before closing, not after."
+   ]
+  },
+  {
+   "heading": "Capital gains treatment and holding period",
+   "paragraphs": [
+    "For most owners, a sale of mineral rights is treated as a sale of real property, taxed under capital gains rules. If you held the interest for more than a year, it typically qualifies for long-term capital gains rates, which are usually more favorable than ordinary income rates. Interests acquired and sold within a year are typically treated as short-term gains instead.",
+    "This is separate from how royalty income itself was taxed while you owned the interest. Royalty payments received before the sale are ordinary income, often with a depletion deduction available; the sale itself is a different transaction with its own gain calculation."
+   ]
+  },
+  {
+   "heading": "1099 reporting and closing-table paperwork",
+   "paragraphs": [
+    "At closing, you'll typically complete a W-9 for the buyer or title company, and depending on how the transaction is structured, you may receive a 1099-S reporting the gross proceeds of the sale, separate from any 1099-MISC you received historically for royalty income. Keep both, and keep the closing statement itself, since it documents the sale price your CPA will need alongside your basis figure.",
+    "If you held mineral rights in an LLC, trust, or as part of an estate still in probate, the reporting can get more involved, and it's worth looping in whoever handles that entity's tax filings before, not after, the sale closes."
+   ]
+  },
+  {
+   "heading": "Withholding at closing",
+   "paragraphs": [
+    "Domestic sellers generally don't face automatic tax withholding at closing the way real estate transactions sometimes require for foreign sellers under FIRPTA-type rules. If you are a non-resident alien or the interest is held by a foreign entity, withholding requirements can apply and should be flagged to the title company well before closing so it isn't a surprise on the settlement statement."
+   ]
+  },
+  {
+   "heading": "State-level considerations",
+   "paragraphs": [
+    "Some states impose their own capital gains or income tax on the sale of mineral rights located within that state, separate from federal treatment, and the rate and rules vary considerably depending on where the property sits. If the minerals are located in a different state than where you live, you may owe tax to both, with a credit sometimes available on your home state return to avoid double taxation. This is another detail worth raising with your CPA well before closing rather than after the settlement statement arrives."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to pay taxes on money from selling mineral rights?",
+   "answer": "Yes, the sale is a taxable event, generally taxed as a capital gain on the difference between the sale price and your cost basis. Confirm the specifics with your CPA."
+  },
+  {
+   "question": "What if I don't know my cost basis because I inherited the minerals?",
+   "answer": "Inherited interests typically get a stepped-up basis to fair market value at the date of the previous owner's death. A CPA can help reconstruct this using historical valuation records if you don't have an appraisal from that time."
+  },
+  {
+   "question": "Is selling mineral rights taxed differently than receiving royalty checks?",
+   "answer": "Yes. Royalty income is ordinary income taxed as it's received, often with a depletion deduction, while the sale itself is typically a separate capital gains event calculated against your basis."
+  },
+  {
+   "question": "Will I get a 1099 for selling my mineral rights?",
+   "answer": "Often you'll receive a 1099-S reporting gross proceeds from the sale, distinct from any 1099-MISC tied to prior royalty payments. Keep the closing statement alongside it."
+  },
+  {
+   "question": "Can I do a 1031 exchange with mineral rights?",
+   "answer": "Mineral rights can sometimes qualify for like-kind exchange treatment since they're generally treated as real property, but the rules are specific and this is a question to bring to your CPA before closing, not after."
+  }
+ ],
+ "wordCount": 864,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-mineralrightspurchase-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

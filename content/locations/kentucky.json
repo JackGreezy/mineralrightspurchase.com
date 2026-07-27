@@ -1,0 +1,68 @@
+{
+ "slug": "kentucky",
+ "title": "Sell Mineral Rights in Kentucky",
+ "type": "state",
+ "group": "Appalachian edge, Illinois basin",
+ "primaryKeyword": "mineral rights kentucky",
+ "seo": {
+  "vol": 50,
+  "cpc": 0.08
+ },
+ "metaTitle": "Sell Mineral Rights in Kentucky: The Closing Steps",
+ "metaDescription": "Kentucky's broad form deeds and split coal and gas title make purchase closings different in the east than the west. Here is how the title check and closing actually work.",
+ "heroLead": "In eastern Kentucky, the deed language your great-grandfather signed a hundred years ago is still the first thing a title examiner reads before any purchase can move forward.",
+ "intro": [
+  "Kentucky's mineral ownership divides geographically. In the eastern part of the state along the Appalachian edge, coal and gas rights were frequently severed from the surface through so-called broad form deeds in the late 1800s and early 1900s, language that has generated decades of litigation over what the mineral owner was actually entitled to do. In western Kentucky, interests tied to the Illinois basin's shallow oil production carry fewer of these historic complications but still require careful chain-of-title work.",
+  "This page walks through the broad form deed question for eastern Kentucky owners, what a western Kentucky purchase typically involves, and the county recording and closing mechanics that apply statewide."
+ ],
+ "sections": [
+  {
+   "heading": "Broad form deeds and the surface owner protection question",
+   "paragraphs": [
+    "A broad form deed typically granted the mineral owner sweeping rights to extract coal or other minerals using whatever method was convenient, including methods like surface mining that were not common when the deed was signed. Kentucky's legislature and courts have addressed this over the decades, including protections that limit surface-disturbing extraction methods unless the surface owner consents, so a title examiner reviewing a purchase involving an old broad form deed will check how current law treats that specific grant.",
+    "If your interest traces to a broad form deed, this does not prevent a sale, but a buyer's examiner will want to confirm exactly what rights the deed conveys under current Kentucky law before finalizing an offer, since the practical value of the interest depends partly on what extraction methods remain legally available."
+   ]
+  },
+  {
+   "heading": "Split coal and gas title",
+   "paragraphs": [
+    "It is common in eastern Kentucky for coal rights and oil and gas rights to have been severed separately over the years, sometimes to different owners entirely. If you are selling what you believe is a combined mineral interest, confirm whether your deed actually covers both coal and gas, or only one, since a buyer focused on natural gas production has no interest in coal rights you may not even hold, and vice versa.",
+    "Western Kentucky's Illinois basin acreage generally does not carry this same split-title complexity, since oil has historically been the primary resource of interest there, but the same general principle applies: confirm exactly which minerals your deed conveys before agreeing to a sale."
+   ]
+  },
+  {
+   "heading": "County Clerk recording and title examination",
+   "paragraphs": [
+    "Kentucky deeds are recorded with the County Clerk in the county where the mineral interest is located. A title examiner will trace your chain of title through recorded deeds, wills, and probate records, paying particular attention in eastern Kentucky to how many times the mineral estate was severed from the surface and from other mineral types over the decades.",
+    "If your interest passed through inheritance without formal probate, Kentucky examiners will typically require either a properly executed heirship affidavit for simpler estates or formal probate documentation for larger or contested ones before a sale can close."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, funds are typically held in escrow through a title company or closing attorney until the mineral deed is signed and notarized. The closing statement itemizes the purchase price, any prorated royalty owed for production before closing, and the net amount paid to you.",
+    "The deed is recorded with the County Clerk, and the buyer sends a copy to the operator to update the division order. If your sale involves a coal and gas split, make sure the deed language is specific about exactly which mineral type is being conveyed, since ambiguous language here is one of the more common sources of future title disputes in this part of the state."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is a broad form deed and does it affect my mineral rights sale?",
+   "answer": "It is an older type of Kentucky mineral deed, common in the eastern part of the state, that granted broad extraction rights to the mineral owner. Kentucky law has since limited some surface-disturbing extraction methods under these deeds, so a title examiner will check how current law treats your specific deed before a purchase closes."
+  },
+  {
+   "question": "Do I own coal rights, gas rights, or both?",
+   "answer": "This depends entirely on your specific deed language. In eastern Kentucky especially, coal and oil and gas rights were often severed separately over the decades, so it is worth reviewing your deed carefully or having a title examiner confirm exactly what you hold before agreeing to a sale."
+  },
+  {
+   "question": "Where are Kentucky mineral deeds recorded?",
+   "answer": "With the County Clerk in the county where the mineral interest is located, which is also the office a title examiner checks for the prior chain of deeds, wills, and probate filings."
+  },
+  {
+   "question": "Is western Kentucky Illinois basin acreage simpler to sell than eastern Kentucky coal country?",
+   "answer": "Generally yes, since western Kentucky interests typically do not carry the same history of severed coal and gas title or broad form deed litigation, though standard chain-of-title and heirship work still applies to any older family-held interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 874
+}

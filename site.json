@@ -1,0 +1,23 @@
+{
+ "domain": "mineralrightspurchase.com",
+ "keyword": "mineral rights purchase",
+ "segment": "national-core",
+ "intent": "commercial",
+ "tier": "Top priority",
+ "available": true,
+ "voice": "Oklahoma City closing-table teacher: patient, chronological, glossary-driven, and explicit about every document that moves a mineral purchase toward recording",
+ "angle": "purchase-file sequence from owner and interest identification through decimal reconciliation, title cure, settlement, signatures, funding, recording, and payor transfer",
+ "taxonomyCounts": {
+  "locations": 24,
+  "basins": 23,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "investing": 10,
+  "exchange-1031": 10,
+  "pages": 7
+ },
+ "totalPages": 106,
+ "reference": "https://www.easternshipbuilding.com/",
+ "status": "built"
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "new-mexico",
+ "title": "Sell Mineral Rights in New Mexico",
+ "type": "state",
+ "group": "Delaware basin (Lea/Eddy), San Juan",
+ "primaryKeyword": "mineral rights new mexico",
+ "seo": {
+  "vol": 70,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in New Mexico | Delaware & San Juan",
+ "metaDescription": "Lea, Eddy, or San Juan County minerals? New Mexico's mix of federal, state, and private ownership changes how a purchase gets structured and closed.",
+ "heroLead": "Before anyone can tell you what a New Mexico mineral interest is worth, they need to know exactly what kind of interest you actually hold.",
+ "intro": [
+  "New Mexico produces from two very different corners of the state, and the ownership picture around each one is unusually layered. Lea and Eddy counties sit in the New Mexico half of the Delaware Basin, the deepest and currently busiest part of the wider Permian, with county seats at Lovington and Carlsbad. Up in the northwest, San Juan County holds one of the country's oldest gas basins, produced continuously since the 1920s, with legacy coalbed methane and conventional wells layered on top of newer activity.",
+  "What makes New Mexico different from a state like Texas is how much of the subsurface is federal or state trust land rather than straight private fee minerals. If you own private minerals in Lea or Eddy County, you're likely sitting next to federal BLM tracts and New Mexico State Land Office tracts within the same spacing unit, and that mix shapes both your royalty math and how a buyer structures a purchase."
+ ],
+ "sections": [
+  {
+   "heading": "Federal, state trust, and private minerals side by side",
+   "paragraphs": [
+    "A single horizontal well in the Delaware Basin can be spaced across a unit that includes BLM federal minerals, New Mexico State Land Office trust minerals, and privately owned fee minerals all in the same pooled unit. Federal and state trust minerals aren't for sale to a private buyer, obviously, but understanding that your private tract sits in that mix matters, because operators sometimes report royalty differently across ownership types within the same unit, and a buyer will want to see your division order to confirm exactly what share of what unit you're being paid on before valuing your interest."
+   ]
+  },
+  {
+   "heading": "Split estate and surface use in the Permian counties",
+   "paragraphs": [
+    "Lea and Eddy County minerals are frequently severed from the surface, meaning the rancher running cattle on the land isn't necessarily the mineral owner, and the mineral owner may live somewhere else entirely, sometimes out of state, having inherited the interest from a relative who ranched there decades ago. That's a normal setup and doesn't complicate a sale by itself, but it does mean the buyer's title search is working strictly off the county real property records in Lovington or Carlsbad rather than any assumption based on who's currently working the surface."
+   ]
+  },
+  {
+   "heading": "San Juan Basin's older, quieter title chains",
+   "paragraphs": [
+    "San Juan County minerals often carry a longer paper trail simply because the basin has been producing since before most current owners were born. Leases there may have been assigned and reassigned multiple times across different operators as fields changed hands over the decades, and coalbed methane rights were sometimes severed separately from conventional oil and gas rights in the same tract during the CBM boom of the 1990s. A title examiner working a San Juan County deed needs to confirm which rights you actually hold before a purchase agreement is drafted, since selling your conventional interest doesn't automatically include any separately-held coalbed methane rights, or the reverse."
+   ]
+  },
+  {
+   "heading": "How the closing runs once value is agreed",
+   "paragraphs": [
+    "New Mexico closings follow the same core structure as anywhere else: a title company runs the county records, drafts a mineral deed matching your exact recorded interest, and holds funds in escrow until that deed is signed, recorded at the county clerk's office, and confirmed to show no competing claim. Because of the layered federal, state, and private ownership common in Lea and Eddy County units, expect the title examiner to specifically confirm your interest is fee simple private minerals and not a royalty interest carved out of a federal or state lease, since those are handled through entirely different channels."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell my minerals if part of my spacing unit includes federal or state trust land?",
+   "answer": "Yes. You can only sell what you privately own, but your private fee minerals within a mixed unit are fully transferable. The buyer's title work simply confirms your specific recorded share within that unit."
+  },
+  {
+   "question": "What's the difference between my oil and gas rights and coalbed methane rights in San Juan County?",
+   "answer": "In some older San Juan Basin tracts, CBM rights were severed and conveyed separately from conventional oil and gas rights during the 1990s boom. Check your deed language carefully, since a buyer purchasing your conventional minerals may not be acquiring any separately held CBM interest."
+  },
+  {
+   "question": "How long does closing take in Lea or Eddy County?",
+   "answer": "Typically three to five weeks. These are busy counties with high transaction volume, so the courthouse process is well-worn, but confirming your interest against a complex mixed-ownership unit can add review time."
+  },
+  {
+   "question": "Do I need to involve an attorney given how complicated New Mexico ownership sounds?",
+   "answer": "Not required, but if your interest touches a mixed federal-state-private unit or you're unsure whether you hold CBM rights separately, a brief consult with a New Mexico oil and gas attorney or your CPA before signing is a reasonable precaution."
+  }
+ ],
+ "status": "written",
+ "wordCount": 861
+}

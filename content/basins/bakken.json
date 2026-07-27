@@ -1,0 +1,83 @@
+{
+ "slug": "bakken",
+ "title": "Bakken Mineral Rights",
+ "type": "basin",
+ "group": "ND/MT",
+ "primaryKeyword": "bakken mineral rights",
+ "seo": {
+  "vol": 90,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Bakken Mineral Rights Purchase Guide",
+ "metaDescription": "Selling North Dakota or Montana Bakken minerals? Learn how Three Forks bench stacking and Fort Berthold trust land affect a purchase.",
+ "heroLead": "If your Bakken minerals sit within the Fort Berthold Reservation, the sale may need Bureau of Indian Affairs sign-off in addition to the usual county paperwork.",
+ "intro": [
+  "The Bakken and underlying Three Forks formation across western North Dakota and eastern Montana represent one of the largest horizontal oil plays in the country, developed intensively since the mid-2000s with dense, multi-well pad drilling. Most Bakken tracts we evaluate today have substantial production history, since this basin moved from early delineation to full-scale development faster than almost any other modern shale play. Ownership here ranges from straightforward private fee minerals to interests tied to tribal trust and allotted land within the Fort Berthold Reservation, home to the Mandan, Hidatsa, and Arikara Nation, which changes the transfer process significantly.",
+  "The standard purchase sequence applies across the basin, but confirming ownership type and, separately, which formation bench your interest is tied to are the two things that shape everything else."
+ ],
+ "sections": [
+  {
+   "heading": "Fort Berthold trust and allotted minerals",
+   "paragraphs": [
+    "A significant share of Bakken and Three Forks development sits on or near the Fort Berthold Reservation, where minerals can be held in tribal trust or as individual Indian allotments rather than private fee ownership. Transferring a trust or allotted interest requires approval through the Bureau of Indian Affairs, a process with its own documentation requirements and timeline distinct from a standard county deed transfer. We confirm ownership status at the start of diligence for any Fort Berthold-area tract, since this determines the entire path to closing."
+   ]
+  },
+  {
+   "heading": "Middle Bakken and Three Forks bench stacking",
+   "paragraphs": [
+    "Much of the basin's core development targets both the Middle Bakken and the Three Forks formation immediately below it, and the Three Forks itself is often subdivided into multiple separately targeted benches in the most active areas. A single spacing unit may have wells completed in more than one of these intervals over time as operators refined their development plans, so we review the full well history for your specific unit, not only the most recent well, since older and newer wells can be tied to different formation benches with different division order treatment."
+   ]
+  },
+  {
+   "heading": "Proration and closing on producing North Dakota tracts",
+   "paragraphs": [
+    "For producing tracts in core counties like McKenzie, Mountrail, and Williams, North Dakota county records are generally well organized, and closing follows the standard sequence of title confirmation, escrow, and proration of the most recent royalty check to the closing date. For interests touching Fort Berthold trust land, we build the additional BIA approval timeline into the schedule from the outset so expectations are set correctly before closing begins."
+   ]
+  },
+  {
+   "heading": "Non-operated interests and working interest sellers",
+   "paragraphs": [
+    "While most of what we purchase in the Bakken is royalty or mineral interest, some owners also hold small non-operated working interests from early participation elections, particularly on Fort Berthold-adjacent units where owners were offered a working interest option during pooling or leasing. Working interest carries drilling and operating cost exposure that royalty interest doesn't, so we evaluate it under a different framework, reviewing lease operating statements alongside production data.",
+    "If you're not sure whether you hold royalty, mineral, or working interest, that's a common question and one we sort out early using your division order or JOA documentation before any pricing conversation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my minerals are on Fort Berthold trust land?",
+   "answer": "This is established in your title history and, for trust or allotted interests, in Bureau of Indian Affairs records rather than a standard county deed alone. We confirm this early in diligence since it determines the entire transfer process."
+  },
+  {
+   "question": "Does a trust land sale take longer to close?",
+   "answer": "Generally yes, since it requires Bureau of Indian Affairs approval in addition to standard title work. We coordinate that process directly and set a realistic timeline from the start rather than promising a standard closing date."
+  },
+  {
+   "question": "What's the difference between my Middle Bakken and Three Forks interests?",
+   "answer": "They're separate producing intervals that can be developed by different wells over time, sometimes years apart, under the same spacing unit. We review your full well history to confirm which formations are actually generating your current royalty income."
+  },
+  {
+   "question": "Is Bakken development still active, or has it slowed like some other shale plays?",
+   "answer": "Core McKenzie and Mountrail County areas have continued seeing horizontal development, though the pace varies with oil pricing like any basin. We check current permitting and completion activity for your specific tract rather than assuming a constant pace."
+  },
+  {
+   "question": "How do I know if I hold royalty interest or working interest?",
+   "answer": "Your division order or, for working interest, a joint operating agreement will specify this. If you're unsure, send us what you have and we'll confirm before discussing pricing."
+  },
+  {
+   "question": "What if my unit includes both a Fort Berthold trust portion and private minerals?",
+   "answer": "We confirm the specific status of your individual interest rather than the whole unit, since ownership type is determined tract by tract, not by what else sits inside the same spacing unit."
+  },
+  {
+   "question": "How often do division orders get corrected in this basin?",
+   "answer": "Corrections happen periodically as operators refine allocation calculations across multi-well pads. We compare your current statement against the division order specifically to catch any mismatch before closing."
+  }
+ ],
+ "wordCount": 882,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-bakken-mineralrightspurchase-com.jpg",
+  "alt": "Bakken Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

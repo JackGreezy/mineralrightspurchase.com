@@ -1,0 +1,72 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained: What Happens After Closing",
+ "metaDescription": "What a division order is, why operators require one after a mineral rights sale, and how transfer orders redirect royalty payments to the new owner.",
+ "heroLead": "The deed makes the sale legal. The division order is what actually makes the operator start paying the right person.",
+ "intro": [
+  "A division order is one of the least understood documents in a mineral rights transaction, mostly because it shows up at the very end, after the price is agreed and the deed is signed, when everyone's attention has already moved on. It's also one of the documents that most directly affects when royalty checks actually start arriving in the new owner's name.",
+  "This page explains what a division order is, why it exists separately from the deed, and what to expect in the weeks after closing."
+ ],
+ "sections": [
+  {
+   "heading": "What a division order actually is",
+   "paragraphs": [
+    "A division order is a statement, issued by the operator, showing the decimal interest they've calculated for each owner in a well or unit, and how they intend to pay royalties based on that decimal. It's the operator's own accounting document, not a title document, which is why the deed and the division order are handled separately even though they're connected.",
+    "The decimal interest reflects your ownership fraction combined with the royalty rate in the governing lease, translated into a single number the operator's payment system uses. A common decimal might look like 0.00234375, representing a small fractional share of total production from a spacing unit that may include hundreds of net mineral acres and multiple owners."
+   ]
+  },
+  {
+   "heading": "Why buyers need a new one after closing",
+   "paragraphs": [
+    "When you sell your interest, the operator is still paying royalties under your old division order until they're formally notified of the sale and issue a new one in the buyer's name. This is why closing on a producing interest doesn't instantly redirect payments. The buyer typically sends the operator a copy of the recorded deed along with a transfer order or a request to update the division order.",
+    "Operators process these on their own schedule, and it's genuinely normal for this step to take one to three royalty payment cycles, sometimes longer if the operator's division order department has a backlog or if the sale involves a fractional interest that requires recalculating decimals for multiple owners in the unit."
+   ]
+  },
+  {
+   "heading": "What sellers should watch for",
+   "paragraphs": [
+    "If you sell a producing interest, you may receive one or two more royalty checks after closing before the operator's paperwork catches up. Depending on how your purchase agreement was written, those checks may need to be forwarded to the buyer or accounted for in a post-closing settlement, so it's worth confirming which approach applies before you deposit anything.",
+    "It's also worth double-checking that the decimal interest on any new division order you're asked to sign matches what you actually own or sold. Errors happen, especially in units with many small owners, and signing a division order with an incorrect decimal can be harder to unwind after the fact than catching it beforehand."
+   ]
+  },
+  {
+   "heading": "How this ties back to the closing paperwork",
+   "paragraphs": [
+    "The purchase agreement itself often addresses division order timing directly, spelling out who's entitled to production revenue for the period straddling the closing date and how any checks that arrive under the seller's name after closing should be handled. Reading that section carefully before signing avoids a confusing conversation later about a check that shows up weeks after the deed was already recorded.",
+    "For buyers, tracking down every operator involved when a seller holds interests spread across multiple units or wells can take longer than the closing itself, since each operator has its own division order department working on its own timeline, independent of how quickly the deed was recorded at the courthouse. Patience here is normal, not a sign that something has gone wrong with the sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a division order the same as a deed?",
+   "answer": "No. The deed is the legal instrument that transfers ownership. The division order is the operator's internal accounting document that determines how royalty checks get calculated and mailed."
+  },
+  {
+   "question": "How long after closing until royalty checks go to the new owner?",
+   "answer": "It commonly takes one to three payment cycles for an operator to process the transfer and issue a new division order, though this varies by operator and can take longer if paperwork is incomplete."
+  },
+  {
+   "question": "What if I get a royalty check after I've already sold my interest?",
+   "answer": "This happens when the operator hasn't yet processed the transfer. Whether that check gets forwarded to the buyer or handled through a post-closing adjustment depends on how your purchase agreement addressed it."
+  },
+  {
+   "question": "Do I have to sign a new division order to sell my interest?",
+   "answer": "Signing a division order isn't what transfers ownership, the deed does that, but the buyer will typically need to sign or acknowledge a new one for the operator to begin paying them directly."
+  },
+  {
+   "question": "Can a division order decimal be wrong?",
+   "answer": "Yes, particularly in units with many owners or complicated fractional interests. It's worth reviewing the decimal against your known ownership share before signing anything the operator sends."
+  }
+ ],
+ "wordCount": 851,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-mineralrightspurchase-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

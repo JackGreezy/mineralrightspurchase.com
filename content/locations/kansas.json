@@ -1,0 +1,68 @@
+{
+ "slug": "kansas",
+ "title": "Sell Mineral Rights in Kansas",
+ "type": "state",
+ "group": "Mississippian, Hugoton",
+ "primaryKeyword": "mineral rights kansas",
+ "seo": {
+  "vol": 40,
+  "cpc": 4.84
+ },
+ "metaTitle": "Sell Mineral Rights in Kansas: The Closing Process",
+ "metaDescription": "The Kansas Marketable Record Title Act changes how old mineral interests are proven. Here is how a purchase moves from title check to recorded deed in this state.",
+ "heroLead": "Kansas has a statute most other states do not, and if your mineral interest sits on land where the surface has changed hands several times, it is worth understanding before you sign anything.",
+ "intro": [
+  "Kansas mineral ownership splits between two very different plays: the Mississippian lime trend across south-central Kansas, developed with horizontal wells over the past fifteen years, and the Hugoton field in the southwest corner of the state, one of the largest natural gas fields in the country and still producing from wells drilled generations ago. Both sit on top of a legal wrinkle unique to Kansas that any seller should know about going in.",
+  "This page covers the Kansas Marketable Record Title Act, what it means for a mineral interest severed from the surface, and how the purchase itself proceeds once ownership is confirmed."
+ ],
+ "sections": [
+  {
+   "heading": "The Marketable Record Title Act and dormant mineral interests",
+   "paragraphs": [
+    "Kansas law generally requires a mineral interest that has been severed from the surface estate to be used, leased, or otherwise asserted within a set period, commonly referenced against a thirty-three or forty year look-back depending on when the severance occurred, or the interest can be treated as merged back into the surface owner's title unless a preservation notice was filed. If your family's mineral interest has been dormant for a long stretch without a lease, royalty payment, or filed notice, a buyer's title examiner will check whether the interest survived under this statute before making an offer.",
+    "This is not usually a problem for interests tied to Hugoton field acreage, since that field has been continuously producing for decades, which itself typically preserves the interest. It is more relevant for Mississippian lime acreage that sat undeveloped for long periods before horizontal drilling reached it, where an owner may need to confirm a preservation notice was filed at some point to avoid a title question."
+   ]
+  },
+  {
+   "heading": "Mississippian lime horizontal units",
+   "paragraphs": [
+    "Mississippian lime development uses horizontal wells across pooled units, similar in concept to Oklahoma's STACK and SCOOP plays just across the state line. If your original interest predates horizontal drilling in your area, your decimal share of production likely changed when your tract was incorporated into a larger unit, and a buyer's examiner will want the pooling order or unit agreement alongside your original deed to confirm your current interest.",
+    "Because Mississippian lime wells can have a steeper initial decline than the long, flat production curves typical of Hugoton gas wells, buyers here often weight recent royalty history more heavily than a longer historical average."
+   ]
+  },
+  {
+   "heading": "Register of Deeds recording and title examination",
+   "paragraphs": [
+    "Kansas mineral deeds are recorded with the Register of Deeds in the county where the interest sits. A title examiner will pull your deed, prior conveyances, and any relevant pooling orders, and will also check the county records for any preservation notices or lease activity relevant to the Marketable Record Title Act question described above.",
+    "If your interest passed through inheritance, bring probate records or a will along with any prior recorded deeds. Kansas examiners generally accept a properly executed heirship affidavit for straightforward estates, though larger or contested estates may require formal probate before a sale can close."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, funds are typically held in escrow with a title company until the mineral deed is signed and notarized. The closing statement itemizes the purchase price, any prorated royalty owed for production before closing, and the net amount paid to you.",
+    "After closing, the deed is recorded with the Register of Deeds, and the buyer sends a copy to the operator so the division order reflects the new owner. If your interest was affected by the Marketable Record Title Act question, ask the buyer to confirm in writing exactly what curative steps were taken, since that documentation protects both sides if the title is ever questioned later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the Kansas Marketable Record Title Act and does it affect my mineral rights?",
+   "answer": "It is a state law that can cause a long-dormant mineral interest to merge back into the surface owner's title unless it was used, leased, or preserved by a filed notice within a set statutory period. It mainly matters for interests that sat undeveloped for decades without any lease or royalty activity."
+  },
+  {
+   "question": "Why did my Mississippian lime royalty decimal change after a new horizontal well was drilled?",
+   "answer": "Horizontal wells are typically drilled across pooled units covering more acreage than the original vertical-well spacing, so your share of production is recalculated based on your tract's proportion of the new, larger unit."
+  },
+  {
+   "question": "Where are Kansas mineral deeds recorded?",
+   "answer": "With the Register of Deeds in the county where the mineral interest is located, which is the same office a title examiner checks for prior deeds, pooling orders, and preservation notices."
+  },
+  {
+   "question": "My family's mineral interest in Kansas has never been leased. Is it still valuable?",
+   "answer": "It can be, but confirm the interest was preserved under the Marketable Record Title Act if it has been dormant for several decades. A title examiner can typically make this determination as part of the standard purchase review."
+  }
+ ],
+ "status": "written",
+ "wordCount": 880
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "black-warrior-basin",
+ "title": "Black Warrior Basin Mineral Rights",
+ "type": "basin",
+ "group": "AL",
+ "primaryKeyword": "black warrior basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Black Warrior Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Alabama Black Warrior Basin coalbed methane minerals? Learn how CBM gas ownership questions and mature production affect a sale.",
+ "heroLead": "In coalbed methane country, the gas rights and the coal rights aren't always owned by the same party, and that split is one of the first things we check on a Black Warrior Basin tract.",
+ "intro": [
+  "The Black Warrior Basin in west-central Alabama was one of the pioneering coalbed methane, or CBM, plays in the country, developed heavily starting in the 1980s, producing natural gas from coal seams rather than conventional or shale reservoirs. It's a mature basin today, with most wells decades into a long production life, and ownership here carries a specific complexity worth understanding before any purchase: gas produced from coal seams has, in various instances, been treated as belonging to the coal estate rather than the traditional oil and gas mineral estate, depending on how older conveyances were worded.",
+  "That ownership question, along with the basin's long production maturity, shapes how we approach diligence here more than anything else."
+ ],
+ "sections": [
+  {
+   "heading": "Why coal ownership and CBM gas ownership can be separate",
+   "paragraphs": [
+    "Where land was historically conveyed with the coal reserved separately from the oil and gas, older deed language sometimes didn't clearly address who owns methane gas contained within the coal seam itself, since coalbed methane wasn't a commercially produced resource when many of those older reservations were written. This has been the subject of real legal dispute in coal-producing regions, and the outcome can depend heavily on the specific wording of a decades-old deed. Before we make an offer on a Black Warrior Basin interest, we review the relevant conveyance history to confirm whether you hold the CBM gas rights clearly or whether that ownership needs closer legal review."
+   ]
+  },
+  {
+   "heading": "Mature production and water handling considerations",
+   "paragraphs": [
+    "CBM wells typically require dewatering the coal seam before gas flow ramps up, so early production often shows an unusual curve — rising gas output as water production declines, rather than the immediate peak-then-decline pattern typical of conventional or shale oil wells. Decades into this basin's development, most wells have long since passed that dewatering phase and settled into a mature, low-decline production tail. We evaluate your well's current, settled production level directly rather than comparing it to the ramp-up curve from decades ago."
+   ]
+  },
+  {
+   "heading": "Title review across Alabama's coal and mineral history",
+   "paragraphs": [
+    "Alabama counties in the Black Warrior Basin, including Tuscaloosa, Jefferson, and Walker, have title histories that often reach back to early 20th-century coal and timber land transactions, layered with later oil and gas leasing. We trace this full chain during diligence, paying particular attention to any severance language distinguishing coal, oil and gas, and CBM rights, since getting this wrong is one of the more consequential mistakes possible in this specific basin."
+   ]
+  },
+  {
+   "heading": "What we review before pricing a CBM interest",
+   "paragraphs": [
+    "Beyond the standard deed and lease chain, a Black Warrior Basin review includes a specific look at how the original severance deed treated coal, oil and gas, and any gas associated with the coal seam, since this is the detail that determines whether you clearly hold the CBM gas rights. We also pull current production data directly from the operator or state records to confirm the well's settled, mature output.",
+    "If a severance deed's language is ambiguous about CBM gas ownership, we're upfront about that rather than pricing around it, and we can discuss what additional confirmation, such as a title opinion, might be worth obtaining before a sale closes."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I own the gas rights if my family only kept the oil and gas estate, not the coal?",
+   "answer": "It depends on the specific language in the original severance deed, since coalbed methane ownership has been treated differently than conventional oil and gas rights in some older Alabama conveyances. We review your deed history closely before confirming what you actually hold."
+  },
+  {
+   "question": "Is my well still worth anything if it was drilled decades ago?",
+   "answer": "Many Black Warrior Basin CBM wells continue producing at mature, stable levels long after their initial dewatering phase. We evaluate current production directly rather than assuming an old well is no longer productive."
+  },
+  {
+   "question": "Why did my well's gas production increase for a while after it started, instead of declining right away?",
+   "answer": "This is a normal characteristic of coalbed methane wells, which need to dewater the coal seam before gas flow builds. If your well is decades old, it has almost certainly moved well past that phase into its long-term production pattern."
+  },
+  {
+   "question": "What Alabama counties are part of this basin?",
+   "answer": "Core Black Warrior Basin CBM development centers on counties including Tuscaloosa, Jefferson, and Walker in west-central Alabama, though we confirm activity and title specifics for your exact tract rather than generalizing across the basin."
+  },
+  {
+   "question": "What if my severance deed language on CBM gas is unclear?",
+   "answer": "We're upfront if additional confirmation is needed before a sale. This is a genuine area of legal nuance in coal-producing regions and worth getting right rather than assuming."
+  },
+  {
+   "question": "How do you value a CBM well compared to a conventional oil well?",
+   "answer": "We look at the well's actual current production and decline behavior rather than applying a blanket formula across well types, since CBM wells follow a different production curve than conventional oil and gas wells."
+  }
+ ],
+ "wordCount": 878,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-black-warrior-basin-mineralrightspurchase-com.jpg",
+  "alt": "Black Warrior Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

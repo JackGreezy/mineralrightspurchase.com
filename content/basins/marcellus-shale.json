@@ -1,0 +1,82 @@
+{
+ "slug": "marcellus-shale",
+ "title": "Marcellus Shale Mineral Rights",
+ "type": "basin",
+ "group": "PA/WV",
+ "primaryKeyword": "marcellus shale mineral rights",
+ "seo": {
+  "vol": 10,
+  "cpc": 7.32
+ },
+ "status": "written",
+ "metaTitle": "Marcellus Shale Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Marcellus Shale gas minerals in Pennsylvania or West Virginia? Learn how state-specific pooling law and deduction disputes shape the sale.",
+ "heroLead": "Pennsylvania and West Virginia handle unleased and fractionally owned Marcellus minerals very differently, so which state your tract sits in changes the title conversation from the start.",
+ "intro": [
+  "The Marcellus Shale underlies a broad footprint across Pennsylvania and West Virginia, and it's been one of the most productive natural gas plays in the country for over a decade, which means most Marcellus tracts we evaluate already have a lease and production history behind them. The purchase process follows the standard sequence of title review, offer, escrow, and closing, but two state-specific legal frameworks deserve real attention: how each state treats forced integration of unleased interests, and how post-production cost deductions have played out in each state's courts."
+ ],
+ "sections": [
+  {
+   "heading": "Pennsylvania versus West Virginia pooling and integration law",
+   "paragraphs": [
+    "Pennsylvania's ability to force unleased owners into a producing unit is narrower than in many gas states, generally limited to older statutory frameworks that don't apply cleanly to modern horizontal Marcellus units, which means unleased Pennsylvania tracts more often sit outside a unit entirely rather than being pooled into one. West Virginia, by contrast, has co-tenancy and lease integration statutes that allow an operator to develop a tract even when some fractional owners haven't signed a lease, under specific conditions. We confirm which framework applies to your tract and pull the relevant order or agreement before structuring a purchase, since the two states produce very different documentation trails."
+   ]
+  },
+  {
+   "heading": "Post-production deduction disputes and what they mean for your statement",
+   "paragraphs": [
+    "Pennsylvania has seen significant litigation and regulatory attention over post-production cost deductions on gas royalty statements, with court decisions affecting how much operators can deduct depending on specific lease language, particularly around older leases that predate current market norms. We review your lease's royalty and deduction clauses against your actual statement during diligence, since a lease with unfavorable deduction language can mean a materially lower net royalty than the same gross production would generate under a cleaner lease."
+   ]
+  },
+  {
+   "heading": "Fractional and split-estate ownership across generations",
+   "paragraphs": [
+    "Marcellus tracts, especially in Pennsylvania and northern West Virginia, frequently carry ownership that's been split across generations of heirs, sometimes with the surface owned separately from the minerals going back a century or more. We trace this chain during title review and confirm your specific fractional share against the county record and, where applicable, the operator's division order before making an offer, since older split-estate chains are one of the more common sources of title questions in this play."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent royalty statement showing gross value and any deductions, along with the original lease, are the two most useful documents for a Marcellus Shale review, since together they let us assess both your decimal interest and your actual net royalty economics. For West Virginia interests brought into a unit through integration rather than a signed lease, we request that order or agreement directly.",
+    "Given how often ownership here has split across generations, we also ask about any known co-owners or family members who may hold a share of the same original interest, since identifying them early keeps a multi-heir sale on schedule."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I never leased my Marcellus minerals. Can they still be developed and can I still sell?",
+   "answer": "It depends on your state. West Virginia has integration statutes that can bring unleased fractional owners into a unit under specific conditions; Pennsylvania's forced pooling authority is narrower. We confirm your state's applicable framework and your specific status before structuring an offer."
+  },
+  {
+   "question": "Why does my Pennsylvania royalty check seem lower than expected for the production volume?",
+   "answer": "Pennsylvania has seen real litigation over post-production deduction practices, and older leases sometimes carry language that allows larger deductions than newer leases. We review your lease terms specifically to understand what's driving your net payment."
+  },
+  {
+   "question": "My mineral ownership has been split among many cousins over generations. Is that a problem?",
+   "answer": "It's common in this play and workable. We trace the full chain of conveyances and heirship to confirm each owner's exact fractional share, and we can work with individual family members who want to sell their portion independently."
+  },
+  {
+   "question": "Does it matter whether I'm in Pennsylvania or West Virginia for how quickly we can close?",
+   "answer": "It can. The two states' county recording systems and legal frameworks differ, so timelines vary by county more than by a blanket state rule. We scope the specific timeline for your county early in the process."
+  },
+  {
+   "question": "What if I only hold a small fractional share inherited from a larger family interest?",
+   "answer": "We regularly purchase individual fractional shares. You don't need other family members to participate for us to buy your specific portion, though coordinating together can sometimes simplify title work."
+  },
+  {
+   "question": "Can you purchase minerals that are currently unleased?",
+   "answer": "Yes, we evaluate unleased Marcellus interests as well, pricing against nearby activity and the likelihood of future leasing or integration rather than existing production."
+  },
+  {
+   "question": "Do older, pre-shale-boom conventional leases still exist in this footprint?",
+   "answer": "Some tracts carry older conventional leases predating the Marcellus horizontal boom, occasionally with different terms than a modern horizontal lease. We review whichever lease actually governs your interest."
+  }
+ ],
+ "wordCount": 869,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-marcellus-shale-mineralrightspurchase-com.jpg",
+  "alt": "Marcellus Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

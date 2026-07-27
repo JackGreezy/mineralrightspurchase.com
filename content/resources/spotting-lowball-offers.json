@@ -1,0 +1,81 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer",
+ "metaDescription": "A walkthrough of a weak mineral rights purchase agreement, clause by clause, so you can recognize the patterns that signal an offer isn't a fair one.",
+ "heroLead": "Most lowball offers aren't lowball because of the number on page one. They're lowball because of what's buried in the clauses after it.",
+ "intro": [
+  "It's tempting to judge an offer purely on the dollar figure, but the price is only one part of a purchase agreement, and a mediocre price paired with fair terms can be a better deal than an attractive price paired with terms that quietly take value back. This page walks through a purchase and sale agreement the way a careful reader would, section by section, pointing out where problems tend to hide.",
+  "None of this is a substitute for your own attorney reviewing the actual document in front of you, particularly for larger interests."
+ ],
+ "sections": [
+  {
+   "heading": "The price itself, and what it's compared against",
+   "paragraphs": [
+    "A price with no explanation of how it was derived is a yellow flag on its own. Ask whether it's based on recent royalty history, comparable sales, or neither. If the buyer can't explain the basis for the number, or gets vague when asked, that's often a sign the number was picked to sound reasonable rather than calculated from real data.",
+    "Also worth checking: does the offer letter match the actual purchase agreement, or does the agreement contain a lower number, a smaller interest, or added deductions that weren't mentioned in the initial pitch. This mismatch is one of the more common patterns in a weak deal."
+   ]
+  },
+  {
+   "heading": "Vague or overly broad property descriptions",
+   "paragraphs": [
+    "A fair agreement describes exactly what's being purchased, down to the legal description and the specific interest type. Be cautious of language that sweeps in all interests you own in a county, or all interests you may own now or acquire in the future, rather than the specific tract you intended to sell. This kind of broad language can end up transferring more than you meant to part with."
+   ]
+  },
+  {
+   "heading": "Due diligence periods with no real limit",
+   "paragraphs": [
+    "A reasonable due diligence period, commonly thirty to sixty days, gives the buyer time to run title before funding. A problem arises when that period is open-ended, or when the agreement lets the buyer extend it repeatedly without your consent, effectively tying up your interest indefinitely while giving you no path to walk away if they never close."
+   ]
+  },
+  {
+   "heading": "Escrow and payment terms that skip the neutral third party",
+   "paragraphs": [
+    "A fair closing routes funds and the deed through a title company or escrow agent, so both sides release at the same time. Be wary of any structure asking you to sign and deliver the deed before funds are confirmed in escrow, or one that proposes paying you directly outside of any escrow arrangement at all. Skipping escrow removes the protection that keeps either party from following through only halfway."
+   ]
+  },
+  {
+   "heading": "Warranty type and post-closing obligations",
+   "paragraphs": [
+    "Check what warranty the deed provides, and whether the agreement asks you to indemnify the buyer for title defects discovered years down the road, well past what's typical. A special warranty deed limiting your exposure to your own period of ownership is standard; open-ended personal liability for title issues from before you even owned the interest is not."
+   ]
+  },
+  {
+   "heading": "Pressure tactics dressed up as urgency",
+   "paragraphs": [
+    "A fair transaction can move quickly if you want it to, but be cautious of language or phone calls pushing you to sign within a matter of hours, or implying that a price will drop or disappear if you don't respond immediately. Legitimate pricing is based on data that doesn't expire overnight, and a buyer confident in their number generally doesn't need to rush you past reading the agreement carefully before you sign it, no matter how the conversation is framed or how many times the deadline gets mentioned."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's a fair due diligence period for a mineral rights sale?",
+   "answer": "Thirty to sixty days is typical for a buyer to complete title work. Longer or open-ended periods without a clear outside date are worth questioning."
+  },
+  {
+   "question": "Should I be worried if the buyer won't explain how they priced my offer?",
+   "answer": "It's a reasonable thing to ask about, and a buyer working from real royalty history or comparable sales data should be able to explain their reasoning without difficulty."
+  },
+  {
+   "question": "What does it mean if the agreement covers all my interests in a county, instead of one tract?",
+   "answer": "That kind of broad language can unintentionally transfer more than the specific tract you meant to sell. Read property descriptions carefully and ask for them to be narrowed if needed."
+  },
+  {
+   "question": "Is it normal to sign the deed before I've received payment?",
+   "answer": "Not through a proper escrow closing. Funds and the signed deed should both be held by a neutral title company or escrow agent and released simultaneously, not one before the other."
+  },
+  {
+   "question": "Can I negotiate the terms of a purchase agreement, or just the price?",
+   "answer": "Terms are negotiable just like price, including the warranty type, due diligence timeline, and any post-closing obligations. A buyer unwilling to discuss terms at all is worth a second look."
+  }
+ ],
+ "wordCount": 855,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-mineralrightspurchase-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "eagle-ford-shale",
+ "title": "Eagle Ford Shale Mineral Rights",
+ "type": "basin",
+ "group": "TX",
+ "primaryKeyword": "eagle ford shale mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Eagle Ford Shale Mineral Rights Purchase Guide",
+ "metaDescription": "Selling South Texas Eagle Ford minerals? Learn how held-by-production status, oil/gas window position, and RRC unitization affect the sale.",
+ "heroLead": "Most Eagle Ford leases still active today were signed during the original 2010 to 2014 boom, so the first question in diligence is usually whether that old lease is still legally held.",
+ "intro": [
+  "The Eagle Ford Shale runs across a broad band of South Texas counties, and it's mature enough now that almost every tract we evaluate has an existing lease with real history behind it rather than a fresh permit. That maturity is actually the central fact of an Eagle Ford transaction: production has often declined from its early peak, and whether the original lease is still held by production is the first thing diligence needs to nail down.",
+  "The Eagle Ford is also unusual for how much it varies across its own footprint — from the oil window in the north through the volatile oil and condensate window in the middle to the dry gas window toward the Mexican border — and that position changes both what's being produced and what a reasonable offer looks like."
+ ],
+ "sections": [
+  {
+   "heading": "Held by production and lease status review",
+   "paragraphs": [
+    "A lease signed during the original Eagle Ford boom is typically held past its primary term as long as the well it's tied to keeps producing in paying quantities. If a well has gone to marginal, stripper-level production, or has been shut in for a stretch, that can raise a real question about whether the lease is still validly held, which affects whether the operator has ongoing rights to your minerals or whether they've reverted. We pull the current production record and lease terms together during diligence specifically to answer this before pricing an offer.",
+    "This is one of the more consequential checks in an Eagle Ford purchase because it directly changes what's being sold — a mineral interest under a solidly held, producing lease is a different asset than one where the lease may be lapsing, even on the same tract."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent royalty statement and the original lease are the most useful starting documents, since together they let us confirm both your decimal interest and whether the lease's held-by-production status is likely secure. If your well has gone to marginal or intermittent production, we'll also ask about any recent operator correspondence regarding the well's status.",
+    "Where an interest has passed through inheritance since the original 2010s lease, we help identify what documentation is needed to establish clean title before closing, which is a common step given how many years have now passed since much of the Eagle Ford's original leasing wave."
+   ]
+  },
+  {
+   "heading": "Oil window position and what it means for royalty behavior",
+   "paragraphs": [
+    "Where your tract sits within the Eagle Ford's oil-to-gas gradient affects the character of your royalty check. Oil window counties tend to show steeper initial decline curves with strong early payments that taper faster; the gas window toward the southwest produces more gradually declining volumes tied to gas pricing rather than oil pricing. We review your specific production history against your window position rather than assuming Eagle Ford-wide behavior, since a check from a condensate-window well and one from a dry-gas-window well respond very differently to commodity price swings."
+   ]
+  },
+  {
+   "heading": "Texas Railroad Commission unitization and title",
+   "paragraphs": [
+    "Eagle Ford units are governed by Railroad Commission of Texas unitization rules, and because this play has been drilled in phases over more than a decade, some tracts have gone through multiple unit reconfigurations as operators refined their spacing. We check the current RRC unit designation against your original lease and any amendments, since older leases sometimes predate a later unit boundary change that affects your allocated share."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my Eagle Ford lease is still held by production?",
+   "answer": "We check the well's current production status against the lease's habendum clause terms. If the well is still producing in paying quantities, the lease is generally still held; if production has stopped or dropped to marginal levels for an extended period, that status needs closer review before we structure an offer."
+  },
+  {
+   "question": "Does my county tell you whether I'm in the oil or gas window?",
+   "answer": "Largely, yes. Eagle Ford window position tracks fairly closely with county and even sub-county location, and we confirm your specific position against production data rather than county name alone, since the transition zones aren't perfectly aligned with county lines."
+  },
+  {
+   "question": "Why has my Eagle Ford royalty check declined so much since it started?",
+   "answer": "Shale wells in this play typically show a steep initial decline curve, especially in the oil window, so a large early payment followed by a much smaller ongoing check is normal well behavior, not necessarily a sign of a problem with your interest."
+  },
+  {
+   "question": "Can you buy minerals under an older, marginally producing Eagle Ford well?",
+   "answer": "Yes, we evaluate these regularly. The offer reflects the current, often lower production level and any lease status questions, but marginal production doesn't disqualify a tract from purchase."
+  },
+  {
+   "question": "What if my Eagle Ford lease is close to its primary term expiring?",
+   "answer": "We check current production status directly, since paying production generally extends a lease past its primary term. We'll explain exactly where your specific lease stands before making an offer."
+  }
+ ],
+ "wordCount": 879,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-eagle-ford-shale-mineralrightspurchase-com.jpg",
+  "alt": "Eagle Ford Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

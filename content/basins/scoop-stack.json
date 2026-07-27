@@ -1,0 +1,83 @@
+{
+ "slug": "scoop-stack",
+ "title": "SCOOP & STACK Mineral Rights",
+ "type": "basin",
+ "group": "OK",
+ "primaryKeyword": "scoop stack mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "SCOOP STACK Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Oklahoma SCOOP or STACK minerals? Learn how OCC forced pooling, overlapping formations, and horizontal spacing units shape the sale.",
+ "heroLead": "SCOOP and STACK are two separate horizontal plays stacked in overlapping central Oklahoma counties, and the first job in diligence is figuring out which one, or both, actually applies to your tract.",
+ "intro": [
+  "SCOOP, the South Central Oklahoma Oil Province, and STACK, an acronym covering Sooner Trend fields in Canadian and Kingfisher Counties among others, are two of the most actively drilled horizontal oil and gas plays in Oklahoma over the past decade, targeting the Woodford, Meramec, and other formations across a broad, sometimes overlapping footprint in central Oklahoma. Because both plays developed rapidly with dense horizontal drilling, most tracts in the core fairways already have production or active permitting history to review.",
+  "As with any Oklahoma play, forced pooling is a real possibility here, and confirming whether your interest came from a signed lease or an Oklahoma Corporation Commission pooling order is one of the first steps in diligence, since it determines what documentation governs your interest."
+ ],
+ "sections": [
+  {
+   "heading": "Forced pooling in SCOOP and STACK units",
+   "paragraphs": [
+    "Given how densely these plays have been developed, it's common for unleased owners inside a proposed unit to have been brought in through an OCC pooling order rather than a negotiated lease, with an election among bonus-and-royalty, working interest participation, or another statutory option. We pull the specific pooling order from OCC records when applicable, confirming your election and current payment status, and we structure the closing assignment to reference that order alongside the standard deed so the operator's records and the county clerk's records stay aligned after the sale."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A current division order and recent royalty statements are the most useful documents for a producing SCOOP or STACK tract, letting us confirm your decimal interest against the active unit quickly given how well-organized records tend to be in these core counties. For interests brought in through OCC pooling rather than a lease, we request that order directly as part of diligence.",
+    "If your tract has activity in more than one formation, whatever historical statements you have for each help us build a complete picture, though we can reconstruct most of this directly from operator and county records if needed."
+   ]
+  },
+  {
+   "heading": "Overlapping Woodford and Meramec development",
+   "paragraphs": [
+    "Much of the SCOOP and STACK fairway has stacked pay across the Woodford shale and the Meramec formation above it, sometimes developed by different operators targeting different benches under the same surface acreage, similar in principle to the Permian's stacked-bench structure but with its own distinct formation names and unit history. We check formation-by-formation activity for your specific section, since a tract can be actively producing from the Meramec while the deeper Woodford remains undeveloped, or vice versa, and that materially affects what's being valued."
+   ]
+  },
+  {
+   "heading": "Title and closing in the core Oklahoma counties",
+   "paragraphs": [
+    "Core SCOOP and STACK counties, including Canadian, Kingfisher, Grady, and Garvin, generally maintain solid, reasonably digitized clerk records given how much recent transaction volume has passed through this area. Escrow holds funds until title is confirmed clean, and for producing tracts, we prorate the most recent royalty check to the closing date, consistent with standard practice across Oklahoma horizontal plays."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my tract in SCOOP, STACK, or both?",
+   "answer": "These plays overlap in parts of central Oklahoma, and some tracts sit within both fairways depending on formation. We confirm which play and formation applies to your specific section using current operator and permitting data before structuring an offer."
+  },
+  {
+   "question": "I was never approached to sign a lease. Can I still sell my minerals?",
+   "answer": "Likely yes, if you were force-pooled by an OCC order, which is common in these densely developed plays. We pull the pooling order to confirm your election and current status, then purchase the underlying interest with that order referenced in the closing documents."
+  },
+  {
+   "question": "Can the Meramec and Woodford under my tract be owned or valued differently?",
+   "answer": "They can be developed by different operators on different timelines even under the same acreage. We check activity separately for each formation rather than assuming uniform development across your full stacked interest."
+  },
+  {
+   "question": "How fast do SCOOP and STACK closings typically move?",
+   "answer": "Core counties here generally have solid, digitized records given the volume of recent transactions, so closing timelines tend to be on the faster end once title and, if applicable, pooling order status are confirmed."
+  },
+  {
+   "question": "Do you buy interests that are only leased, not yet producing?",
+   "answer": "Yes, we evaluate leased, permitted acreage in these plays regularly, pricing against documented permitting and operator activity for your specific section."
+  },
+  {
+   "question": "Does the SCOOP and STACK naming convention affect what I actually own?",
+   "answer": "No, these are industry play names describing geographic and geologic trends, not legal ownership categories. What matters for your sale is the specific formation and unit tied to your tract."
+  },
+  {
+   "question": "Are Grady and Garvin Counties developed the same way as Canadian and Kingfisher?",
+   "answer": "Formation depth and target intervals shift somewhat across the fairway, so activity isn't identical county to county. We confirm current operator and formation activity for your specific section."
+  }
+ ],
+ "wordCount": 853,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-scoop-stack-mineralrightspurchase-com.jpg",
+  "alt": "SCOOP & STACK Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

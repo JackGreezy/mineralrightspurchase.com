@@ -1,0 +1,77 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy: Mineral Rights Purchase",
+ "metaDescription": "How we collect, use, and protect the information you share when requesting a mineral rights purchase offer, explained in plain, non-legal language.",
+ "heroLead": "Here is a plain-language explanation of what information we collect, why, and what we do with it, written the same way we explain everything else on this site.",
+ "intro": [
+  "Selling mineral rights involves sharing sensitive information, deeds, royalty statements, sometimes family estate details, and we take that seriously. This policy explains what we collect when you use this site or contact us, how it's used, and what choices you have, without burying the explanation in legal language you'd need a dictionary for."
+ ],
+ "sections": [
+  {
+   "heading": "What information we collect",
+   "paragraphs": [
+    "When you contact us or request an offer, we typically collect what you provide directly: your name, contact information, property location, and any documents you choose to share, such as a deed, division order, or royalty statement. We also collect basic technical information automatically when you visit the site, things like browser type, general location inferred from IP address, and which pages you viewed, which is standard for most websites and helps us understand how the site is being used.",
+    "We do not ask for financial account numbers, Social Security numbers, or other sensitive identifiers through this site. Information like that, if ever needed, would only be requested and handled directly through a title company or escrow agent as part of an actual closing, using their secure process, not through a web form."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "Information you share is used to respond to your inquiry, evaluate your mineral or royalty interest, and prepare a preliminary offer if you've requested one. If a transaction moves forward, information you've provided is used to prepare purchase agreements and coordinate with the title company or escrow agent handling closing.",
+    "We also use aggregated, non-identifying site usage data to understand which pages are useful and where visitors have questions, which helps us improve the explanations on this site over time."
+   ]
+  },
+  {
+   "heading": "How it's protected and who sees it",
+   "paragraphs": [
+    "We limit access to information you share to the people directly involved in evaluating your interest or handling a transaction. We do not sell your personal information to third parties. Information may be shared with a title company, escrow agent, or, where legally necessary, a county recorder's office as part of completing an actual purchase, since those parties are inherently involved in closing a real estate transaction.",
+    "No online system is completely immune to risk, and we take reasonable, standard precautions to protect information transmitted through this site, but we'd also encourage you to avoid sending highly sensitive documents like full account numbers through unsecured email if you have any concern, and to ask us for a more secure alternative if needed."
+   ]
+  },
+  {
+   "heading": "Cookies and third-party tools",
+   "paragraphs": [
+    "This site may use basic analytics tools to understand traffic patterns, which typically involve small text files, cookies, stored in your browser. These tools generally don't identify you personally; they help us see aggregate patterns like which pages are visited most. You can disable cookies through your browser settings, though some site features may not function as intended if you do."
+   ]
+  },
+  {
+   "heading": "Retention and updates to this policy",
+   "paragraphs": [
+    "We keep information tied to an active transaction for as long as reasonably necessary to complete that transaction and satisfy any recordkeeping obligations that come with it, such as documentation a title company or tax authority might later require. Information from an inquiry that never turned into a transaction is generally retained only as long as needed to respond to you, unless you've asked us to keep it on file for a future conversation.",
+    "This policy may be updated periodically to reflect changes in how the site operates or what tools we use. The version posted here at the time you interact with the site is the one that applies. If we make a material change to how we handle information you've already provided, we'll make a reasonable effort to let you know directly rather than only updating this page silently."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will you sell or share my information with unrelated third parties?",
+   "answer": "No. We don't sell personal information. It's shared only with parties directly involved in evaluating or closing your specific transaction, such as a title company, or when required by law."
+  },
+  {
+   "question": "Can I ask what information you have about me?",
+   "answer": "Yes. Reach out through the contact page and we'll tell you what information we have on file connected to your inquiry or transaction."
+  },
+  {
+   "question": "Can I ask you to delete my information?",
+   "answer": "Yes, if you're not actively in a transaction with us, you can request deletion of information you've provided, and we'll honor that request except where we're required to retain records for legal or transactional purposes."
+  },
+  {
+   "question": "Do you use my information for anything besides evaluating my property?",
+   "answer": "We may use aggregated, non-identifying data to improve the site itself, but individual information you provide is used specifically to respond to you and, if applicable, process a transaction."
+  },
+  {
+   "question": "Is it safe to send a copy of my deed or royalty statement through the contact form?",
+   "answer": "It's generally fine for initial evaluation purposes, but if you have particular concerns about sensitive documents, let us know and we can arrange a more secure way to share them."
+  }
+ ],
+ "wordCount": 873,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-mineralrightspurchase-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,51 @@
+{
+  "domain": "mineralrightspurchase.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/mineralrightspurchase.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/mineralrightspurchase.com",
+  "reference": "https://www.easternshipbuilding.com/",
+  "refhost": "easternshipbuilding-com",
+  "biz": "Mineral Rights Purchase",
+  "businessName": "Mineral Rights Purchase",
+  "wordmark_l1": "Mineral Rights",
+  "wordmark_l2": "Purchase",
+  "city": "Oklahoma City",
+  "state": "Oklahoma",
+  "region": "Oklahoma City, the Anadarko Basin, and producing states nationwide",
+  "phone": "405-555-1012",
+  "email": "closing@mineralrightspurchase.com",
+  "address": "210 Park Ave, Oklahoma City, OK 73102",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/pages/mineral-rights-pages-home-mineralrightspurchase-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/mineralrightspurchase.com/site-voice.json",
+  "nav": [
+    [
+      "Situations",
+      "/situations"
+    ],
+    [
+      "Interests",
+      "/interest-types"
+    ],
+    [
+      "Basins",
+      "/basins"
+    ],
+    [
+      "Resources",
+      "/resources"
+    ],
+    [
+      "About",
+      "/about"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
+  ],
+  "cta": [
+    "Open a Purchase File",
+    "/contact"
+  ]
+}

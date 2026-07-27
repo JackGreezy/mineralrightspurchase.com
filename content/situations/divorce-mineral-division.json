@@ -1,0 +1,70 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "metaTitle": "Mineral Rights in Divorce Settlements | Dividing or Selling",
+ "metaDescription": "A divorce decree can order a mineral interest split or sold outright. Learn how the decree functions as a title document and what a buyer needs from it.",
+ "heroLead": "When a divorce decree awards mineral rights to one spouse, that decree becomes part of the title chain a buyer's examiner has to read before closing.",
+ "intro": [
+  "Splitting a marital estate that includes mineral or royalty interests usually goes one of two ways: the decree awards the whole interest to one spouse and offsets it with other assets, or it splits the interest itself between both, leaving two owners of the same tract going forward. Either path can end in a sale, but the documents that make the sale valid look different depending on which route the settlement took.",
+  "The decree itself does real work here. Unlike a straightforward inheritance where a deed transfers title, a divorce decree can act as the transferring instrument on its own in some states, or it can simply order one party to execute a deed to the other. Knowing which kind of decree you have determines whether a buyer's title company needs the decree recorded, a follow-up deed, or both."
+ ],
+ "sections": [
+  {
+   "heading": "When the decree alone transfers title",
+   "paragraphs": [
+    "In several states, a certified divorce decree awarding real property, including minerals, can be recorded in the county records and treated as the operative conveyance, no separate deed required. That's convenient when one spouse has since become unreachable or uncooperative, because the decree does the legal work the missing signature would otherwise need to do.",
+    "Other states won't treat the decree as self-executing for real property. They require the awarded spouse to obtain a deed, sometimes called a special warranty deed pursuant to divorce decree, signed by the other spouse and recorded separately. If that deed was never executed after the divorce finalized, closing a later sale means going back to get it signed now, which is far easier to do at the time of divorce than years afterward when the other spouse has moved, remarried, or is simply hard to locate."
+   ]
+  },
+  {
+   "heading": "Split ownership after the decree",
+   "paragraphs": [
+    "Some settlements divide the mineral interest itself rather than awarding it to one party, leaving each ex-spouse owning an undivided fractional share going forward. That's a legitimate outcome and each owner can independently sell their own share without the other's consent or signature, since undivided mineral interests are freely transferable on their own.",
+    "The wrinkle shows up when both exes eventually want to sell but disagree on price or timing. A buyer can still close with just one party's interest, but if the other spouse's share is small enough to make separate marketing impractical, it sometimes makes sense to negotiate one combined offer covering both shares even though two separate deeds get signed at closing."
+   ]
+  },
+  {
+   "heading": "What the closing file needs",
+   "paragraphs": [
+    "At minimum, expect the buyer to want a certified copy of the divorce decree, the specific pages that address the mineral or royalty interest by legal description, and confirmation of whether that decree was ever recorded in the county where the minerals sit. If it wasn't, recording it as part of the closing package, alongside or ahead of the new deed, is standard and not a red flag.",
+    "If children or a prior marital trust are named contingently in the settlement, the title examiner will also check whether that language creates any restriction on sale, such as a requirement that proceeds be held for a minor beneficiary. That's uncommon for straightforward mineral awards but worth confirming early rather than discovering it after a purchase and sale agreement is already signed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a divorce decree by itself transfer mineral rights?",
+   "answer": "In some states, yes, a certified decree recorded in the county can serve as the conveyance. In others, the decree only orders one spouse to sign a deed, and that follow-up deed has to actually be executed and recorded for title to pass cleanly."
+  },
+  {
+   "question": "What if my ex-spouse never signed the deed after our divorce?",
+   "answer": "It's a common gap. If a deed was required but never executed, it usually has to be obtained now before a sale can close, which is more straightforward the sooner it's addressed rather than after years pass."
+  },
+  {
+   "question": "Can I sell my share if the interest was split between both of us?",
+   "answer": "Yes. Once a mineral interest is divided into separate undivided shares by the decree, each owner holds a distinct, freely transferable interest and can sell independently of the other."
+  },
+  {
+   "question": "Do I need my ex-spouse's permission to sell my awarded share?",
+   "answer": "If the decree clearly awarded the interest to you alone and any required deed was properly executed, no, the interest is solely yours to sell. If title still shows both names, that needs to be resolved first."
+  },
+  {
+   "question": "Will the buyer need the full divorce file or just the decree?",
+   "answer": "Usually just the certified decree pages addressing the mineral interest by legal description, plus proof it was or will be recorded. The rest of the divorce filing generally isn't relevant to the title chain."
+  },
+  {
+   "question": "What if the decree only mentions minerals generally, without a legal description?",
+   "answer": "That's a common gap in older settlements, since the drafting attorney may not have thought in terms of counties, sections, or net mineral acres. It's usually fixable with a confirmatory deed that ties the award to the specific tract by legal description, signed while both parties are still reachable if possible."
+  }
+ ],
+ "status": "written",
+ "wordCount": 906,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-mineralrightspurchase-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

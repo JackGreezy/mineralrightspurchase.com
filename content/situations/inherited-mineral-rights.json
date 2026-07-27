@@ -1,0 +1,73 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights: The Chain You Need Before Closing",
+ "metaDescription": "Inherited minerals close through affidavits of heirship or probate deeds, beyond a simple will. Here's how the ownership chain gets built and verified.",
+ "heroLead": "Inheriting mineral rights doesn't automatically give you a document a buyer can rely on, that document, called an affidavit of heirship or a probate deed, usually has to be created first.",
+ "intro": [
+  "A lot of heirs assume that because they know they inherited the family minerals, and maybe even received a royalty check with their name on it, the ownership is already settled on paper. Often it isn't. County records track title through recorded instruments, not family knowledge, and if the prior owner died without the estate ever going through probate, or without an heirship affidavit being filed, the public record still shows the deceased person as owner. Closing a sale means bridging that gap first.",
+  "How you bridge it depends on how the prior owner died and how long ago. A recent death with a will and an open estate points toward a straightforward executor's deed. An older death, especially one where the family never opened probate because the estate seemed too small to bother with, usually points toward an affidavit of heirship instead. Either path gets you to a closeable deed, but they're not interchangeable and picking the wrong one wastes time."
+ ],
+ "sections": [
+  {
+   "heading": "Affidavit of heirship vs. probate",
+   "paragraphs": [
+    "An affidavit of heirship is a sworn statement, typically from two disinterested people who knew the family, describing who the deceased owner's heirs are under state intestacy law. It doesn't require a judge and it's the standard tool for older deaths where no formal estate was ever opened, particularly common with mineral interests that sat quietly producing small royalty checks for years while the family didn't think to formalize the paperwork.",
+    "Probate is the court process, and it's usually required, or at least strongly preferred by a title examiner, when the death is more recent, when there's a will directing a specific distribution, or when the estate includes enough other assets that it needed formal administration anyway. If probate already happened for other reasons, reopening it or amending the inventory to add the mineral interest is often simpler than a fresh affidavit."
+   ]
+  },
+  {
+   "heading": "What to gather before talking to a buyer",
+   "paragraphs": [
+    "Death certificate for the prior owner, any will if one exists, and whatever deed or probate record shows how that person acquired the interest in the first place. If there have been multiple deaths in the chain, meaning the minerals passed through a grandparent to a parent to you without paperwork at each step, each transfer needs its own supporting document rather than only the most recent one.",
+    "It helps to also pull whatever royalty statements or division order paperwork exists, even old ones, because they often show the decimal interest the operator has on file, which is a useful cross-check against what the deed history implies once it's reconstructed."
+   ]
+  },
+  {
+   "heading": "When multiple heirs inherited together",
+   "paragraphs": [
+    "If you inherited alongside siblings or cousins, each of you holds an undivided fractional share and each can decide independently whether to sell. Some families sell together in one transaction for simplicity, others don't, and there's no requirement that everyone act at once. A buyer can typically close with one heir's share while the others keep theirs, or come back later if additional heirs decide to sell.",
+    "Where an heir is a minor, or where an heir can't be located, that specific share usually needs a guardianship or diligent-search process before it can be conveyed, but that doesn't hold up the other heirs' shares from closing on their own schedule."
+   ]
+  },
+  {
+   "heading": "Keep, lease, or sell",
+   "paragraphs": [
+    "Not every inherited interest needs to be sold, and it's worth thinking through the alternative honestly. If the interest is currently leased and producing steady royalty income, holding it means continuing to receive that income, along with the administrative work of tracking division orders, filing paperwork after every subsequent death in the family, and dealing with operator changes over the decades. If the interest is unleased, non-producing, or scattered across counties you don't live near, the ongoing management cost of holding it starts to weigh more heavily against a sale.",
+    "There's no single right answer, but understanding what selling actually converts, future uncertain royalty income into a present, known sum, versus what holding preserves, is the real decision, not the mechanics of the sale itself."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to go through probate to sell inherited minerals?",
+   "answer": "Not always. If the death was years ago and no formal estate was opened, an affidavit of heirship often substitutes for probate. If the death is recent or there's a will, probate or an executor's deed is usually the cleaner path."
+  },
+  {
+   "question": "What if the minerals passed through two or three deaths in my family without paperwork?",
+   "answer": "Each transfer in the chain typically needs its own supporting document, whether that's an affidavit of heirship or a probate record. It's more work to reconstruct but not unusual, and a buyer experienced with inherited interests can walk you through it step by step."
+  },
+  {
+   "question": "Can I sell my share if my siblings want to keep theirs?",
+   "answer": "Yes. Inherited mineral interests are typically undivided among heirs, so each person's fractional share can be sold independently without the others' consent."
+  },
+  {
+   "question": "How do I find out how big my inherited interest actually is?",
+   "answer": "Old royalty statements or division order paperwork from the operator usually show the decimal interest on file, which can be cross-checked against the deed history once the heirship chain is documented."
+  },
+  {
+   "question": "Should I sell inherited minerals or keep them?",
+   "answer": "It depends on whether the interest is leased and producing versus dormant, how many counties or states it spans, and how much ongoing paperwork you're willing to manage across future generations. Selling converts uncertain future income into a known amount now."
+  }
+ ],
+ "status": "written",
+ "wordCount": 971,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-mineralrightspurchase-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

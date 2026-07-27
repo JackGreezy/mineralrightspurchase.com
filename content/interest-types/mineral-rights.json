@@ -1,0 +1,65 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "Selling Mineral Rights: How the Deed Actually Works",
+ "metaDescription": "A mineral deed conveys the full bundle: executive rights, bonus, delay rentals, and royalty. Here's what that deed language covers and why it matters.",
+ "heroLead": "Selling mineral rights means conveying the whole bundle, more than a royalty stream alone, and the deed language has to say exactly that to close cleanly.",
+ "intro": [
+  "Mineral rights is the broadest ownership category in this business, and it's often used loosely to describe royalty interests, working interests, and everything in between. Legally it means something specific: the full bundle of rights to explore for, develop, and produce oil, gas, and other minerals beneath a tract, along with the executive right to lease that tract to an operator, collect bonus and delay rental payments, and receive a royalty share once production starts.",
+  "When you sell a mineral interest, as opposed to selling just a royalty or overriding royalty carved out of it, you're conveying that entire bundle. The buyer steps into your shoes completely, including the right to negotiate and sign future leases on that tract, which is the piece that most distinguishes a mineral deed from every narrower interest type this site covers."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually conveys",
+   "paragraphs": [
+    "A properly drafted mineral deed transfers the mineral fee: the right to the oil, gas, and other minerals in place, the executive right to lease, the right to bonus and delay rental income, and the right to a royalty share under whatever lease is executed. If the tract is already under an existing lease at the time of sale, the deed typically conveys subject to that lease, meaning the buyer becomes the new lessor and inherits the royalty position going forward while the lease terms themselves don't change.",
+    "The deed's legal description and the fraction or decimal interest being conveyed are the two elements that matter most at closing. Get either wrong, describe the wrong tract, or convey the wrong fraction, and the deed either fails to record cleanly or conveys something other than what was intended, which is why title examiners spend as much time on these two elements as everything else in the file combined."
+   ]
+  },
+  {
+   "heading": "Warranty vs. quitclaim mineral deeds",
+   "paragraphs": [
+    "A general warranty deed has the seller guaranteeing clear title against defects from any point in history, even ones that predate their own ownership, and obligates them to defend that title if a claim surfaces later. A special warranty deed narrows that guarantee to defects arising only during the seller's own ownership. A quitclaim or mineral deed without warranty conveys whatever interest the seller has, with no guarantee at all, leaving the buyer to rely entirely on their own title examination.",
+    "Which form gets used is usually negotiated based on how well-documented the seller's chain of title already is. A seller with a clean, well-recorded chain often has no issue signing a warranty deed since the risk of a later claim is low. A seller working from an old, sparsely documented family interest may prefer a quitclaim structure precisely because they can't personally warrant details from before their own ownership."
+   ]
+  },
+  {
+   "heading": "Reservations and exceptions in the deed",
+   "paragraphs": [
+    "It's common for a mineral deed to include a reservation, meaning the seller keeps some portion of the interest, most often a royalty override, while conveying the rest. If you want to retain a small ongoing royalty interest rather than sell the entire bundle, that's typically structured as a reservation clause within the deed rather than a separate document, and it needs precise language specifying whether it applies to existing production only, future production, or both.",
+    "The deed should also list any prior reservations or exceptions already affecting the tract, like a previously severed royalty interest someone else holds, so the buyer knows exactly what they're stepping into. Omitting a known prior reservation from the deed doesn't erase it, it just means the buyer discovers it later during their own title work, which is worth avoiding by disclosing it upfront."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between selling mineral rights and selling a royalty interest?",
+   "answer": "Selling mineral rights conveys the full bundle, including the executive right to lease and negotiate bonus terms. Selling just a royalty interest transfers only the right to a share of production income, without the leasing authority."
+  },
+  {
+   "question": "Do I lose all rights to the tract once I sign a mineral deed?",
+   "answer": "Yes, for whatever interest and depths the deed describes, unless you specifically reserve a portion, such as a small royalty override, within the deed language itself."
+  },
+  {
+   "question": "What is a warranty deed versus a quitclaim mineral deed?",
+   "answer": "A warranty deed has the seller guaranteeing clear title and standing behind that guarantee if a defect surfaces later. A quitclaim conveys whatever interest exists with no guarantee, common on older or less-documented family interests."
+  },
+  {
+   "question": "If my tract is already under lease, does selling change the lease?",
+   "answer": "No, the lease terms stay the same. The buyer simply becomes the new lessor, taking over your position for future royalty, bonus on renewal, and any other lessor rights under that existing lease."
+  },
+  {
+   "question": "Can I sell my mineral rights but keep a small royalty for myself?",
+   "answer": "Yes, this is done through a reservation clause in the deed, specifying exactly what royalty share you're keeping and whether it applies to current production, future production, or both."
+  }
+ ],
+ "status": "written",
+ "wordCount": 879,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-mineralrightspurchase-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

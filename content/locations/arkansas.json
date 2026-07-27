@@ -1,0 +1,74 @@
+{
+ "slug": "arkansas",
+ "title": "Sell Mineral Rights in Arkansas",
+ "type": "state",
+ "group": "Fayetteville, Smackover lithium",
+ "primaryKeyword": "mineral rights arkansas",
+ "seo": {
+  "vol": 110,
+  "cpc": 5.58
+ },
+ "metaTitle": "Sell Mineral Rights in Arkansas: What Closing Involves",
+ "metaDescription": "Fayetteville shale gas and Smackover lithium brine raise different title questions in Arkansas. Here is how the purchase, title check, and closing statement work for each.",
+ "heroLead": "One question decides a lot about how an Arkansas mineral sale gets structured: does your deed's definition of minerals actually cover what is being produced under your tract.",
+ "intro": [
+  "Arkansas mineral owners fall into two very different groups right now. In the Fayetteville shale counties of the north-central part of the state, most interests are tied to natural gas wells drilled during the 2008 to 2012 boom and now held by production at low, steady decline rates. In south Arkansas, the Smackover formation's brine is being reevaluated for lithium extraction, and that has created a genuinely new question for owners: does an old mineral deed's language even cover lithium-bearing brine.",
+  "Both situations follow the same basic purchase mechanics, but the title review looks different depending on which one applies to your interest."
+ ],
+ "sections": [
+  {
+   "heading": "The lithium brine definition problem",
+   "paragraphs": [
+    "Many Smackover-area mineral deeds were written decades ago, long before lithium extraction from brine was commercially relevant, and some define minerals narrowly as oil, gas, and other hydrocarbons rather than broadly as all minerals and mineral rights. A title examiner reviewing a purchase on Smackover acreage in Columbia, Union, or Lafayette county will read the operative deed language closely, because whether brine and its lithium content falls inside or outside your granted interest changes what you actually have to sell.",
+    "The Arkansas Oil and Gas Commission has also weighed in on how brine is classified for regulatory purposes, and buyers active in this play typically want that classification alongside the deed language before making an offer, since the two together determine whether your ownership extends to the lithium value or stops at conventional hydrocarbons."
+   ]
+  },
+  {
+   "heading": "Fayetteville shale acreage and held-by-production status",
+   "paragraphs": [
+    "In the Fayetteville play, most wells were drilled and held by production years ago, so a buyer's title check focuses less on whether a lease is still valid and more on confirming your net mineral acreage against the unit and verifying the current operator's division order matches what you believe you own. Because these wells are now in a slow, predictable decline phase, purchase offers are typically built off recent royalty check history rather than speculation about future drilling.",
+    "If your Fayetteville interest has been held by the same lease for over a decade, check whether the lease has any Pugh clause language that released undeveloped depths or acreage, since that can affect what a buyer is actually purchasing beyond the currently producing zone."
+   ]
+  },
+  {
+   "heading": "County recording and the closing itself",
+   "paragraphs": [
+    "Arkansas records mineral deeds with the Circuit Clerk in the county where the land sits. Once a title examiner clears the chain and any curative work is resolved, the buyer typically opens escrow through a title company, and the closing statement sets out the purchase price, any prorated royalty owed for production before closing, and the net funds sent to you.",
+    "The mineral deed is recorded with the Circuit Clerk, and a copy goes to the operator so future division orders reflect the new owner. Ask specifically how the buyer will handle any brine or lithium reservation language if your deed is being purchased for its Smackover potential, since some buyers purchase the oil and gas rights while leaving brine rights with the seller, or vice versa, and that split needs to be spelled out plainly in the deed itself."
+   ]
+  },
+  {
+   "heading": "What to gather before you call a buyer",
+   "paragraphs": [
+    "For a Fayetteville shale interest, your most recent one or two royalty check stubs and, if you have it, your original lease are the most useful documents, since they let a buyer confirm your net mineral acreage and current decimal interest without waiting on the operator. For Smackover acreage, any existing deed language describing what minerals were conveyed is the key document, since it is what the title examiner reads first to determine whether brine and lithium fall inside your interest.",
+    "If you are not sure which county your interest sits in, check an old check stub or lease for the legal description, since Arkansas mineral interests are indexed by county at the Circuit Clerk's office and the examiner will need that starting point before pulling your chain of title."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my old Arkansas mineral deed automatically include lithium in brine?",
+   "answer": "Not necessarily. It depends on how the deed defines minerals. Deeds that reference only oil, gas, and hydrocarbons may not clearly extend to lithium-bearing brine, which is why a title examiner reviews the exact wording before a Smackover-area purchase can close."
+  },
+  {
+   "question": "How is a Fayetteville shale purchase priced differently from a new lithium prospect?",
+   "answer": "Fayetteville acreage is typically priced against a track record of actual royalty payments from wells already in decline, while Smackover lithium interests are priced more speculatively since large-scale extraction economics are still developing, so offers there tend to reflect a wider range depending on operator activity nearby."
+  },
+  {
+   "question": "Where are Arkansas mineral deeds recorded?",
+   "answer": "With the Circuit Clerk in the county where the mineral interest is located, which is also where a title examiner pulls the prior instruments in your chain of title."
+  },
+  {
+   "question": "Can I sell just my oil and gas rights and keep any future lithium value?",
+   "answer": "Yes, this can be done through a deed that specifically reserves brine or lithium rights to you while conveying conventional oil and gas rights to the buyer, but the reservation language needs to be precise, since a general mineral deed without a carve-out typically conveys everything covered by the deed's definition of minerals."
+  }
+ ],
+ "status": "written",
+ "wordCount": 933,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-arkansas.jpg",
+  "alt": "Replacement Minerals in Arkansas location",
+  "width": 1600,
+  "height": 1000
+ }
+}

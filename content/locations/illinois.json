@@ -1,0 +1,68 @@
+{
+ "slug": "illinois",
+ "title": "Sell Mineral Rights in Illinois",
+ "type": "state",
+ "group": "Illinois basin",
+ "primaryKeyword": "mineral rights illinois",
+ "seo": {
+  "vol": 50,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in Illinois: How Closing Works",
+ "metaDescription": "Illinois basin mineral interests are often small legacy shares from old family farms. Here is how the title check, curative work, and closing actually happen.",
+ "heroLead": "Ask most Illinois mineral owners how they came to own their interest and the answer traces back to a family farm, not a lease bonus check from last year.",
+ "intro": [
+  "The Illinois basin covers a wide stretch of the southern and eastern part of the state, where shallow oil production has continued at a modest, steady pace for generations, mostly from old vertical wells rather than new horizontal development. Because so much of this ownership traces back to farmland that has been in the same family since before oil was ever discovered under it, the biggest factor in a purchase here is usually not the geology, it is the paperwork trail left behind by decades of inheritance.",
+  "This page covers what to expect from a title review on legacy Illinois basin acreage, how county recording works, and what the closing process looks like once ownership is confirmed."
+ ],
+ "sections": [
+  {
+   "heading": "Legacy interests and multi-generation title chains",
+   "paragraphs": [
+    "It is routine in Illinois for a mineral interest to have passed through three or four generations of the same family without ever being formally consolidated, especially when the original owner's will divided the mineral estate among several children who then each passed their share to their own children. A title examiner reviewing a purchase offer will need to trace each of these transfers through recorded deeds, wills, or probate records at the county Recorder of Deeds office.",
+    "If any generation's transfer was handled informally, for example an oral family agreement about who would receive the mineral interest that was never put into a recorded deed, that gap needs to be closed with a curative affidavit or, in more complicated situations, a quiet title action before a buyer's title company will insure the purchase."
+   ]
+  },
+  {
+   "heading": "Shallow legacy production and how it is valued",
+   "paragraphs": [
+    "Illinois basin wells are typically shallow, low-volume producers that have been on decline for years, sometimes decades, which means purchase offers here are usually grounded in a long, stable royalty history rather than any expectation of new drilling. If your interest has generated a small but consistent royalty check for years, that payment history is one of the more useful things you can hand a buyer, since it grounds the offer in actual production rather than speculation.",
+    "Some Illinois basin leases date back far enough that they predate modern lease forms, and older lease language can create ambiguity about depths covered or whether the lease has been properly held by production. A buyer's examiner will typically flag this and request confirmation from the operator that the lease is still valid and in good standing."
+   ]
+  },
+  {
+   "heading": "County recording and the closing process",
+   "paragraphs": [
+    "Illinois deeds and mineral conveyances are recorded with the Recorder of Deeds in the county where the interest is located. Once the title examiner clears the chain, or curative work resolves any gaps, the buyer typically opens escrow through a title company, and the closing statement sets out the purchase price along with any prorated royalty owed for production before the closing date.",
+    "The mineral deed is recorded at the county Recorder's office, and a copy is sent to the operator to update the division order. For interests still held by multiple family members who never split their shares individually, it is worth confirming with the buyer whether each co-owner needs to sign the deed separately or whether one authorized signature covers the group, since this depends on how title is currently held."
+   ]
+  },
+  {
+   "heading": "What documentation speeds up a sale",
+   "paragraphs": [
+    "Bringing your most recent royalty check stub, the original lease if you still have it, and any prior deed or probate paperwork you can locate shortens the title review noticeably, since the examiner spends less time reconstructing the chain from county records alone. Even a partial paper trail, like an old envelope from the operator showing your owner number, can help the examiner find your account faster.",
+    "If you genuinely have none of this, that is common for interests inherited several generations back, and the examiner will simply start from the recorded deeds and probate files at the courthouse, which just takes somewhat longer to work through."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My mineral interest was divided among my grandfather's children decades ago and never split further. Can it still be sold?",
+   "answer": "Yes, but each living heir with a recorded share typically needs to sign the deed, or a properly executed power of attorney needs to be in place for those who cannot sign directly. A title examiner will confirm exactly who holds a recorded share before the sale can close."
+  },
+  {
+   "question": "How is an old Illinois basin well valued compared to a newer horizontal well elsewhere?",
+   "answer": "Offers on Illinois basin interests are typically grounded in the actual royalty history from the shallow, long-producing wells already on the tract, since new drilling is far less common here than in shale plays, so recent check stubs matter more than speculative future development."
+  },
+  {
+   "question": "Where are Illinois mineral deeds recorded?",
+   "answer": "With the Recorder of Deeds in the county where the mineral interest is located, which is also the office a title examiner uses to trace the prior chain of ownership."
+  },
+  {
+   "question": "What if part of my family's mineral interest was never put into a recorded deed?",
+   "answer": "This is common with older Illinois farmland interests. A curative affidavit signed by someone with direct knowledge of the family history can often resolve a minor gap, though a more significant or contested gap may require a formal quiet title action before a buyer's title company will insure the purchase."
+  }
+ ],
+ "status": "written",
+ "wordCount": 942
+}

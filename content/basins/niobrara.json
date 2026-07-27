@@ -1,0 +1,80 @@
+{
+ "slug": "niobrara",
+ "title": "Niobrara Mineral Rights",
+ "type": "basin",
+ "group": "CO/WY/NE",
+ "primaryKeyword": "niobrara mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Niobrara Formation Mineral Rights Purchase Guide",
+ "metaDescription": "\"Niobrara\" spans several basins. Here's how we confirm which one your minerals sit in and how that changes the mineral purchase process.",
+ "heroLead": "Niobrara isn't a basin, it's a formation, and it runs under parts of the DJ Basin, the Powder River Basin, and the Piceance Basin, each with a completely different operator and title picture.",
+ "intro": [
+  "It's common for a mineral owner to describe their interest as \"Niobrara minerals\" because that's the formation name on a division order or a lease, but the Niobrara chalk and shale extend across several separate producing basins in Colorado, Wyoming, and Nebraska. Before we can talk about value or process, the first job is pinning down which basin your specific tract actually sits in, because that determines the operator, the regulatory environment, and the diligence checklist we run.",
+  "Once we've confirmed the basin, the purchase follows that basin's normal process — this page exists to walk through how we make that identification and what tends to differ once we know."
+ ],
+ "sections": [
+  {
+   "heading": "How we identify which basin your Niobrara minerals sit in",
+   "paragraphs": [
+    "We start with the legal description on your deed or division order and cross-reference the county against known Niobrara-producing basins. Weld County, Colorado and surrounding areas point to the DJ Basin and the Wattenberg Field. Wyoming counties like Converse or Campbell point to the Powder River Basin, where Niobrara horizontal development has grown substantially over the last several years alongside the older Turner sand play. Northwest Colorado counties can point to the Piceance Basin, where Niobrara gas has historically been a secondary target behind the Mesaverde.",
+    "This isn't a formality — it changes everything downstream. A DJ Basin Niobrara tract in dense Wattenberg development has a very different activity and title profile than a Powder River Basin Niobrara tract still in earlier-stage horizontal delineation, even though both division orders might say \"Niobrara\" in the formation field."
+   ]
+  },
+  {
+   "heading": "Why formation-only descriptions cause valuation confusion",
+   "paragraphs": [
+    "We regularly hear from owners who compare their offer to a number they saw online for \"Niobrara minerals\" without realizing that figure applied to a different basin entirely. Activity levels, well density, and operator competition for acreage vary enormously between the core Wattenberg Field and the newer Powder River Basin Niobrara fairway, so a single blended number for \"the Niobrara\" isn't meaningful. We price against the actual basin, county, and documented activity for your specific tract."
+   ]
+  },
+  {
+   "heading": "What happens after basin identification",
+   "paragraphs": [
+    "Once we've confirmed which basin governs your minerals, diligence proceeds under that basin's normal framework — Colorado setback and permitting review for DJ Basin tracts, checkerboard and split-estate confirmation for Powder River Basin tracts, or federal lease overlay checks for Piceance Basin tracts. Escrow, proration, and closing mechanics follow the standard process from there, tailored to whichever basin your interest actually sits in."
+   ]
+  },
+  {
+   "heading": "What we ask for before confirming your basin",
+   "paragraphs": [
+    "The fastest way to confirm which basin governs your Niobrara interest is a copy of your deed or a recent division order, both of which include the legal description and county we use to make the identification. If you only have older documents or none at all, your name and approximate property location are usually enough for us to start the lookup directly through county and operator records.",
+    "Once the basin is confirmed, we request whatever additional documentation that basin's process calls for, whether that's a Colorado permit history, a Wyoming lease, or federal record, and walk you through why that basin's specific framework applies to your tract."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My division order says \"Niobrara\" — how do I know which basin that means?",
+   "answer": "The county listed on your deed or division order tells us the basin. We confirm this in the first step of review, since the Niobrara formation crosses the DJ, Powder River, and Piceance Basins with very different activity levels in each."
+  },
+  {
+   "question": "Does it matter which basin my Niobrara minerals are in for pricing?",
+   "answer": "Significantly. Well density, operator activity, and recent comparable transactions differ by basin, so we price against your specific basin and county rather than a general \"Niobrara\" figure, which isn't meaningful across such different areas."
+  },
+  {
+   "question": "Is Powder River Basin Niobrara development as advanced as the DJ Basin's?",
+   "answer": "Generally the DJ Basin's Wattenberg Field has a longer, denser development history. Powder River Basin Niobrara horizontal activity has grown substantially in recent years but tract-by-tract activity still varies more than in the mature Wattenberg core."
+  },
+  {
+   "question": "What if my minerals are under the Niobrara in the Piceance Basin?",
+   "answer": "Piceance Basin Niobrara gas has historically been a secondary target behind the Mesaverde formation, so activity and diligence there look more like a Piceance Basin gas tract than a DJ Basin oil tract. We assess it under that basin's framework."
+  },
+  {
+   "question": "What if my documents don't clearly state a county?",
+   "answer": "We can usually determine your county from a legal description, township and range, or even the operator name on a statement, so incomplete paperwork isn't a barrier to getting started."
+  },
+  {
+   "question": "What if my legal description spans a county line?",
+   "answer": "We confirm the operative county from the specific section, township, and range on your document rather than a mailing address, since that's what actually determines the governing basin and jurisdiction."
+  }
+ ],
+ "wordCount": 862,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-niobrara-mineralrightspurchase-com.jpg",
+  "alt": "Niobrara Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

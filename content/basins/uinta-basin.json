@@ -1,0 +1,83 @@
+{
+ "slug": "uinta-basin",
+ "title": "Uinta Basin Mineral Rights",
+ "type": "basin",
+ "group": "UT",
+ "primaryKeyword": "uinta basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Uinta Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Utah Uinta Basin minerals? Learn how waxy crude logistics, federal and Ute tribal minerals, and horizontal development affect a sale.",
+ "heroLead": "Uinta Basin crude is thick enough to need special handling just to move it to market, and that logistics reality has shaped how development here has unfolded more than in most basins.",
+ "intro": [
+  "The Uinta Basin in northeast Utah produces a distinctive waxy crude oil that solidifies at relatively warm temperatures, historically requiring heated pipelines, rail transport, or trucking to move to refining markets, a logistics constraint that has shaped the pace of development here differently than in basins with easier takeaway access. Mineral ownership in the basin is a mix of private fee minerals, federal BLM leasehold, and Ute Indian Tribe trust lands, and more recent horizontal drilling in the Uteland Butte and other formations has brought renewed activity after a quieter period.",
+  "For a mineral owner, the purchase process depends first on confirming which of those ownership categories applies to your tract, since federal and tribal trust interests follow different transfer processes than private fee minerals."
+ ],
+ "sections": [
+  {
+   "heading": "Federal, tribal, and private mineral ownership",
+   "paragraphs": [
+    "A meaningful share of Uinta Basin minerals sit on federal BLM leasehold or within Ute Indian Tribe trust land, and transfers involving tribal trust interests require Bureau of Indian Affairs approval rather than a standard county deed recording, similar in process to other basins with tribal trust ownership. Private fee mineral tracts follow the normal county-based title process. We confirm which category governs your specific interest at the outset of diligence, since it determines the entire documentation and approval path from there."
+   ]
+  },
+  {
+   "heading": "Waxy crude logistics and what that means for activity",
+   "paragraphs": [
+    "Because Uinta Basin crude requires special handling to transport, takeaway capacity and rail or trucking logistics have historically been a bigger factor in development pace here than in basins with straightforward pipeline access, and periods of tighter logistics capacity have coincided with slower drilling activity. More recently, horizontal development targeting the Uteland Butte and other stacked intervals has brought renewed interest to parts of the basin. We check current permitting and completion activity for your specific tract rather than assuming a constant pace, since this basin's development has moved in more visible cycles tied partly to logistics as well as pricing."
+   ]
+  },
+  {
+   "heading": "Title and closing across Uintah and Duchesne Counties",
+   "paragraphs": [
+    "Core Uinta Basin activity concentrates in Uintah and Duchesne Counties, where county clerk records handle private fee mineral chains in the standard way, while any tribal trust or federal leasehold portion of your interest requires the additional coordination described above. We build the realistic timeline for your specific ownership type into the closing schedule from the start, since a straightforward fee mineral sale here can move at a normal pace while a trust interest transfer takes longer by nature."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "For private fee mineral interests, a recent royalty statement and division order are the key starting documents. For interests touching Ute Indian Tribe trust land or federal BLM leasehold, we work primarily from Bureau of Indian Affairs or BLM records and will walk you through the specific documentation that process requires.",
+    "We also confirm current activity status directly with the operator or Utah's oil and gas regulator, since this basin's development pace has moved in visible cycles tied to both pricing and crude transport logistics."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does Uinta Basin oil need special transport?",
+   "answer": "It's a waxy crude that solidifies at relatively warm temperatures compared to most crude oil, historically requiring heated pipelines, rail, or trucking rather than standard ambient pipeline transport. This has been a real factor in the pace of the basin's development."
+  },
+  {
+   "question": "Are my minerals private, federal, or Ute Tribe trust land?",
+   "answer": "This is established in your title history and, for trust interests, in Bureau of Indian Affairs records. We confirm which category applies to your specific tract at the start of diligence, since it determines the entire transfer process."
+  },
+  {
+   "question": "Does a tribal trust interest take longer to sell than a private mineral interest?",
+   "answer": "Generally yes, since it requires Bureau of Indian Affairs approval in addition to standard title work. We coordinate that process directly and set realistic expectations on timeline from the outset."
+  },
+  {
+   "question": "Is the Uinta Basin seeing new drilling activity right now?",
+   "answer": "Horizontal development targeting the Uteland Butte and other stacked intervals has brought renewed activity to parts of the basin after quieter periods tied to takeaway logistics and pricing. We check current permitting for your specific tract rather than generalizing across the whole basin."
+  },
+  {
+   "question": "Do you purchase interests involving Ute Tribe trust land?",
+   "answer": "Yes, though the process runs through Bureau of Indian Affairs approval rather than a standard county closing, and we coordinate that directly with you."
+  },
+  {
+   "question": "Does waxy crude transport affect the value of my minerals directly?",
+   "answer": "It affects operator development pace and economics more than it directly changes your ownership value, though we do factor current takeaway conditions into our read of near-term activity for your tract."
+  },
+  {
+   "question": "Is Duchesne County or Uintah County seeing more current drilling?",
+   "answer": "Both counties have seen renewed horizontal activity in recent years, with the specific pace varying by operator and formation target. We check current permitting for your exact tract."
+  }
+ ],
+ "wordCount": 869,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-uinta-basin-mineralrightspurchase-com.jpg",
+  "alt": "Uinta Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

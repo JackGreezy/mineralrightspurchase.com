@@ -1,0 +1,65 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling a Royalty Interest | Royalty Deed vs. Mineral Deed",
+ "metaDescription": "A royalty deed conveys income rights only, no executive or leasing authority. Here's how that changes the closing paperwork and what a buyer checks.",
+ "heroLead": "A royalty interest conveys the right to income from production, nothing more, and the deed that transfers it looks different from a mineral deed in a few specific ways.",
+ "intro": [
+  "A royalty interest is what's left after the executive right, the authority to lease and negotiate, has been separated out. It entitles the owner to a share of production revenue, free of drilling and operating costs, but carries no say in whether or when a tract gets leased, who the operator is, or what the lease terms are. Most royalty owners either inherited a royalty that was already severed from the mineral estate generations ago, or reserved one when they sold their mineral rights outright.",
+  "Selling a royalty interest is its own transaction type, distinct from selling the underlying minerals, and the deed conveying it, usually called a royalty deed or mineral deed limited to royalty, needs to make that limitation explicit so the buyer understands exactly what bundle of rights they're acquiring."
+ ],
+ "sections": [
+  {
+   "heading": "How a royalty deed differs from a mineral deed",
+   "paragraphs": [
+    "The critical language in a royalty deed specifies that the conveyance is of royalty only, excluding the executive right, the right to bonus and delay rentals, and the right to participate in leasing decisions. Without that limiting language, a deed intended to convey just the royalty could be read as conveying the full mineral estate, which is why royalty deeds get drafted carefully and shouldn't be adapted from a generic mineral deed template without adjustment.",
+    "The deed also needs to specify whether the royalty is a fixed fraction of production, like a straight 1/8th, or a percentage of whatever royalty is negotiated in future leases, sometimes called a floating or proportionate royalty. That distinction changes what the owner receives if a future lease is negotiated at a higher or lower royalty rate than historical leases in the area, and it needs to be unambiguous in the deed."
+   ]
+  },
+  {
+   "heading": "Confirming the royalty's current status before selling",
+   "paragraphs": [
+    "Before a sale, a buyer will confirm whether the royalty is currently producing, meaning payments are actively being made under a division order, or non-producing, meaning it sits under an expired lease or has never been leased. Producing royalties are typically verified against the operator's own division order records, which is the fastest way to confirm the decimal interest matches what the deed history implies.",
+    "For non-producing royalty, especially older severed interests where the family may not have current contact with any operator, the verification leans more heavily on the deed chain itself, tracing the original severance and every subsequent transfer to confirm what fraction is actually being sold."
+   ]
+  },
+  {
+   "heading": "Term royalties and reversion",
+   "paragraphs": [
+    "Some royalty interests were originally created as term royalties, meaning they're structured to revert back to the mineral owner after a set number of years or after a set amount of production or income has been paid, rather than lasting for as long as the well produces. If your royalty interest was created this way, the deed conveying it needs to disclose that reversion, since a buyer purchasing what they believe is a perpetual royalty is buying something materially different if it's actually set to expire.",
+    "Checking whether your royalty is term or perpetual usually means reading the original instrument that created it, rather than only the most recent deed in your name, since the reversion language is set at creation and typically carries forward through every subsequent transfer. It's a five-minute read that settles a question many owners never think to ask until a buyer raises it, and it can change how the interest should be valued and marketed from the start."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a royalty interest and a mineral interest?",
+   "answer": "A royalty interest is income-only: a share of production revenue with no leasing authority or executive rights. A mineral interest includes that royalty plus the right to lease the tract and collect bonus payments."
+  },
+  {
+   "question": "Is my royalty a fixed fraction or a percentage of future leases?",
+   "answer": "It depends on how the royalty was originally created. Fixed royalties stay at the same fraction regardless of later lease terms; floating or proportionate royalties adjust based on whatever royalty rate a future lease sets, so check the original instrument."
+  },
+  {
+   "question": "Can I sell a royalty interest that isn't currently producing?",
+   "answer": "Yes. Non-producing royalty is confirmed through the deed chain rather than operator division order records, since there's no active payment history to cross-check against."
+  },
+  {
+   "question": "What is a term royalty and does mine expire?",
+   "answer": "A term royalty is created to revert back to the mineral owner after a set time or amount of production, rather than lasting indefinitely. Whether yours is term or perpetual is set in the original creating instrument and should be disclosed at sale."
+  },
+  {
+   "question": "Does selling my royalty interest affect who can lease the tract?",
+   "answer": "No. Royalty owners don't hold executive rights to begin with, so selling the royalty doesn't change who has authority to lease. That authority stays with whoever holds the mineral estate."
+  }
+ ],
+ "status": "written",
+ "wordCount": 859,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-mineralrightspurchase-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

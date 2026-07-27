@@ -1,0 +1,65 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling an ORRI | Overriding Royalty Assignment Basics",
+ "metaDescription": "An ORRI is carved from the leasehold, not the mineral estate, and it dies with the lease. Here's how the assignment differs from a mineral or royalty deed.",
+ "heroLead": "An overriding royalty interest lives inside the lease it was carved from, and it dies when that lease does, which is the one fact that shapes everything about selling one.",
+ "intro": [
+  "An overriding royalty interest, ORRI for short, is a share of production revenue carved out of the working interest, or leasehold, rather than out of the mineral estate itself. It's most commonly created when a landman, geologist, or intermediate party assigns a lease to an operator but reserves a small royalty for themselves, or when an operator assigns part of its interest to another party while keeping an override on it. However it originated, the key distinction from a straight royalty interest is that an ORRI is tied to a specific lease, not to the minerals underlying the tract forever.",
+  "That distinction matters enormously when selling. Unlike a mineral or royalty deed, which conveys an interest in the land itself and survives any single lease expiring, an ORRI assignment conveys an interest that terminates automatically if the underlying lease terminates. A buyer evaluating an ORRI is evaluating the lease's likely lifespan as much as the interest itself."
+ ],
+ "sections": [
+  {
+   "heading": "Why an ORRI transfers by assignment, not deed",
+   "paragraphs": [
+    "Because an ORRI is a right carved from a leasehold interest rather than real property in the same sense as minerals, it's conveyed by an instrument usually called an assignment of overriding royalty interest, not a mineral deed. The assignment still gets recorded in the county records and still requires the same attention to legal description and interest fraction, but the underlying legal character is different, and using mineral deed language on an ORRI transfer can create ambiguity about whether the interest was meant to survive lease expiration, which it typically shouldn't unless the assignment says otherwise.",
+    "The assignment needs to identify the specific lease the override is carved from, by recording reference if the lease is recorded, since the ORRI's entire existence is defined relative to that lease's terms and duration."
+   ]
+  },
+  {
+   "heading": "What happens if the lease it's carved from expires",
+   "paragraphs": [
+    "This is the risk unique to ORRIs among the interest types on this site: if the underlying lease terminates, whether because the well is plugged, the lease's terms lapse, or the operator lets it expire, the override terminates with it and reverts to nothing, since there's no longer a leasehold for it to attach to. A buyer purchasing an ORRI is pricing that risk directly, weighing the well's remaining productive life and the lease's likelihood of being maintained or renewed against the income stream being purchased.",
+    "This is also why ORRI value tends to track the specific well or unit's production decline more tightly than a straight mineral royalty would, since a mineral royalty owner still holds the underlying minerals and can lease again to a new operator after an old lease expires, while an ORRI holder generally cannot unless the assignment specifically preserved that right."
+   ]
+  },
+  {
+   "heading": "Multiple wells and unit designations",
+   "paragraphs": [
+    "Where an ORRI was created to apply across an entire unit or multiple wells rather than a single lease, the assignment should clearly state that scope, since it changes the risk profile considerably. An override tied to one aging well is a different asset than one tied to a multi-well unit where new wells might still be added under the same lease and unit designation, extending the override's life well beyond what a single well's decline curve would suggest.",
+    "Confirming which wells and which specific lease or unit an ORRI actually covers, rather than assuming based on a single royalty check, is a standard part of the closing review, and the original assignment creating the override is the document that settles it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between an ORRI and a regular royalty interest?",
+   "answer": "A royalty interest is carved from the mineral estate and survives indefinitely regardless of any single lease. An ORRI is carved from the leasehold itself and terminates automatically when the underlying lease expires."
+  },
+  {
+   "question": "Can I sell my overriding royalty interest?",
+   "answer": "Yes, through an assignment of overriding royalty interest, recorded in the county records like other mineral instruments, but referencing the specific lease the override is carved from."
+  },
+  {
+   "question": "What happens to my ORRI if the well stops producing?",
+   "answer": "If the underlying lease terminates as a result, the ORRI terminates with it and reverts to nothing, since it only exists as long as the leasehold it was carved from does."
+  },
+  {
+   "question": "Does my ORRI cover just one well or the whole unit?",
+   "answer": "That depends on how it was originally created. The assignment document that created your override specifies its exact scope, whether it's tied to a single well, a single lease, or an entire unit."
+  },
+  {
+   "question": "Why would a buyer purchase an ORRI given the termination risk?",
+   "answer": "Buyers price that risk into the offer, weighing the well's remaining decline and the likelihood the lease stays maintained. It's a different risk profile than a mineral royalty, not an automatic reason to avoid the interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 855,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-mineralrightspurchase-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

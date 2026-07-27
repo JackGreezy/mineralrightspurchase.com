@@ -1,0 +1,74 @@
+{
+ "slug": "texas",
+ "title": "Sell Mineral Rights in Texas",
+ "type": "state",
+ "group": "Permian, Eagle Ford, Haynesville TX, Barnett, Anadarko TX",
+ "primaryKeyword": "mineral rights texas",
+ "seo": {
+  "vol": 1300,
+  "cpc": 4.15
+ },
+ "metaTitle": "Sell Mineral Rights in Texas | County-by-County Guide",
+ "metaDescription": "Permian, Eagle Ford, Haynesville, Barnett, or Panhandle minerals? Texas closes at the county level. Here's how records, deeds, and escrow actually work.",
+ "heroLead": "Texas has 254 counties and no statewide mineral registry, so the county courthouse where your minerals sit is where your entire closing lives or dies.",
+ "intro": [
+  "Texas is unusual among mineral-rich states in that it isn't really one market, it's several, stacked geographically and stacked in ownership complexity. Midland and Reeves counties anchor the Permian Basin, currently the most active play in the country. Karnes and DeWitt counties sit in the Eagle Ford. Harrison and Panola counties fall in the Texas side of the Haynesville. Tarrant and Johnson counties hold what's left of the older Barnett Shale, drilled right under a metro area. And Hemphill County up in the Panhandle sits in the Anadarko Basin's Texas extension. Each of these areas has its own operator base, its own decline behavior, and its own courthouse habits.",
+  "What ties all of it together is that Texas records mineral ownership at the county level, with no central state registry to check. A buyer's title work is only as good as the specific county clerk's records for your tract, which is why the same purchase process can move at very different speeds depending on which of the 254 counties your minerals happen to sit in."
+ ],
+ "sections": [
+  {
+   "heading": "Why county-by-county title work is the whole game in Texas",
+   "paragraphs": [
+    "There's no shortcut to a statewide mineral database in Texas. A title examiner working your tract pulls the deed records, oil and gas lease records, and probate records specifically at the county clerk's office where your minerals are located, tracing ownership back to a clean root of title, commonly the original land grant or a mid-20th-century base deed. Busy counties like Midland handle enormous transaction volume and have well-organized, often digitized records going back decades. Smaller or historically quieter counties may still require pulling physical books, which takes longer but isn't a red flag, just a different pace."
+   ]
+  },
+  {
+   "heading": "The standard Texas mineral deed",
+   "paragraphs": [
+    "Texas has a well-established form for conveying mineral interests, typically a general or special warranty mineral deed that identifies the specific tract by legal description, states the fractional or full interest being conveyed, and reserves or excepts any interest you intend to keep, such as an existing lease's royalty. Texas practice generally treats an oil and gas lease as conveying a determinable fee in the minerals to the lessee for the lease term, which is part of why the deed language matters so much: it needs to say precisely whether you're selling minerals subject to an existing lease, and whether any royalty interest is being carved out or reserved, rather than assuming the buyer and seller both understand it the same way."
+   ]
+  },
+  {
+   "heading": "Railroad Commission unit data as a valuation tool",
+   "paragraphs": [
+    "Texas oil and gas activity is regulated by the Railroad Commission of Texas, whose public records show permitted wells, unit designations, and production by lease. A buyer valuing your Permian or Eagle Ford interest will typically cross-reference RRC data against your division order to confirm your decimal interest lines up with the unit as permitted, and to understand how active the surrounding area actually is. This is a normal part of due diligence and one reason Texas closings, despite the state's sheer size, tend to move efficiently once a specific tract is identified."
+   ]
+  },
+  {
+   "heading": "Escrow and closing timeline",
+   "paragraphs": [
+    "Once terms are agreed, a title company holds purchase funds in escrow while the deed is finalized, signed, and recorded at the county clerk's office covering your tract. Busy Permian and Eagle Ford counties often turn recordings quickly given how routine oil and gas transactions are there. Funds release once the recorded deed comes back showing a clean chain with no competing claim. Fractional or heirship interests, common on older Barnett Shale tracts inherited through family estates near Fort Worth, may need an affidavit of heirship or probate confirmation before the deed can be finalized."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Texas have one statewide place to check mineral ownership?",
+   "answer": "No. Texas records real property and mineral ownership at the county level only. Your title search happens at the specific county clerk's office where your minerals are located, which is why the county matters as much as the play or basin."
+  },
+  {
+   "question": "How long does closing take on a Texas mineral purchase?",
+   "answer": "Active counties like Midland or Karnes commonly close in two to four weeks given high transaction volume and well-organized records. Quieter counties or tracts with fractional heirship can take longer."
+  },
+  {
+   "question": "What does 'subject to an existing lease' mean on my mineral deed?",
+   "answer": "It means you're selling the underlying mineral ownership while the current oil and gas lease stays in force. The buyer becomes the new lessor and continues receiving royalty under that lease's existing terms."
+  },
+  {
+   "question": "How does the Railroad Commission factor into my sale?",
+   "answer": "The RRC's public well and unit data lets a buyer confirm your division order's decimal interest matches the permitted unit and understand nearby activity levels, which feeds directly into how the interest is valued."
+  },
+  {
+   "question": "My mineral interest near Fort Worth came from an old family estate. Is that a problem?",
+   "answer": "Not necessarily, but fractional interests inherited through an estate often need an affidavit of heirship or confirmation the estate was properly probated before a clean deed can be recorded. Your buyer's title company will flag this early in the process."
+  }
+ ],
+ "status": "written",
+ "wordCount": 900,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-texas.jpg",
+  "alt": "Replacement Minerals in Texas location",
+  "width": 1600,
+  "height": 1000
+ }
+}

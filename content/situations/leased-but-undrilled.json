@@ -1,0 +1,66 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Selling Mineral Rights That Are Leased but Undrilled",
+ "metaDescription": "A signed lease with no well yet still closes, but the buyer steps into the lease terms as they stand. Here's what changes about the deed and title check.",
+ "heroLead": "A signed lease with the bonus already spent and no rig on the horizon is still a sellable position, the deed just has to say so correctly.",
+ "intro": [
+  "There's a stretch of ownership that sits between having unleased minerals and having a producing well, and it's where a lot of owners end up for years at a time. The lease is signed, the bonus check cleared, and then nothing visibly happens. No permit, no rig, sometimes not even a unit designation yet. Owners in this position often assume there's nothing to sell because there's no royalty income to point to, but the lease itself is a valuable, transferable piece of the picture.",
+  "What a buyer is purchasing in this situation is the mineral interest subject to that existing lease, meaning the lease stays in place and the buyer becomes the new lessor going forward, entitled to royalty if and when a well is drilled, and entitled to any future bonus if the lease expires and gets renegotiated. The deed language has to reflect that the interest is being conveyed subject to the recorded lease, not free and clear of it."
+ ],
+ "sections": [
+  {
+   "heading": "What the deed says about the existing lease",
+   "paragraphs": [
+    "A standard mineral deed conveying an unleased interest is different from one conveying an interest that's already under lease. The deed for a leased tract typically includes language reserving to the seller a proportionate share of any bonus or delay rentals already paid or due before closing, while assigning the buyer the right to future royalty and any renewal bonus. Getting this split wrong is one of the more common closing errors on leased-but-undrilled deals, so it's worth reading that section of the deed carefully before signing.",
+    "The buyer's title examiner will also pull the lease itself from the county records to confirm its primary term hasn't already expired without a well or a unit being formed, because an expired lease that was never formally released sometimes still shows up as a cloud on title even though it's no longer legally binding."
+   ]
+  },
+  {
+   "heading": "Primary term, extensions, and what happens if the lease lapses",
+   "paragraphs": [
+    "Most leases run a primary term, often three or five years, and then either terminate automatically if no well is drilled, or continue if the lessee has exercised an extension option or begun operations before the term runs out. Where your lease sits in that timeline matters to a buyer, because a lease close to expiring with no drilling activity carries different upside than one freshly signed with an operator actively permitting nearby.",
+    "If the lease has already lapsed by its own terms but no release has been filed, that's a curable title issue, not a dealbreaker, it just needs to be addressed, sometimes by getting the operator to file the release, before or alongside closing."
+   ]
+  },
+  {
+   "heading": "Reading permit and unit activity nearby",
+   "paragraphs": [
+    "Because there's no producing well yet, the closest thing to a value signal on a leased-but-undrilled tract is what's happening around it, permits filed on adjacent sections, unit designations that may already pull your tract into a spacing unit even without a well on your specific acreage, and which operator holds the lease and what their recent activity in the county looks like. None of that guarantees drilling timing, and any value discussion has to stay tied to observable activity rather than a promise about what will happen.",
+    "A buyer who's tracking permit filings and rig activity in the play is often better positioned to weigh that risk than an individual owner checking occasionally, which is part of what the sale is pricing, the transfer of that uncertainty from you to them."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights that are leased but have no well on them?",
+   "answer": "Yes. The buyer purchases the interest subject to the existing lease, becoming the new lessor entitled to future royalty and renewal bonus, while you typically retain any bonus or delay rental already earned before closing."
+  },
+  {
+   "question": "What happens to my lease if I sell the underlying minerals?",
+   "answer": "The lease stays in effect and transfers with the minerals to the new owner. The operator's rights and obligations under the lease don't change, only who they answer to as lessor does."
+  },
+  {
+   "question": "What if my lease's primary term already expired without a well being drilled?",
+   "answer": "If no release was filed, that can show up as a cloud on title even though the lease is no longer binding. It's usually a straightforward fix, often by getting the operator to file the release, and doesn't typically block a sale, just adds a step."
+  },
+  {
+   "question": "Do I get to keep the bonus money I already received?",
+   "answer": "Generally yes, bonus and delay rentals already paid before closing typically stay with the seller under standard deed language, while the buyer picks up rights to future royalty and renewal payments."
+  },
+  {
+   "question": "How do I know if drilling is likely on my leased tract?",
+   "answer": "Permit filings and unit designations on adjacent or nearby sections are the best available signal, though none of that guarantees a specific drilling timeline. It's activity to watch, not a promise either direction."
+  }
+ ],
+ "status": "written",
+ "wordCount": 878,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-mineralrightspurchase-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

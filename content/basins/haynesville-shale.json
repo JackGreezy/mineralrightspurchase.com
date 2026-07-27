@@ -1,0 +1,79 @@
+{
+ "slug": "haynesville-shale",
+ "title": "Haynesville Shale Mineral Rights",
+ "type": "basin",
+ "group": "TX/LA",
+ "primaryKeyword": "haynesville shale mineral rights",
+ "seo": {
+  "vol": 30,
+  "cpc": 8.84
+ },
+ "status": "written",
+ "metaTitle": "Haynesville Shale Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Haynesville Shale gas minerals in East Texas or Louisiana? Learn how deep-well economics and post-production cost deductions affect a sale.",
+ "heroLead": "Haynesville wells are drilled deeper and under higher pressure than most U.S. gas plays, and the deduction line on your royalty statement deserves a closer look than most owners give it.",
+ "intro": [
+  "The Haynesville Shale sits under East Texas and northwest Louisiana, one of the most prolific dry gas plays in the country, with wells commonly drilled past 12,000 feet and completed at high pressure and cost. Because it's a gas play rather than an oil play, Haynesville royalty income moves with natural gas pricing specifically, which has swung more sharply over the past several years than oil, and that volatility is worth understanding before you evaluate an offer on your minerals.",
+  "The purchase process itself is standard — title, offer, escrow, closing — but two things get extra attention here: the post-production cost deductions showing up on gas royalty statements, and, on the Louisiana side, how the state's forced unitization process differs from Texas."
+ ],
+ "sections": [
+  {
+   "heading": "Post-production cost deductions and how to read your statement",
+   "paragraphs": [
+    "Gas royalty statements commonly show deductions for gathering, compression, processing, and transportation costs incurred after the gas leaves the wellhead, and the specific language in your lease determines how much of that cost can legally be passed through to you as the royalty owner. Some older Haynesville leases have more favorable, less deduction-friendly language than newer ones, and the gap between gross wellhead value and your net check can be substantial depending on which lease terms actually apply to your interest. We review the lease's deduction language against the statement during diligence, since it directly affects what net income the interest is generating and, in turn, how we value it."
+   ]
+  },
+  {
+   "heading": "Louisiana forced unitization versus Texas practice",
+   "paragraphs": [
+    "On the Louisiana side of the play, the state's Office of Conservation can establish a drilling unit and force unleased or nonconsenting owners into it, similar in effect to Oklahoma's pooling process but administered under Louisiana's own conservation statutes. If your minerals are in a Louisiana parish and you were unitized rather than leased directly, we pull the unitization order to confirm your status and payment terms before structuring a purchase. Texas-side Haynesville tracts in counties like Panola, Harrison, and San Augustine follow the Railroad Commission's more typical voluntary leasing and unit designation process."
+   ]
+  },
+  {
+   "heading": "Deep-well economics and what that means for activity",
+   "paragraphs": [
+    "Because Haynesville wells cost significantly more to drill and complete than shallower plays, operator activity here tends to track gas pricing more sensitively than most basins — development accelerates when gas prices support the higher breakeven cost and slows when they don't. We check current permitting and rig activity for your specific parish or county as part of diligence rather than assuming a constant pace of development, since Haynesville activity has moved in more visible cycles than steadier oil-weighted basins."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent gas royalty statement showing both gross value and itemized deductions is the most useful document for us to review, since it lets us assess your actual net royalty position rather than just gross production volume. The original lease, particularly its royalty and post-production cost clauses, is equally important for confirming whether current deductions are consistent with what was agreed to.",
+    "For Louisiana-side interests brought into a unit by an Office of Conservation order rather than a lease, we request that order directly as part of confirming your current terms and payment status."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is the deduction line on my Haynesville royalty statement so large?",
+   "answer": "Gas requires more downstream processing and transportation than oil before it reaches a sellable point, and many leases allow the operator to pass a share of those post-production costs back to royalty owners. We check your specific lease language to confirm the deductions being applied are consistent with what was actually agreed to."
+  },
+  {
+   "question": "I was unitized in Louisiana without signing a lease. Can I still sell?",
+   "answer": "Yes. A Louisiana Office of Conservation unitization order establishes your terms similarly to a lease, and we can purchase the underlying interest. We pull the order during diligence to confirm your status and current payment terms."
+  },
+  {
+   "question": "Does gas price volatility affect my mineral value more than it would for oil minerals?",
+   "answer": "Haynesville income tracks natural gas pricing specifically, which has moved in wider swings than oil recently. We factor current and recent pricing trends into valuation rather than relying on a single point-in-time snapshot."
+  },
+  {
+   "question": "Is my Haynesville interest less valuable because the wells are so deep and expensive?",
+   "answer": "Deeper, higher-cost wells affect operator drilling economics, not your ownership. Valuation is based on documented production, lease terms, and current activity for your specific tract rather than well cost alone."
+  },
+  {
+   "question": "Can you review my lease to check if the deductions being taken are proper?",
+   "answer": "Yes, reviewing your specific royalty clause and deduction language against your statement is a standard part of our diligence before we structure an offer."
+  },
+  {
+   "question": "Do you buy Haynesville interests where the operator has slowed drilling recently?",
+   "answer": "Yes. Slower current activity doesn't disqualify a tract, and we price against documented current production and lease status rather than requiring active new drilling on your specific unit."
+  }
+ ],
+ "wordCount": 874,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-haynesville-shale-mineralrightspurchase-com.jpg",
+  "alt": "Haynesville Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Mineral Rights Purchase: Our Approach",
+ "metaDescription": "Why we explain every step of a mineral rights purchase in plain language, and how that approach shapes offers, closing, and everything in between.",
+ "heroLead": "Most owners sell mineral rights exactly once. We think that means the process should be explained, and not merely executed.",
+ "intro": [
+  "This site exists because the mineral rights purchase process is genuinely confusing the first time through, and most of what's written about it is either a sales pitch or a wall of legal language. We built this to be the middle ground: real explanations of how offers get built, how title and escrow work, and what happens after closing, written the way we'd explain it to someone at a kitchen table."
+ ],
+ "sections": [
+  {
+   "heading": "Why we explain instead of just quoting",
+   "paragraphs": [
+    "A number without context is easy to distrust, and it should be. When we make an offer, we can explain what it's based on, whether that's your recent royalty history and where your well sits on its decline curve, or comparable nearby sales if your acreage isn't yet producing. We'd rather you understand the reasoning than take our word for it.",
+    "That same approach carries through every stage after the offer. Title work, escrow, the deed, the division order transfer after closing, each one gets explained as it comes up, not glossed over because it's assumed you already know."
+   ]
+  },
+  {
+   "heading": "What we are, and what we're not",
+   "paragraphs": [
+    "We are a buyer of mineral and royalty interests, working directly with owners on transactions we fund and close ourselves. We are not a licensed appraiser, attorney, or CPA, and nothing on this site should be treated as legal, tax, or investment advice specific to your situation. Where those questions come up, our position is consistent: talk to your own professional before you sign anything, and we'd rather you go into a closing informed than rushed."
+   ]
+  },
+  {
+   "heading": "How we handle offers",
+   "paragraphs": [
+    "Every offer is built from actual inputs, royalty payment history for producing interests, or comparable sales and nearby permitting activity for undeveloped acreage, and every offer is a starting point for a conversation, not a take-it-or-leave-it number. Value talk on this site is always framed as a range tied to real activity, because that's how the market actually works, not because we're avoiding a straight answer."
+   ]
+  },
+  {
+   "heading": "The teaching philosophy behind the resource pages",
+   "paragraphs": [
+    "The resource section of this site exists because most of what's written about selling mineral rights assumes you already know the vocabulary, decline curves, division orders, cost basis, warranty deeds, without ever defining it. We built those pages the way we'd want a first-time seller in our own family to be walked through it: in order, with the jargon explained the first time it shows up rather than assumed.",
+    "That approach shapes how we write about escrow and closing in particular. It's the part of the transaction that gets the least attention elsewhere, mostly because it happens after the number is agreed on and attention has already moved elsewhere, but it's also where a seller has the most to lose from not understanding what's happening. We'd rather over-explain that stage than have you sign something you don't fully follow."
+   ]
+  },
+  {
+   "heading": "Who ends up using this site",
+   "paragraphs": [
+    "Owners come to this site at very different points in the process. Some already have a producing interest, a stack of royalty statements, and a specific number in mind. Others are handling an inherited interest they only recently learned they had, with no paperwork and a lot of open questions about ownership itself before value even enters the conversation. Both situations are common, and the resource pages are written to be useful at either starting point.",
+    "A smaller group of visitors are further along, comparing a specific offer someone else already sent them, trying to work out whether the terms are reasonable before they sign anything. We've written this site with all three of those readers in mind, beyond only the person ready to transact today, because most people move through more than one of those stages before they finally sign."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you the actual buyer, or do you connect me with someone else?",
+   "answer": "We work directly with owners on the transactions we make offers on. If a particular interest is better suited to a different kind of buyer, we'll say so rather than push a deal that doesn't fit."
+  },
+  {
+   "question": "Are you licensed attorneys, CPAs, or appraisers?",
+   "answer": "No, and nothing here should be treated as legal, tax, or appraisal advice for your specific situation. We consistently recommend involving your own attorney or CPA, particularly around the deed and the tax treatment of a sale."
+  },
+  {
+   "question": "How do you decide what to offer for an interest?",
+   "answer": "For producing interests, from recent royalty history and where the well sits on its decline curve. For undeveloped acreage, from comparable nearby sales and permitting activity. We'll explain the reasoning behind any number we give you."
+  },
+  {
+   "question": "Do you only buy in certain states or basins?",
+   "answer": "We evaluate interests across a range of producing regions. If a particular location or interest type doesn't fit what we're set up to purchase, we'll let you know early rather than string out the conversation."
+  }
+ ],
+ "wordCount": 856,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-mineralrightspurchase-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

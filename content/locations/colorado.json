@@ -1,0 +1,74 @@
+{
+ "slug": "colorado",
+ "title": "Sell Mineral Rights in Colorado",
+ "type": "state",
+ "group": "DJ basin, Piceance",
+ "primaryKeyword": "mineral rights colorado",
+ "seo": {
+  "vol": 260,
+  "cpc": 8.49
+ },
+ "metaTitle": "Sell Mineral Rights in Colorado: Closing Explained",
+ "metaDescription": "DJ basin spacing units and Piceance basin federal checkerboard land create different title questions in Colorado. Here is how a mineral rights purchase closes in each.",
+ "heroLead": "Pull up a Colorado spacing unit map before you sell, because in the DJ basin especially, what unit your tract falls in matters as much as who your operator is.",
+ "intro": [
+  "Colorado's private mineral ownership splits mainly between the Denver-Julesburg basin northeast of Denver, where horizontal drilling under large pooled spacing units has reshaped production since the mid-2010s, and the Piceance basin on the western slope, where much of the acreage is federal land leased through the Bureau of Land Management rather than privately owned minerals. Which basin your interest sits in changes both how it is valued and what a title examiner needs to check.",
+  "This page walks through the spacing unit issue in the DJ basin, the federal land wrinkle in the Piceance, and the standard Colorado recording and closing mechanics that apply either way."
+ ],
+ "sections": [
+  {
+   "heading": "Spacing units and pooling orders in the DJ basin",
+   "paragraphs": [
+    "Weld County and the surrounding DJ basin counties have seen extensive horizontal development, and operators typically pool multiple sections into a single spacing unit governed by a Colorado Energy and Carbon Management Commission order. If your mineral interest was originally tied to a vertical well on one quarter section but the horizontal unit now covers 640 or more acres, your decimal share of production changed when the pooling order was entered, and a buyer's examiner will want the current order alongside the original lease to confirm your correct interest.",
+    "It is common for a DJ basin owner to hold an interest in more than one spacing unit if their acreage was split by different horizontal development phases, so expect the title review to walk through each unit separately rather than treating the whole tract as one block."
+   ]
+  },
+  {
+   "heading": "Piceance basin and the federal checkerboard",
+   "paragraphs": [
+    "Much of the Piceance basin's gas-producing acreage sits on federal land administered by the BLM, often in a checkerboard pattern alternating with private and state trust sections left over from historic railroad land grants. If your interest is a private mineral fee within this checkerboard, the title examination is standard county-level work, but if it involves a federal lease interest, the review looks at BLM lease records rather than only county deed records, which is a different process with its own timeline.",
+    "Because Piceance basin gas economics are more sensitive to pipeline takeaway capacity and gas price swings than the oil-weighted DJ basin, buyers here often build offers around a longer view of production history rather than recent activity alone."
+   ]
+  },
+  {
+   "heading": "County recording and title examination",
+   "paragraphs": [
+    "Colorado deeds are recorded with the County Clerk and Recorder in the county where the minerals sit, and Weld County alone handles an unusually high volume of oil and gas filings given the concentration of DJ basin activity. A title examiner will pull your deed, any prior conveyances, and the relevant spacing order or unit agreement to confirm both your ownership and your correct decimal interest before a buyer makes a final offer.",
+    "If your interest passed through inheritance, bring probate documents or a will along with any prior recorded deeds. Colorado title examiners generally accept a properly executed heirship affidavit for smaller estates, but larger or contested estates may need to go through formal probate before a sale can close."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, funds are typically held in escrow with a title company until the mineral deed is signed and notarized. The closing statement lays out the gross purchase price, any prorated royalty owed for production up to the closing date, and the net amount paid to you.",
+    "After closing, the deed is recorded with the County Clerk and Recorder, and the buyer sends a copy to the operator so future division orders and royalty statements reflect the new owner. Ask the buyer to confirm in writing which spacing unit or units the purchase covers, since a mismatch here is one of the more common sources of confusion after closing in the DJ basin specifically."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my decimal interest change after a horizontal well was drilled near me?",
+   "answer": "When operators pool acreage into a larger horizontal spacing unit under a Commission order, your share of production is recalculated based on how much of the new, larger unit your tract represents, which is usually a smaller decimal than your original vertical-well interest even though the unit produces significantly more."
+  },
+  {
+   "question": "Can I sell a mineral interest that sits under federal land in the Piceance basin?",
+   "answer": "If you hold a private mineral fee interest within the checkerboard pattern, yes, through standard county-recorded conveyance. Interests tied directly to federal leases follow BLM lease assignment procedures instead, which is a different process from a county deed sale."
+  },
+  {
+   "question": "Where are Colorado mineral deeds recorded?",
+   "answer": "With the County Clerk and Recorder in the county where the mineral interest is located. Weld County handles a particularly high volume of oil and gas recordings given the concentration of DJ basin drilling."
+  },
+  {
+   "question": "How do I know which spacing unit my interest falls in before selling?",
+   "answer": "The operator paying your royalty can typically provide this, or your division order statement will reference the unit. A buyer's title examiner will also confirm it against the current Commission pooling order as part of the purchase review."
+  }
+ ],
+ "status": "written",
+ "wordCount": 897,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-colorado.jpg",
+  "alt": "Replacement Minerals in Colorado location",
+  "width": 1600,
+  "height": 1000
+ }
+}

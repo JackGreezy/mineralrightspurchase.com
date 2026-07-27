@@ -1,0 +1,65 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling a Working Interest | JOA and Liability Novation",
+ "metaDescription": "A working interest comes with cost obligations alongside income. Here's what the JOA requires and how liability transfers at closing.",
+ "heroLead": "A working interest sale is more than a deed transferring income rights, it's also a transfer of cost obligations that other working interest owners in the unit have to formally accept.",
+ "intro": [
+  "A working interest is fundamentally different from every other interest type on this site because it carries obligations alongside income rights. Owning a working interest means owning a share of the costs to drill, complete, and operate a well, alongside a proportionate share of production revenue before royalty is paid out. Most individual working interest owners hold small non-operated positions, meaning someone else, the operator, runs day-to-day operations while the working interest owner pays their proportionate share of the bills and receives their proportionate share of revenue.",
+  "Selling one requires more than a deed. Because the interest is bound by a joint operating agreement, or JOA, that governs how costs and decisions are shared among everyone with a working interest in the unit, the sale has to work through that agreement's transfer provisions, not only the closing between buyer and seller."
+ ],
+ "sections": [
+  {
+   "heading": "The joint operating agreement's role at closing",
+   "paragraphs": [
+    "The JOA typically includes a preferential right to purchase clause, giving the other working interest owners in the unit a set window, often 15 to 30 days, to match any offer before it can close with an outside buyer. That notice has to go out and the window has to run before the sale can proceed, which is a closing step that doesn't exist for mineral or royalty sales and needs to be built into the timeline from the start.",
+    "Many JOAs also require the operator's consent to an assignment, or at minimum notice, since the operator needs to know who's responsible for their share of ongoing costs going forward. Skipping this step doesn't necessarily void the sale between buyer and seller, but it can leave the seller still on the hook with the operator for costs if the assignment was never properly recognized under the JOA's own terms."
+   ]
+  },
+  {
+   "heading": "Why liability has to be formally novated",
+   "paragraphs": [
+    "This is the piece that makes working interest sales meaningfully different from every other interest type here: simply signing an assignment doesn't automatically release the seller from future cost obligations unless the JOA, the operator, and typically the other working interest owners recognize the buyer as the new party responsible for those costs going forward. That recognition is sometimes called novation, and without it, a seller can remain contractually exposed to future authorization-for-expenditure calls even after the assignment is signed and recorded.",
+    "A buyer experienced in working interest acquisitions will handle notifying the operator and getting the assignment properly recognized as part of the closing process, but it's worth confirming explicitly, since it's the one step that protects the seller from lingering liability rather than protecting the buyer."
+   ]
+  },
+  {
+   "heading": "What a buyer evaluates differently on a working interest",
+   "paragraphs": [
+    "Because a working interest carries cost exposure, a buyer is pricing more than production revenue, they're also pricing anticipated future capital costs, like recompletions, workovers, or additional wells the operator might propose in the unit, all of which the working interest owner would be obligated to help fund proportionally or risk being non-consent penalized under the JOA's terms. That makes the AFE history, meaning past authorization-for-expenditure requests and how the well's economics have performed against them, a meaningful part of the closing review.",
+    "For a seller tired of unpredictable cash calls, that's often the actual reason for selling a working interest rather than simply converting to a royalty position, since selling removes both the future income and the future cost exposure in one transaction rather than leaving ongoing obligations behind."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a working interest and a royalty interest?",
+   "answer": "A working interest carries both revenue rights and cost obligations for drilling and operating expenses. A royalty interest carries revenue rights only, with no obligation to pay any share of operating costs."
+  },
+  {
+   "question": "Do other owners in the unit get a chance to buy my working interest first?",
+   "answer": "Often yes, if the joint operating agreement includes a preferential right to purchase clause, which gives other working interest owners a notice window, commonly 15 to 30 days, to match an outside offer before the sale can close."
+  },
+  {
+   "question": "Am I still liable for costs after I sell my working interest?",
+   "answer": "Potentially, unless the JOA, operator, and other working interest owners formally recognize the buyer as the new responsible party, a step called novation. Confirming this happened is part of protecting yourself as the seller."
+  },
+  {
+   "question": "Does the operator need to approve the sale of my working interest?",
+   "answer": "Many JOAs require operator consent or at least notice before an assignment is recognized, since the operator needs to know who's responsible for future cost-sharing. This is checked as part of the closing process."
+  },
+  {
+   "question": "Why would I sell a working interest instead of just holding it?",
+   "answer": "Selling removes both future income and future cost exposure, including unpredictable cash calls for recompletions or new wells, in one transaction. Many sellers choose this specifically to escape ongoing capital obligations."
+  }
+ ],
+ "status": "written",
+ "wordCount": 862,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-mineralrightspurchase-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

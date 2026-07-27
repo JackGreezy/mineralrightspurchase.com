@@ -1,0 +1,78 @@
+{
+ "slug": "louisiana",
+ "title": "Sell Mineral Rights in Louisiana",
+ "type": "state",
+ "group": "Haynesville, Tuscaloosa Marine Shale, Gulf Coast",
+ "primaryKeyword": "mineral rights louisiana",
+ "seo": {
+  "vol": 170,
+  "cpc": 7.18
+ },
+ "metaTitle": "Sell Mineral Rights in Louisiana: The Closing Process",
+ "metaDescription": "Louisiana is a civil-law state, so you sell a mineral servitude through an Act of Sale recorded in the parish conveyance records. Here is how that closing actually works.",
+ "heroLead": "Say the words mineral rights in most states and everyone means the same legal thing, but Louisiana runs on civil law, and the vocabulary and mechanics here are genuinely different.",
+ "intro": [
+  "Louisiana is the one state in the country that never adopted English common law property concepts, and that shows up directly in how mineral ownership works. Instead of owning minerals outright the way a Texas or Oklahoma owner does, a Louisiana mineral owner typically holds a mineral servitude or a royalty interest, a civil-law concept that carries its own rules, including a use-it-or-lose-it prescription period that does not exist in most other producing states.",
+  "This page walks through the servitude concept, how the Haynesville shale in the northwest and the Tuscaloosa Marine Shale in the southeast each factor into a purchase, and how a parish-level closing actually works."
+ ],
+ "sections": [
+  {
+   "heading": "Mineral servitudes and the ten-year prescription rule",
+   "paragraphs": [
+    "Under Louisiana's Mineral Code, a mineral servitude that is not used, meaning no drilling, production, or other qualifying activity occurs, for ten consecutive years generally prescribes, or expires, and the mineral rights revert to the surface owner. This is fundamentally different from most other states, where a mineral interest can sit dormant indefinitely without expiring. A buyer's title examiner will check the prescription history on your specific servitude closely, since a servitude that has come close to lapsing without qualifying use is a materially different asset than one continuously held by production.",
+    "If your interest is a royalty interest rather than a servitude itself, different prescription rules apply, and the distinction matters enough that it is worth confirming which one you actually hold before a sale, since the two are not interchangeable under Louisiana law even though they are sometimes described casually as the same thing."
+   ]
+  },
+  {
+   "heading": "Haynesville versus Tuscaloosa Marine Shale",
+   "paragraphs": [
+    "The Haynesville shale across Caddo, Bossier, De Soto, and Red River parishes has been one of the most active natural gas plays in the country for over a decade, with dense horizontal drilling and unit development, which means servitudes there are generally well documented and continuously used. Purchase offers in the Haynesville are typically grounded in a solid recent production history and current unit agreements.",
+    "The Tuscaloosa Marine Shale, crossing several parishes in the southeastern part of the state and into Mississippi, has seen far more intermittent activity, so a servitude there carries more uncertainty about both value and prescription status, particularly if drilling in your specific area has slowed in recent years."
+   ]
+  },
+  {
+   "heading": "The Act of Sale and parish conveyance records",
+   "paragraphs": [
+    "Louisiana does not use a mineral deed the way most states do. Instead, a purchase is documented through an Act of Sale, a notarial act prepared and executed before a notary public, which is standard practice in this civil-law state for transferring immovable property and real rights like a mineral servitude. The Act of Sale is then recorded in the conveyance records of the parish, Louisiana's equivalent of a county, where the servitude is located.",
+    "A title examiner working a Louisiana purchase reviews the parish conveyance and mortgage records, along with any relevant succession, Louisiana's term for probate, if the interest passed through inheritance. Louisiana successions have their own procedural requirements distinct from probate in common-law states, so this step often benefits from a Louisiana-licensed attorney's involvement."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, funds are typically held in escrow through a title company or the notary handling the transaction until the Act of Sale is executed. The closing statement itemizes the purchase price, any prorated royalty owed for production before closing, and the net amount paid to you.",
+    "After the Act of Sale is recorded in the parish conveyance records, the buyer sends a copy to the operator so the division order reflects the new owner. If your servitude's prescription status was a question during title review, ask the buyer to confirm in writing exactly how that question was resolved, since it protects both sides going forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is a mineral servitude and how is it different from mineral rights in other states?",
+   "answer": "A mineral servitude is Louisiana's civil-law equivalent of owning mineral rights, but unlike most states it can expire, or prescribe, if it goes unused for ten consecutive years without drilling, production, or another qualifying activity, a concept that does not exist under common-law mineral ownership."
+  },
+  {
+   "question": "Why does Louisiana use an Act of Sale instead of a mineral deed?",
+   "answer": "Louisiana follows civil law rather than common law, and property transfers here are documented through a notarial Act of Sale rather than the deed forms used in most other states, though the underlying purpose, transferring ownership, is the same."
+  },
+  {
+   "question": "Where is a Louisiana mineral sale recorded?",
+   "answer": "In the conveyance records of the parish where the servitude or royalty interest is located, which is the parish-level equivalent of a county recorder's office in other states."
+  },
+  {
+   "question": "My family's Louisiana mineral interest passed through a succession years ago. Does that affect a sale?",
+   "answer": "It can, since Louisiana successions follow their own procedural rules distinct from probate elsewhere, and a title examiner will want to see that the succession was properly completed before insuring a purchase, which is one reason a Louisiana-licensed attorney is often involved in these transactions."
+  },
+  {
+   "question": "Is a Tuscaloosa Marine Shale servitude worth less than a Haynesville one?",
+   "answer": "Not necessarily less valuable, but typically priced with more uncertainty, since Haynesville servitudes generally have a longer, denser record of continuous drilling and unit activity, while Tuscaloosa Marine Shale activity has been more intermittent depending on the specific parish."
+  }
+ ],
+ "status": "written",
+ "wordCount": 954,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-louisiana.jpg",
+  "alt": "Replacement Minerals in Louisiana location",
+  "width": 1600,
+  "height": 1000
+ }
+}

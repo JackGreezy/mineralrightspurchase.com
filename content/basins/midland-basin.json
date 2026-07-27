@@ -1,0 +1,77 @@
+{
+ "slug": "midland-basin",
+ "title": "Midland Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX",
+ "primaryKeyword": "midland basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Midland Basin Mineral Rights Purchase Process",
+ "metaDescription": "How a Midland Basin mineral purchase moves from title check to closing, including horizontal DSU allocation, Spraberry and Wolfcamp bench review.",
+ "heroLead": "On the Midland side of the Permian, most of what you own is defined by a drilling and spacing unit, not the four corners printed on your original deed.",
+ "intro": [
+  "The Midland Basin is the shallower, eastern half of the Permian, and it's been under horizontal development longer than almost anywhere else in the country, which means most tracts here already have a production history to review rather than a blank permit file. That history is actually helpful for a buyer — it gives us royalty statements, division order decimals, and completion dates to work from instead of estimating from scratch.",
+  "The purchase itself follows the same core steps as any mineral sale — title review, offer, purchase and sale agreement, escrow, recording — but the diligence work leans hard on reconciling your deeded acreage against the horizontal drilling and spacing units that actually control your interest today."
+ ],
+ "sections": [
+  {
+   "heading": "Reading a Midland Basin division order correctly",
+   "paragraphs": [
+    "Because Midland Basin wells are almost always horizontal and often drilled in multi-well pads, your decimal interest is calculated against the spacing unit acreage, not your raw net mineral acres. A seller who owns 40 net mineral acres in a 640-acre unit is being paid on a fraction of that unit, and the division order should reflect exactly that math. Before we make an offer on a producing tract, we pull the division order and confirm the unit size, your net acres, and any royalty burden stacking from prior conveyances all line up.",
+    "Where this gets complicated is legacy tracts that have been sold or split among heirs multiple times since the original 1940s or 1950s lease. Each conveyance in the chain can carry a different fractional reservation, and an error two owners back can still be affecting your check today. We trace that chain during diligence rather than taking the current royalty statement at face value."
+   ]
+  },
+  {
+   "heading": "Spraberry and Wolfcamp bench activity",
+   "paragraphs": [
+    "Midland Basin acreage is typically developed across the Spraberry and multiple Wolfcamp benches, and operators here have been drilling long enough that most core Midland, Martin, and Howard County tracts have at least one completed well with a real production curve to evaluate, rather than a speculative permit. That's useful for pricing conversations because we can look at actual monthly volumes and decline behavior instead of projecting from a type curve alone.",
+    "Flank areas toward the basin edges still see permitting activity without full development, so the same tract-by-tract, bench-by-bench check applies — we're not assuming activity based on the county name, we're confirming it against the current permit and completion record for your specific section."
+   ]
+  },
+  {
+   "heading": "Escrow and proration on producing interests",
+   "paragraphs": [
+    "Because most Midland Basin tracts we buy are already receiving royalty checks, closing includes a proration step: the most recent check gets split based on the exact closing date, so you keep everything earned before the sale and we begin collecting after. Funds sit in escrow until the deed is confirmed recordable and title comes back clean, which for Midland, Martin, and Reagan Counties usually means digitized courthouse records and a shorter turnaround than more rural counties elsewhere in the basin."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A current division order and the two or three most recent royalty statements are typically enough for us to confirm your decimal interest and current production level with confidence, since Midland Basin operators generally maintain well-organized, digitized records. If your interest passed through several conveyances since the original mid-20th-century lease, any prior title opinion or attorney correspondence you have is helpful, though not required.",
+    "We can trace the full chain independently through county records if your own file is incomplete, which is common for interests that have changed hands multiple times over the decades."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My deed lists 20 acres, but I'm only paid on a fraction of that. Why?",
+   "answer": "Your royalty is calculated against your share of the spacing unit, not your raw acreage. If your 20 net mineral acres sit inside a 640-acre unit, your decimal reflects that ratio times your royalty fraction, which is normal and something we verify against the division order before buying."
+  },
+  {
+   "question": "Does the Wolfcamp have multiple separately owned benches?",
+   "answer": "The Wolfcamp is often split into Wolfcamp A, B, C, and sometimes D benches, each potentially operated or permitted separately. We check which specific bench any active or planned well targets, since that determines what's actually generating revenue against your interest."
+  },
+  {
+   "question": "How current does my royalty statement need to be to sell?",
+   "answer": "We typically ask for the most recent two to three months of statements to gauge current activity, plus the division order. Older or missing statements aren't disqualifying; we can still work from the operator's current production record."
+  },
+  {
+   "question": "What slows a Midland Basin closing down the most?",
+   "answer": "Usually an incomplete heirship chain from a prior generation, not the operator or the county. Once title is confirmed clean, closing in this basin tends to move faster than average because most county records here are already digitized."
+  },
+  {
+   "question": "Can you work directly with my existing operator to confirm my decimal interest?",
+   "answer": "Yes, we routinely verify decimal interests directly against operator division order records rather than relying solely on documents you provide."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-midland-basin-mineralrightspurchase-com.jpg",
+  "alt": "Midland Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

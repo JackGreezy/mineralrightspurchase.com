@@ -1,0 +1,77 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Reading Your Royalty Statements Before You Sell",
+ "metaDescription": "How to read a royalty statement line by line, including decimal interest, deductions, and proration periods, and why those details shape a purchase offer.",
+ "heroLead": "A royalty statement is dense on purpose. Once you can read it line by line, it stops being confusing and starts being the most useful document you own.",
+ "intro": [
+  "If your minerals are producing, the statement that arrives with your royalty check is also the document most likely to determine your purchase offer. Buyers read these closely, and it helps to understand what they're looking at before you hand a stack of them over.",
+  "Statements vary in format by operator, but most cover the same core information laid out in roughly the same order."
+ ],
+ "sections": [
+  {
+   "heading": "The proration period",
+   "paragraphs": [
+    "Every statement covers a proration period, typically a calendar month, showing production and sales that occurred during that window. Because oil and gas accounting runs behind actual production, a statement dated for a given month often reflects production from one or two months earlier. This lag is normal and not a sign anything is wrong; it just means the check you get in March is usually paying for January's production, not March's.",
+    "When comparing multiple months to spot a trend, always compare by proration period, not by the date the check arrived, or the trend will look distorted by timing rather than actual production changes."
+   ]
+  },
+  {
+   "heading": "Decimal interest and gross value",
+   "paragraphs": [
+    "Your decimal interest, the same number that appears on your division order, is applied to the well or unit's total production and sales value to calculate your gross share. This is usually shown as a small decimal, since most owners hold a fraction of a percent in any given unit. The statement should show the gross value before deductions, which is your starting point for understanding what you're actually being paid on."
+   ]
+  },
+  {
+   "heading": "Deductions and net payment",
+   "paragraphs": [
+    "Most statements subtract post-production costs, things like gathering, transportation, processing, and marketing, before arriving at your net payment. Whether these deductions are allowed depends on the specific language in the governing lease; some older leases prohibit certain deductions entirely, while many modern leases permit them. Comparing gross value to net payment tells you what percentage is being deducted, which is worth tracking over time since it can change as gathering and processing arrangements change.",
+    "Severance and ad valorem taxes are also typically deducted at the state and county level before you receive payment, separate from post-production costs, and are usually broken out as their own line."
+   ]
+  },
+  {
+   "heading": "Why buyers ask for a stack of these",
+   "paragraphs": [
+    "One statement shows a snapshot. Twelve to twenty-four consecutive months show a trend, and trend is what a buyer actually prices, since it reveals where a well sits on its decline curve and how volatile the payments have been month to month. A steadily declining but predictable trend supports a more confident offer than a single strong month with no history behind it."
+   ]
+  },
+  {
+   "heading": "Other lines worth checking",
+   "paragraphs": [
+    "Most statements also show the well or unit name, the API number identifying the specific well, and sometimes the price per barrel or per thousand cubic feet used to calculate that month's value. Comparing that price against publicly available benchmark prices for the same period can flag whether an operator's realized price looks unusually low, which occasionally happens due to gathering or marketing arrangements worth asking about.",
+    "If your statement covers more than one well within the same unit, look for a breakdown by well rather than a single combined figure, since it's harder to judge decline behavior accurately when production from a newer well is blended together with an older one on the same page. Ask the operator for a well-level breakdown directly if your statement doesn't already provide one, since most will supply it on request even when the default format doesn't."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my royalty check amount change every month?",
+   "answer": "Commodity prices, production volume, and deductions all shift month to month, so it's normal for payments to fluctuate rather than stay flat, particularly in the early years of a well's life."
+  },
+  {
+   "question": "What's the difference between gross value and net payment on my statement?",
+   "answer": "Gross value is your decimal interest applied to total production value before deductions. Net payment is what's left after post-production costs and taxes are subtracted, which is the amount you actually receive."
+  },
+  {
+   "question": "Why is my statement dated for a month that already passed by a lot?",
+   "answer": "Oil and gas accounting typically runs one to two months behind actual production, so the proration period on your statement usually reflects earlier production than the date the check arrived."
+  },
+  {
+   "question": "Can I dispute deductions I don't think are allowed under my lease?",
+   "answer": "Yes, if you believe deductions conflict with your lease terms, that's worth raising with the operator directly or with an attorney, since lease language on post-production costs varies and controls what's permitted."
+  },
+  {
+   "question": "How many months of statements should I keep?",
+   "answer": "Keeping at least the last twelve to twenty-four months is useful both for your own records and because that's typically the window a buyer will want to review when building a purchase offer."
+  }
+ ],
+ "wordCount": 851,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-mineralrightspurchase-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

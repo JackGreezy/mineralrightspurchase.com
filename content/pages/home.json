@@ -1,0 +1,72 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Mineral Rights Purchase: How the Whole Transaction Works",
+ "metaDescription": "A clear walkthrough of a mineral rights purchase from both sides, covering offers, title, escrow, closing, and what happens after the deed is recorded.",
+ "heroLead": "A mineral rights purchase touches title work, escrow, deed law, and tax reporting all at once, and most sellers only encounter it once in a lifetime. This is the page that explains the whole arc before you talk to anyone.",
+ "intro": [
+  "Search for mineral rights purchase and you'll mostly find offers. What's harder to find is an explanation of what actually happens between the offer and the money landing in your account, and that gap is where most seller anxiety lives. This page is the pillar for that explanation: how a purchase moves from first contact to a recorded deed, what each stage requires from you, and what determines the number a buyer puts on the table in the first place.",
+  "We work from both sides of this transaction. Understanding what a buyer needs to underwrite an offer, and what a seller needs to protect themselves during closing, is the same knowledge looked at from two directions, and this site is built to teach both."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral rights purchase actually is",
+   "paragraphs": [
+    "Mineral rights are ownership of what's beneath the surface, separate from surface land ownership in most producing states. An owner might hold minerals under land they've never set foot on, inherited from a grandparent's homestead, a family farm sold generations ago with the minerals reserved, or an allotment passed down through a family. A purchase is the permanent transfer of that ownership from seller to buyer, in exchange for a lump sum paid at closing, distinct from a lease, which grants only a temporary right to explore and produce.",
+    "The interest itself can take a few forms. A mineral interest includes the right to lease the property and collect a bonus and royalty. A royalty interest, sometimes carved out separately, pays a share of production with no leasing rights or drilling cost exposure attached. Knowing which one you hold shapes both the pricing conversation and the paperwork ahead."
+   ]
+  },
+  {
+   "heading": "How offers get built: the seller's side of underwriting",
+   "paragraphs": [
+    "If your minerals are producing, an offer typically starts from your recent royalty payment history, converted into an annualized figure and then adjusted for where the well sits on its decline curve. A well six months into a steep initial decline gets priced differently than one further along that has settled into a long, flat tail, even if both are paying similar checks today. This is decline curve analysis and discounted cash flow, done informally, and it's worth asking any buyer to explain their reasoning rather than accepting a number at face value.",
+    "If your minerals are undeveloped or unleased, there's no production history to build from, so buyers lean on comparable sales nearby, adjusted for proximity to active permits and how much operator activity the surrounding area is seeing. This method is inherently less precise, which is why offers on non-producing acreage tend to arrive as a range rather than a fixed number, and why that range moves as permitting activity nearby changes. Any number quoted with total confidence and no context behind it deserves a second look."
+   ]
+  },
+  {
+   "heading": "The transaction arc: offer to recorded deed",
+   "paragraphs": [
+    "Once you agree to terms, you sign a purchase and sale agreement, not a deed, which sets price and gives the buyer a due diligence window, typically thirty to sixty days, to run title before funding. Title work checks the courthouse records for liens, unreleased old leases, and whether your ownership matches what's actually recorded, which is where inherited or older interests most often hit friction that needs to be resolved before closing.",
+    "Closing itself happens through escrow: a title company or closing agent holds both the buyer's funds and your signed mineral deed, releasing them simultaneously so neither side is exposed to the other backing out mid-transaction. The deed is then recorded at the county clerk's office, which is what makes the sale a matter of public record and protects the buyer's ownership against any later claims."
+   ]
+  },
+  {
+   "heading": "What happens after closing",
+   "paragraphs": [
+    "If the property is producing, the deed alone doesn't redirect royalty checks. The operator has to be notified and issue a new division order in the buyer's name, which commonly takes one to three payment cycles. It's normal, not a sign of a problem, for a seller to receive one or two more checks after closing while that paperwork catches up.",
+    "There's also a tax side that starts before closing and continues after: the sale is a capital gains event, calculated against your cost basis, which for inherited interests is typically stepped up to fair market value at the date you inherited rather than the full sale price. Confirm the specifics with your CPA, since basis and holding period are the two details that most affect what you actually owe."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How is a mineral rights purchase different from a lease?",
+   "answer": "A purchase permanently transfers ownership of the mineral interest for a lump sum at closing. A lease grants an operator temporary rights to explore and produce in exchange for a bonus and ongoing royalty, while you retain ownership."
+  },
+  {
+   "question": "How long does a purchase typically take from offer to closing?",
+   "answer": "It varies with how clean the title is, but a straightforward transaction with clear ownership commonly closes in three to six weeks. Complicated heirship or unreleased old leases can extend that."
+  },
+  {
+   "question": "Do I need to know exactly what I own before reaching out?",
+   "answer": "No. It helps to gather whatever deed, division order, or royalty statement you have, but a serious buyer can begin working with county records and general information about the property."
+  },
+  {
+   "question": "What determines whether my offer is a strong one?",
+   "answer": "For producing interests, recent royalty history and where the well sits on its decline curve. For undeveloped acreage, comparable nearby sales and proximity to active permitting. Ask any buyer to explain which method their offer is built on."
+  },
+  {
+   "question": "Will I have to pay taxes on the sale?",
+   "answer": "Yes, generally as a capital gain calculated against your cost basis, which is different for purchased versus inherited interests. Confirm the specifics with your CPA before closing."
+  }
+ ],
+ "wordCount": 1033,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-mineralrightspurchase-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

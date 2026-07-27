@@ -1,0 +1,77 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get a Mineral Rights Purchase Offer",
+ "metaDescription": "Request a mineral rights purchase offer built from your royalty history or comparable nearby sales, with no obligation and no pressure to accept.",
+ "heroLead": "Send us what you know about your interest. We'll tell you what a real offer needs, and build one from actual data, not a guess.",
+ "intro": [
+  "Getting a preliminary offer starts with a short conversation, not a contract. Tell us where the minerals are located and whatever you know about the interest, and we'll walk you through what else, if anything, we need to put together a number worth discussing.",
+  "There's no obligation attached to requesting an offer, and no pressure to accept one once you see it."
+ ],
+ "sections": [
+  {
+   "heading": "What to have ready, if you have it",
+   "paragraphs": [
+    "A county and general location is enough to start. Beyond that, useful additions include a copy of your deed or division order, recent royalty check stubs if the interest is producing, and any lease paperwork if the property is currently leased. If you don't have all of this, that's normal, especially with inherited interests, and we can work with county records to fill in gaps.",
+    "If your interest is undeveloped or unleased, production history obviously won't apply, and we'll instead ask about nearby activity you're aware of, permits, offset wells, or recent lease offers, which helps ground the comparable sales approach we use for that kind of interest."
+   ]
+  },
+  {
+   "heading": "How we build the number",
+   "paragraphs": [
+    "For producing interests, we look at your recent royalty payment history and where the well appears to sit on its decline curve, since a well early in a steep decline is priced differently than one that's flattened into a long production tail. For non-producing acreage, we look at comparable nearby sales and how close active permitting sits to your tract. Either way, we'll explain the reasoning behind the number instead of simply handing you a figure."
+   ]
+  },
+  {
+   "heading": "What happens after you request an offer",
+   "paragraphs": [
+    "We'll follow up, typically within a business day or two, either with a preliminary number or with a short list of what we still need to put one together. From there, it's your call whether to move forward. If you do, the next step is a written purchase and sale agreement, and title work begins during the due diligence period that follows, not before."
+   ]
+  },
+  {
+   "heading": "Why the first number isn't the last word",
+   "paragraphs": [
+    "A preliminary offer is built from what you've shared and whatever public record data is readily available, which is often enough to be genuinely useful, but it's still made before formal title work confirms exactly what you own and whether there are any recorded issues attached to it. Once title comes back clean, the number typically holds. If title turns up something unexpected, we'll walk you through what it means and how it affects the offer before anything moves forward.",
+    "This is also why we'd rather ask a few extra questions upfront than quote a number that has to be walked back later. If your interest involves multiple heirs, a partially released old lease, or acreage split across more than one tract, telling us that early usually makes the preliminary number more accurate from the start."
+   ]
+  },
+  {
+   "heading": "If you decide to move forward",
+   "paragraphs": [
+    "Accepting an offer means signing a purchase and sale agreement, which sets the price and a due diligence period for title work, typically thirty to sixty days. From there, closing happens through escrow, with funds and the signed deed released simultaneously, and the deed recorded at the county clerk's office afterward. If you'd like more detail on that sequence before you get this far, the how-it-works page walks through each stage in order.",
+    "None of these steps require you to travel or handle complicated paperwork alone. We'll walk you through each document as it comes up, and a title company or escrow agent coordinates the mechanics of closing on both sides, so you always know what's expected of you at each stage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is requesting an offer binding in any way?",
+   "answer": "No. Requesting an offer starts a conversation and costs you nothing. You're free to decline, negotiate, or simply take the information and think it over."
+  },
+  {
+   "question": "What if I only own a small fractional interest?",
+   "answer": "Small fractional interests, common with inherited minerals split among several heirs, are still worth reaching out about. Pricing works the same way, just scaled to your actual ownership percentage."
+  },
+  {
+   "question": "I'm not sure exactly what I own. Can you still help?",
+   "answer": "Yes. Send whatever documentation you have, even partial, and we can typically work with county records to fill in the rest during the process."
+  },
+  {
+   "question": "Do you buy interests that aren't currently leased?",
+   "answer": "Yes, unleased and non-producing minerals are priced using comparable nearby sales rather than royalty history, and we're able to make offers on those as well."
+  },
+  {
+   "question": "How soon after accepting an offer would we close?",
+   "answer": "A straightforward transaction with clear title commonly closes in three to six weeks from a signed purchase agreement, though title issues involving heirship or old unreleased leases can extend that timeline further depending on how quickly they're resolved by everyone involved in the ownership chain overall."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-mineralrightspurchase-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer: Step-by-Step",
+ "metaDescription": "How a mineral deed actually transfers title, from legal description to signature requirements to recording at the county clerk, explained step by step.",
+ "heroLead": "A mineral deed looks like a short document. What it takes to get one right, and get it recorded cleanly, is longer than the page count suggests.",
+ "intro": [
+  "The deed is the instrument that legally moves ownership of a mineral interest from you to a buyer. It sounds simple, but mineral deeds carry a few technical requirements that regular real estate deeds don't, and getting them wrong is one of the more common reasons a sale gets delayed after everyone has already agreed on price.",
+  "This page walks through what goes into the deed itself and what happens to it between signing and the moment it actually protects the buyer's ownership."
+ ],
+ "sections": [
+  {
+   "heading": "The legal description has to be exact",
+   "paragraphs": [
+    "Every mineral deed needs a legal description of the tract, beyond an address or a general location. In much of the country that means metes and bounds or a section-township-range description pulled from the original patent or a prior deed in the chain of title. If your deed is transferring a fractional interest rather than all the minerals under a tract, that fraction needs to be stated precisely, as a percentage or as net mineral acres, and it has to match what title research actually shows you own.",
+    "Mismatches here are one of the most common sources of delay. If the legal description in your old deed doesn't quite match current county plat records, that gets sorted out during title work, sometimes with a corrective deed or an affidavit of heirship if the discrepancy traces back to an inheritance.",
+    "Depth and formation limits sometimes appear in the description too. Older deeds occasionally reserved or excluded specific formations, or capped ownership at a certain depth, which matters more today than it did when the deed was written, since horizontal drilling now targets formations that weren't even part of the original conversation. A title examiner will flag this if it applies to your tract, and it may need to be addressed carefully in how the new deed is worded, so the buyer's rights match exactly what the seller actually intended to convey."
+   ]
+  },
+  {
+   "heading": "Warranty type: what the deed actually promises",
+   "paragraphs": [
+    "Mineral deeds typically come in a few flavors. A general warranty deed has the seller guaranteeing clear title against all claims, past and present. A special warranty deed only guarantees against claims arising during the seller's own ownership. A quitclaim or mineral deed without warranty simply conveys whatever interest the seller has, with no guarantee at all. Buyers usually prefer a warranty deed of some kind; which type gets used is typically negotiated as part of the purchase agreement, not decided at the last minute."
+   ]
+  },
+  {
+   "heading": "Signing requirements",
+   "paragraphs": [
+    "Mineral deeds generally need to be signed in front of a notary, and depending on the county, may need to meet specific formatting requirements for margins, font size, or the first page to be accepted for recording. If more than one person owns the interest, such as siblings who inherited minerals jointly, all owners typically need to sign, or a power of attorney needs to be on file for anyone who can't sign directly."
+   ]
+  },
+  {
+   "heading": "Recording at the county clerk's office",
+   "paragraphs": [
+    "Once signed, the deed gets recorded in the county where the minerals are located, which is what makes the transfer a matter of public record and establishes the buyer's priority against later claims. Recording usually happens through the title company or closing agent handling escrow, and a copy of the recorded deed, stamped with the county clerk's filing information, becomes part of your closing documents.",
+    "Recording can take anywhere from same-day to several weeks depending on the county's backlog, and until it's recorded, the transfer isn't fully protected against competing claims that might get filed in the meantime."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a lease?",
+   "answer": "A deed permanently transfers ownership of the mineral interest itself. A lease grants an operator the right to explore and produce for a set term in exchange for royalty payments, while ownership stays with the mineral owner."
+  },
+  {
+   "question": "Do all co-owners have to sign the deed?",
+   "answer": "Generally yes, if the sale covers a jointly owned interest. Each owner typically needs to sign, or provide a valid power of attorney, before the deed can be recorded and the sale finalized."
+  },
+  {
+   "question": "What happens if the legal description doesn't match county records?",
+   "answer": "This gets caught during title work and usually resolved with a corrective deed, a survey, or an affidavit clarifying the chain of title, though it can add time to closing."
+  },
+  {
+   "question": "How long does it take for a deed to be recorded?",
+   "answer": "It varies by county, from same-day in smaller, well-staffed clerk's offices to several weeks in busier counties, especially during periods of heavy drilling activity when filing volume spikes."
+  },
+  {
+   "question": "Do I need an attorney to review the deed before signing?",
+   "answer": "It's not always required, but having an attorney review the deed and warranty type is a reasonable step, particularly for larger interests or ones with a complicated ownership history."
+  }
+ ],
+ "wordCount": 855,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-mineralrightspurchase-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

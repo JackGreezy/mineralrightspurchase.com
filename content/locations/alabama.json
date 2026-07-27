@@ -1,0 +1,78 @@
+{
+ "slug": "alabama",
+ "title": "Sell Mineral Rights in Alabama",
+ "type": "state",
+ "group": "Black Warrior coalbed methane",
+ "primaryKeyword": "mineral rights alabama",
+ "seo": {
+  "vol": 110,
+  "cpc": 6.91
+ },
+ "metaTitle": "Sell Mineral Rights in Alabama: The Closing Process",
+ "metaDescription": "How an Alabama mineral rights purchase closes: Probate Court recording, a title search on Black Warrior basin acreage, escrow, and a closing statement, explained step by step.",
+ "heroLead": "Alabama records land conveyances through the county Probate Court rather than a separate recorder's office, and that single fact shapes almost every step of a mineral rights closing here.",
+ "intro": [
+  "Most Alabama mineral owners hold their interest because of coalbed methane development in the Black Warrior basin, concentrated in Tuscaloosa, Jefferson, Walker, and Bibb counties, where gas is produced from the same coal seams once mined for fuel. If you inherited a fractional interest from a family land patent or bought acreage decades ago and never leased it, the purchase process is the same regardless of whether a well is currently producing on your tract.",
+  "This page walks through what actually happens between an offer and a recorded deed in Alabama, using the terms you will see on the paperwork: mineral deed, title opinion, curative requirement, and closing statement."
+ ],
+ "sections": [
+  {
+   "heading": "Why the Probate Court matters here",
+   "paragraphs": [
+    "Alabama has no separate county recorder. Deeds, mineral conveyances, and affidavits of heirship are all filed with the Probate Judge in the county where the minerals sit, and that same office holds the older instruments a buyer's title examiner will need to pull. If your interest was passed down through a will or an intestate estate, the Probate Court file for that estate becomes part of the chain of title the examiner reviews before a purchase can close.",
+    "Because coalbed methane leases in the Black Warrior basin often trace back thirty or forty years, examiners frequently find gaps: a deed that never got recorded, an heir who was left off an estate distribution, or a name spelled two different ways across two instruments. None of these are unusual, but each one has to be resolved with a curative document, typically an affidavit or a corrective deed, before the buyer's title company will insure the purchase."
+   ]
+  },
+  {
+   "heading": "What a title examiner is actually checking",
+   "paragraphs": [
+    "A title opinion on Alabama coalbed methane acreage confirms three things: that you own the fractional mineral interest you say you own, that the interest is not already encumbered by an unreleased lease or a prior sale, and that the legal description in the offer matches the legal description on record. Coal and gas rights were sometimes severed from the surface separately in this part of the state, so the examiner also checks whether you hold the coal, the gas, or both.",
+    "If your interest passed through several generations without every heir being formally added to the deed record, expect the examiner to request a heirship affidavit signed by someone with direct knowledge of the family history, or, in more complicated cases, a short probate proceeding to formally distribute the interest before the sale can close."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, the buyer typically opens escrow with a title company or closing attorney who holds the purchase funds until the mineral deed is signed, notarized, and ready to record. The closing statement itemizes the gross purchase price, any prorated royalty payments still owed to you for production that occurred before the sale, and the net amount wired or mailed to you at closing.",
+    "The mineral deed is then filed with the Probate Judge's office in the county of record, and the buyer typically also sends a copy to the operator so future royalty checks route to the new owner. Ask your buyer in writing when the deed will be recorded and how you will receive confirmation, since the recording date is what legally cuts off your right to future production income."
+   ]
+  },
+  {
+   "heading": "Transfer-on-death and other ways minerals change hands",
+   "paragraphs": [
+    "Alabama adopted a Uniform Real Property Transfer on Death Act that lets an owner file a TOD deed naming a beneficiary who takes the mineral interest outside of probate at death. If you are the beneficiary of a TOD deed, you will need to record an affidavit of confirmation before selling, which most title examiners treat as a routine curative step rather than a red flag.",
+    "Interests still working through a decedent's estate can usually be sold by the personal representative once the Probate Court grants letters testamentary or letters of administration, though the buyer's title company will want to see that authority documented before funding escrow."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a lawyer to sell mineral rights in Alabama?",
+   "answer": "It is not legally required, but a real estate or probate attorney is worth the cost if your interest passed through an estate that was never formally settled, since curative work often needs a licensed attorney's signature on affidavits or corrective filings."
+  },
+  {
+   "question": "How long does a title examination take on Black Warrior basin acreage?",
+   "answer": "A straightforward chain of title can be examined in one to two weeks. If the examiner finds unresolved heirship or a missing link in the chain, curative work can add several weeks depending on how quickly county records can be pulled and how many heirs need to sign an affidavit."
+  },
+  {
+   "question": "What is the difference between a mineral deed and a lease?",
+   "answer": "A lease grants a company the right to produce oil, gas, or coal for a set term in exchange for royalty payments while you keep ownership of the minerals. A mineral deed permanently transfers ownership itself, and any future royalty income goes to the new owner once the deed is recorded."
+  },
+  {
+   "question": "Will I still get paid for production that happened before closing?",
+   "answer": "Yes, typically. The closing statement should prorate any royalty accrued but not yet paid as of the closing date, with that amount either paid to you directly or credited against the purchase price, depending on how the purchase agreement is written."
+  },
+  {
+   "question": "What happens if my interest was never formally recorded under my name?",
+   "answer": "This is common with inherited coal and gas interests that trace back several generations. The title examiner will typically require an heirship affidavit or, for larger estates, a probate filing to establish the chain of ownership before the county Probate Judge will accept the mineral deed for recording."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1019,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-alabama.jpg",
+  "alt": "Sell Mineral Rights in Alabama location",
+  "width": 1600,
+  "height": 1000
+ }
+}

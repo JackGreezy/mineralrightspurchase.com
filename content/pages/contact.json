@@ -1,0 +1,82 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us About a Mineral Rights Purchase",
+ "metaDescription": "Reach out about selling mineral rights, requesting an offer, or asking a question about title, escrow, or closing. No obligation, no pressure to respond.",
+ "heroLead": "Whether you have a specific interest to discuss or just a question about how any of this works, reach out and we'll walk through it with you.",
+ "intro": [
+  "You don't need a finished deed or a stack of paperwork to reach out. Owners contact us at every stage, some with a specific tract and payment history ready to go, others with a single inherited royalty check and a lot of questions about what it even means. Both starting points are fine."
+ ],
+ "sections": [
+  {
+   "heading": "What to include when you reach out",
+   "paragraphs": [
+    "A general location, county and state at minimum, helps us respond with something useful right away. Beyond that, whatever you have on hand, a deed, a division order, recent royalty statements, or lease paperwork, speeds things up, but none of it is required just to start a conversation.",
+    "If your question is more general, about how title work happens, what a division order is, or how the tax side of a sale gets treated, that's a fine reason to reach out too. Not every message needs to be about a specific transaction."
+   ]
+  },
+  {
+   "heading": "What happens after you contact us",
+   "paragraphs": [
+    "We typically respond within a business day or two. If you've provided enough detail for a preliminary offer, we'll put one together and explain what it's based on. If we need more information first, we'll tell you exactly what would help and why, rather than leaving you guessing."
+   ]
+  },
+  {
+   "heading": "If you're not ready to sell yet",
+   "paragraphs": [
+    "Plenty of people reach out just to understand their options, whether that's leasing versus selling, what their interest might realistically be worth, or what a lowball offer from someone else actually looks like on paper. We're glad to answer those questions without turning it into a sales pitch, and there's no pressure to move forward with anything afterward."
+   ]
+  },
+  {
+   "heading": "If you're comparing multiple offers",
+   "paragraphs": [
+    "It's common to reach out after already receiving an offer from someone else, wanting a second opinion or a comparison point. Send along whatever details you're comfortable sharing about the other offer, and we'll tell you honestly whether ours is likely to be competitive before you spend time on a full conversation. We'd rather be straightforward about that upfront than waste your time.",
+    "If the other offer looks unusually vague about how it was calculated, or the agreement itself raises questions you're unsure about, that's also worth bringing to us even if you don't end up selling to us. We're glad to help you read through terms you're uncertain of."
+   ]
+  },
+  {
+   "heading": "If you're handling this on behalf of family",
+   "paragraphs": [
+    "Many inquiries come from someone managing an inherited interest on behalf of siblings or other relatives, sometimes with the ownership still tangled up in an estate that hasn't fully settled. That's a normal starting point, not an obstacle, and we can walk through what documentation is typically needed to establish the ownership chain, including whether a formal probate or an affidavit of heirship applies to your situation, before any formal offer is finalized."
+   ]
+  },
+  {
+   "heading": "Response times and how we communicate",
+   "paragraphs": [
+    "We typically respond by whichever method you use to reach out, email or phone, and we try to keep that first response substantive rather than a generic acknowledgment that someone will be in touch eventually. If a question needs research on our end, county records or a specific operator's history in an area, we'll tell you that directly rather than leaving you waiting without an explanation.",
+    "If you'd prefer a call over email, or the other way around, let us know your preference when you reach out and we'll follow that going forward rather than defaulting to whichever channel is easiest for us. We'd rather communicate the way that actually works for you than repeat the same information across mismatched channels, since that's what tends to slow a conversation down unnecessarily, and slower conversations rarely help either side."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost or obligation to reach out?",
+   "answer": "No. Contacting us, asking questions, or requesting a preliminary offer costs nothing and doesn't obligate you to move forward with anything."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "Typically within a business day or two, either with a preliminary answer or with a note about what additional information would help us respond more specifically."
+  },
+  {
+   "question": "Can I ask a general question without a specific property in mind?",
+   "answer": "Yes. General questions about the process, title, escrow, taxes, or leasing versus selling are welcome even if you don't have a specific transaction in mind yet."
+  },
+  {
+   "question": "What if I only have partial information about my interest?",
+   "answer": "That's common, especially with inherited minerals. Send what you have and we can typically work with county records to fill in the rest as the conversation moves forward."
+  },
+  {
+   "question": "Do you handle interests owned by multiple family members?",
+   "answer": "Yes, jointly owned or inherited interests with multiple heirs are common, and we're glad to walk through what that looks like for signing and closing, including how documentation gets gathered across several family members."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-mineralrightspurchase-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

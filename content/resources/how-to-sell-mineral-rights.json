@@ -1,0 +1,78 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Mineral Rights: The Purchase Walkthrough",
+ "metaDescription": "A step-by-step anatomy of a mineral rights purchase, from first inquiry to recorded deed, so you know what each stage actually involves before you sign anything.",
+ "heroLead": "Selling mineral rights is not one event. It is a sequence of smaller decisions, each with its own paperwork, and knowing the sequence is what keeps a seller from getting rushed.",
+ "intro": [
+  "Most people who search for how to sell mineral rights are really asking a narrower question: what happens after I say yes. This page walks through the anatomy of a purchase in the order it actually unfolds, so you can see where the leverage sits, where the paperwork slows down, and where a seller who understands the process tends to end up better off than one who does not.",
+  "None of this replaces your own attorney or CPA. It is meant to make the conversation with them shorter, because you will already know the vocabulary."
+ ],
+ "sections": [
+  {
+   "heading": "Stage one: figuring out what you actually own",
+   "paragraphs": [
+    "Before any number gets discussed, a buyer needs to know what interest you hold. Mineral rights and royalty interests are not the same thing, and neither is the same as a working interest with cost obligations attached. Some owners hold minerals under land they never lived on, inherited from a grandparent's allotment or a family farm sold decades ago with the minerals reserved. Others hold a royalty interest carved out of a lease, which pays a share of production but carries no drilling costs.",
+    "This stage usually starts with you gathering whatever paperwork you have: a deed, a division order, an old lease, a royalty check stub. A serious buyer will ask for a legal description, beyond a county and a rough acreage, because pricing and title work both depend on the specific tract."
+   ]
+  },
+  {
+   "heading": "Stage two: the offer and what it is actually based on",
+   "paragraphs": [
+    "A written offer typically references recent royalty payment history if the interest is producing, or nearby leasing and permitting activity if it is undeveloped. Offers on producing interests are commonly framed as a multiple of recent monthly or quarterly royalty checks, adjusted for how fast that production is expected to decline. Offers on non-producing acreage lean more on comparable transactions in the area and how close active rigs or permits are to your tract.",
+    "Treat the first number as a starting point, not a final one. Ask what data it is built on, and ask whether the buyer has run title yet. An offer made before title work is preliminary by nature, and it should be treated that way by both sides."
+   ]
+  },
+  {
+   "heading": "Stage three: signing, but not closing",
+   "paragraphs": [
+    "When you agree to terms, you sign a purchase and sale agreement, not a deed. The PSA sets the price, the closing timeline, and the conditions the buyer can still walk away under, most commonly a title defect that materially changes value. Read the due diligence period carefully. It is normal for a buyer to have thirty to sixty days to examine title before funding.",
+    "This is also the stage where earnest money sometimes changes hands, held by a title company or escrow agent rather than paid directly to either party, so that neither side can walk off with funds mid-transaction."
+   ]
+  },
+  {
+   "heading": "Stage four: title work, escrow, and the deed",
+   "paragraphs": [
+    "The buyer's title work will check the courthouse records for liens, unreleased old leases, competing claims from other heirs, and whether the legal description in your paperwork actually matches the county's plat records. Gaps here are common with older or inherited interests and are usually fixable, but they take time.",
+    "Once title clears, closing happens through escrow: funds and the signed mineral deed are both held by a neutral party and released simultaneously, so payment and transfer happen at the same moment rather than one side trusting the other to follow through second."
+   ]
+  },
+  {
+   "heading": "Stage five: after the deed is recorded",
+   "paragraphs": [
+    "Recording the deed at the county clerk's office is what makes the sale a matter of public record and protects the buyer's interest against later claims. If the property is producing, the buyer still has to notify the operator and get a new division order issued before royalty checks redirect to them, which can take one to three payment cycles depending on the operator's paperwork backlog."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take from offer to closing?",
+   "answer": "It varies with how clean the title is and how quickly the county clerk's office processes documents, but a straightforward transaction with clear title commonly closes in three to six weeks. Complicated heirship or an unreleased old lease can add well beyond that."
+  },
+  {
+   "question": "Do I need a lawyer to sell mineral rights?",
+   "answer": "It is not always required, but for anything beyond a small fractional interest it is worth having an attorney review the purchase agreement and deed before you sign, especially if the interest passed through inheritance."
+  },
+  {
+   "question": "Can I sell only part of my mineral rights?",
+   "answer": "Yes. Owners frequently sell a percentage of their interest, or the rights under one tract while keeping others, and a deed can be drafted to convey exactly that fraction."
+  },
+  {
+   "question": "What if I can't find my original deed or lease paperwork?",
+   "answer": "That is common with inherited interests. A buyer can typically pull the relevant county records themselves during title work, though having whatever documents you do have speeds things up."
+  },
+  {
+   "question": "Will selling affect royalty checks I'm already receiving?",
+   "answer": "Checks continue under your name until the new division order is processed after closing. After that, payments redirect to the buyer for production going forward."
+  }
+ ],
+ "wordCount": 925,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-mineralrightspurchase-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

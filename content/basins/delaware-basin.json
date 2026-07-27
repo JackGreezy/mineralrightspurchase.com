@@ -1,0 +1,77 @@
+{
+ "slug": "delaware-basin",
+ "title": "Delaware Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX/NM",
+ "primaryKeyword": "delaware basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Delaware Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Delaware Basin minerals in Texas or New Mexico: how deeper stacked-pay diligence, state trust land leases, and closing differ from Midland Basin sales.",
+ "heroLead": "The Delaware Basin runs deeper and thicker than its neighbor to the east, and if your minerals sit on the New Mexico side, state land ownership can be part of the picture before we ever get to yours.",
+ "intro": [
+  "The Delaware Basin is the western, deeper half of the Permian, stretching from West Texas into southeast New Mexico, and it carries more stacked pay per section than almost any other U.S. play — Bone Spring, Avalon, Wolfcamp, and Delaware sand intervals can all be separately targeted under the same acreage. For a buyer, that means diligence has more layers to check, and for a seller, it usually means more potential value if multiple benches are active.",
+  "The core purchase process doesn't change: title review, offer, agreement, escrow, closing. What changes is how much operator and formation-level checking happens before an offer is made, and, on the New Mexico side, whether adjacent state trust land leasing affects unit configuration around your tract."
+ ],
+ "sections": [
+  {
+   "heading": "Why Delaware Basin diligence takes longer per bench",
+   "paragraphs": [
+    "A single Delaware Basin section can have separate horizontal units targeting the Wolfcamp A, Wolfcamp B, second Bone Spring, and third Bone Spring — four distinct spacing units, four distinct operators potentially, four distinct division orders. Before we make an offer, we build a formation-by-formation activity map for your specific tract: which benches have permits, which have completed wells, and which are still undeveloped. That map is what actually drives the offer, not the county name alone.",
+    "This is also where sellers sometimes overvalue based on general basin reputation. Being \"in the Delaware Basin\" doesn't mean every bench under your acreage is active; some flank tracts have one productive interval and three that remain untested. We price against what's documented, and we're upfront about which benches show real activity versus speculative permitting."
+   ]
+  },
+  {
+   "heading": "New Mexico state trust land and title complexity",
+   "paragraphs": [
+    "On the New Mexico side of the basin, particularly Eddy and Lea Counties, checkerboard sections of state trust land administered by the New Mexico State Land Office sit interspersed with private and federal minerals. If a horizontal unit crosses state trust acreage, the operator's lease with the State Land Office follows separate royalty terms and reporting than a private lease, and it can affect how a unit gets configured around your tract. We confirm during diligence whether your minerals border or fall within a unit that includes state trust acreage, since it changes what division order documentation we need to pull.",
+    "Texas-side Delaware Basin counties like Reeves, Culberson, and Loving don't carry that state trust overlay, so title review there tracks closer to standard Permian process — deed chain, lease status, and current operator confirmation."
+   ]
+  },
+  {
+   "heading": "Escrow, proration, and closing timelines",
+   "paragraphs": [
+    "As with any producing Permian tract, escrow holds funds until title is confirmed clean and recordable, and we prorate the most recent royalty check to the closing date. Delaware Basin counties on the Texas side are generally well digitized; several New Mexico counties still require direct courthouse research to complete a full chain of title, which we factor into the closing schedule from the start rather than discovering mid-transaction."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your tract",
+   "paragraphs": [
+    "For a producing Delaware Basin interest, we request the current division order and recent royalty statements to confirm your decimal interest against the active unit or units. For non-producing, permitted acreage, we work primarily from the lease and any permit filings tied to your section, since there's no royalty statement yet to review.",
+    "Where a tract borders New Mexico state trust land, we also confirm the State Land Office lease terms for the relevant unit, since that documentation informs how we assess the unit's overall configuration and activity level around your minerals."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How many formations might be active under my Delaware Basin tract?",
+   "answer": "It varies, but two to four separately targeted benches under the same section isn't unusual. We check permit and completion records for each formation individually rather than assuming activity in one bench means activity everywhere."
+  },
+  {
+   "question": "Does bordering state trust land in New Mexico affect my minerals?",
+   "answer": "It can affect how a spacing unit is configured if your tract borders or overlaps state trust acreage, but it doesn't change your ownership. We confirm the unit boundaries and documentation during diligence so there's no confusion at closing."
+  },
+  {
+   "question": "Is Delaware Basin acreage worth more than Midland Basin acreage?",
+   "answer": "It depends entirely on documented activity for the specific tract, not the sub-basin name. Some Delaware acreage has more stacked, active benches; some Midland acreage has longer production history. We price against your specific formation-level activity, not basin reputation."
+  },
+  {
+   "question": "How long does a New Mexico county closing typically take?",
+   "answer": "Several Delaware Basin counties in New Mexico still require in-person courthouse research rather than digitized lookup, which can add one to two weeks to the title timeline. We build that into the schedule up front so it doesn't cause a surprise delay."
+  },
+  {
+   "question": "Do you buy non-producing, leased-only Delaware Basin acreage?",
+   "answer": "Yes, we regularly purchase leased but not yet producing interests. Pricing reflects the permit activity and operator involvement on your specific section rather than existing royalty income."
+  }
+ ],
+ "wordCount": 878,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-delaware-basin-mineralrightspurchase-com.jpg",
+  "alt": "Delaware Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

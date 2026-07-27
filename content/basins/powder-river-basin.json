@@ -1,0 +1,83 @@
+{
+ "slug": "powder-river-basin",
+ "title": "Powder River Basin Mineral Rights",
+ "type": "basin",
+ "group": "WY/MT",
+ "primaryKeyword": "powder river basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Powder River Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Wyoming or Montana Powder River Basin minerals? Learn how checkerboard land grants, split estate, and CBM legacy interests shape a sale.",
+ "heroLead": "Powder River Basin land ownership still carries the fingerprints of a 19th-century railroad land grant, and that checkerboard pattern shows up directly in how spacing units get built here today.",
+ "intro": [
+  "The Powder River Basin spans northeast Wyoming and southeast Montana, historically known for large-scale coalbed methane development starting in the 1990s and, more recently, for horizontal oil development targeting the Niobrara and Turner sand formations. Because both eras of development sit on the same acreage in many areas, a Powder River Basin mineral owner may hold interests tied to legacy CBM production, newer horizontal oil development, or both, depending on the specific tract and formation.",
+  "Ownership patterns here also reflect the basin's history as railroad land grant territory, which created an alternating checkerboard of private, state, and federal minerals that operators have to work around when configuring modern horizontal units."
+ ],
+ "sections": [
+  {
+   "heading": "Checkerboard ownership and split estate",
+   "paragraphs": [
+    "Much of the Powder River Basin's land pattern traces back to 19th-century railroad grants that awarded alternating sections to the railroad and reserved others for the federal government, a legacy still visible in the mixed private, state, and federal mineral ownership across the basin today. It's also common here for surface and mineral ownership to be split, with a rancher owning the surface while a separate party, sometimes descendants of an earlier owner, holds the minerals. We confirm both the checkerboard unit configuration and the surface-mineral ownership split during diligence, since either can affect access, unit boundaries, and how your specific interest is documented."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent royalty statement, or confirmation that a well has been plugged, is the most useful starting point for a legacy CBM interest, while a current division order works best for newer horizontal Niobrara or Turner development. We also ask whether you hold the surface as well as the minerals, since split estate is common here and doesn't affect what we can purchase, but helps us understand the full picture of your ownership.",
+    "For tracts touching the basin's checkerboard federal or state sections, we confirm the specific unit configuration directly with BLM or Wyoming state land records as part of standard diligence."
+   ]
+  },
+  {
+   "heading": "Legacy coalbed methane versus newer horizontal oil development",
+   "paragraphs": [
+    "CBM development in this basin peaked in the 2000s and has since matured into long, low-decline production on many legacy wells, some of which have reached the end of their economic life and been plugged. More recently, horizontal drilling targeting the Niobrara and Turner formations has brought renewed oil-focused activity to parts of the basin, often on the same acreage that once hosted CBM wells but from separately configured units at different depths. We check which type of development, if any, is currently active on your specific tract, since a legacy CBM interest and a newer horizontal oil interest are different assets with different valuation profiles even on the same land."
+   ]
+  },
+  {
+   "heading": "Title and closing across Campbell and Converse Counties",
+   "paragraphs": [
+    "Core Powder River Basin activity concentrates in Wyoming's Campbell and Converse Counties, where county clerk records are generally solid, though the checkerboard ownership pattern means we often cross-reference BLM and Wyoming state land records alongside county deed records to build a complete title picture. Escrow and closing follow the standard sequence once that full chain is confirmed clean."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is land ownership so checkerboarded in this basin?",
+   "answer": "It traces back to 19th-century railroad land grants that alternated sections between the railroad and the federal government, a pattern still reflected in today's mixed private, state, and federal mineral ownership across the Powder River Basin."
+  },
+  {
+   "question": "I have an old CBM well and I've heard about new horizontal oil wells nearby. Are these the same interest?",
+   "answer": "Not necessarily. Legacy coalbed methane production and newer horizontal Niobrara or Turner oil development are often configured as separate units at different depths, even on the same acreage. We check which specific development applies to your interest before valuing it."
+  },
+  {
+   "question": "Is my old CBM well still producing?",
+   "answer": "Some legacy Powder River Basin CBM wells continue producing at mature, low-decline levels; others have reached the end of their economic life and been plugged. We confirm current status directly for your specific well as part of diligence."
+  },
+  {
+   "question": "Do I need to own the surface to sell my minerals here?",
+   "answer": "No. Split estate, where the surface and minerals are owned separately, is common in this basin, and we regularly purchase mineral interests where the seller has no surface ownership at all."
+  },
+  {
+   "question": "Does not owning the surface limit what I can sell?",
+   "answer": "No. Split estate ownership is common in this basin, and we regularly purchase mineral interests from owners who hold no surface rights at all."
+  },
+  {
+   "question": "How do you determine which formation my interest is actually tied to?",
+   "answer": "We review the specific well or unit documentation, including depth and formation names in the division order or lease, rather than assuming based on the general area's development history."
+  },
+  {
+   "question": "Is Converse County seeing more current activity than Campbell County?",
+   "answer": "Recent horizontal Niobrara and Turner development has been notable in Converse County specifically, though Campbell County retains substantial legacy CBM production. We check your specific tract's status either way."
+  }
+ ],
+ "wordCount": 880,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-powder-river-basin-mineralrightspurchase-com.jpg",
+  "alt": "Powder River Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

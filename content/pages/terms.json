@@ -1,0 +1,77 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use: Mineral Rights Purchase",
+ "metaDescription": "The terms governing use of this site, including what the content is and isn't intended for, and how offers and transactions actually get formalized.",
+ "heroLead": "The terms below cover how this site is meant to be used, and just as importantly, what the content on it is not meant to substitute for.",
+ "intro": [
+  "This page explains the terms that apply when you use this website, request information, or communicate with us. As with the rest of this site, we've tried to write it in plain language rather than dense legal boilerplate, though it still functions as our terms of use."
+ ],
+ "sections": [
+  {
+   "heading": "What this site is for",
+   "paragraphs": [
+    "This site provides general educational information about the mineral rights purchase process, including how offers are typically built, how title and escrow work, and what happens after closing, along with a way to contact us about a specific property or request a preliminary offer. Nothing on this site constitutes a binding offer to purchase any specific interest; any actual offer is made separately, directly to you, after we've reviewed information about your particular property.",
+    "By using this site or contacting us, you agree that the information you provide is accurate to the best of your knowledge, and that any preliminary figures discussed before a written purchase agreement is signed are estimates, not commitments, since final pricing depends on title work and verification of your actual ownership."
+   ]
+  },
+  {
+   "heading": "No legal, tax, or investment advice",
+   "paragraphs": [
+    "Content on this site, including the resource pages explaining deeds, division orders, taxes, and appraisal methods, is general information, not legal, tax, or financial advice tailored to your situation. We are not a law firm, CPA firm, or licensed appraiser. Before signing any purchase agreement or deed, or making decisions based on the tax information described here, you should consult your own attorney or CPA, who can evaluate your specific circumstances.",
+    "Similarly, discussion of value, pricing methods, or ranges anywhere on this site is illustrative and educational. It is not a guarantee, appraisal, or binding representation of what any specific interest, including yours, is worth."
+   ]
+  },
+  {
+   "heading": "How actual transactions are governed",
+   "paragraphs": [
+    "If you choose to move forward with a sale, that transaction is governed by a separate, written purchase and sale agreement and mineral deed, signed by both parties, not by the general content on this site. Those documents, along with applicable state and county law, control the actual terms of any purchase, including price, warranty type, and closing timeline.",
+    "Nothing on this site should be read as modifying, superseding, or interpreting the terms of any actual purchase agreement you sign. If there's ever a conflict between something described generally here and the specific terms of your signed agreement, the signed agreement controls."
+   ]
+  },
+  {
+   "heading": "Site use and limitations",
+   "paragraphs": [
+    "You agree to use this site for its intended purpose, requesting information or discussing a potential mineral rights transaction, and not to misuse contact forms or submitted information for unrelated purposes. We make reasonable efforts to keep the educational content on this site accurate and current, but oil and gas law, tax treatment, and market conditions change, and we can't guarantee every detail remains up to date at every moment you read it."
+   ]
+  },
+  {
+   "heading": "Liability",
+   "paragraphs": [
+    "This site, and the educational content on it, is provided as-is, without warranty of any kind regarding its completeness or applicability to your specific circumstances. To the extent permitted by law, we are not liable for decisions made based solely on the general information here, without independent verification or professional advice suited to your particular property and situation.",
+    "This limitation doesn't apply to the specific representations and warranties made in an actual signed purchase agreement or mineral deed, which are governed by their own terms and by applicable law, separate from the general disclaimers on this site and independent of anything described here in general terms, since the signed documents always control over the general summary."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a preliminary offer discussed by phone or email legally binding?",
+   "answer": "No. Preliminary offers are estimates based on the information available at the time. A binding transaction requires a signed written purchase and sale agreement and, ultimately, a signed mineral deed."
+  },
+  {
+   "question": "Can I rely on the resource pages instead of talking to my own attorney or CPA?",
+   "answer": "The resource pages are general educational information, not advice tailored to your situation. For decisions specific to your property or tax circumstances, consult your own attorney or CPA."
+  },
+  {
+   "question": "What law governs an actual purchase agreement?",
+   "answer": "Purchase agreements and mineral deeds are governed by the terms written into those specific documents along with applicable state and county law where the minerals are located, not by this website's general terms."
+  },
+  {
+   "question": "Do these terms change over time?",
+   "answer": "They may be updated periodically to reflect changes in how the site operates. The version posted at the time of a specific interaction is the one that applies to that interaction."
+  },
+  {
+   "question": "What happens if information I provided turns out to be inaccurate?",
+   "answer": "Any preliminary offer is based on the information available at the time and is subject to correction once title work verifies actual ownership, which can change the final terms offered at closing."
+  }
+ ],
+ "wordCount": 852,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-mineralrightspurchase-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Are Appraised and Underwritten",
+ "metaDescription": "The methods buyers actually use to underwrite a mineral rights purchase, including decline curve analysis, discounted cash flow, and comparable sales.",
+ "heroLead": "Underwriting a mineral purchase is closer to underwriting a bond than pricing a house. It's a bet on a stream of future income, and every method below is a way of estimating that stream.",
+ "intro": [
+  "Buyers don't pull a number out of the air. They run one or more of a handful of established methods, each suited to a different situation, and understanding these methods is what lets you evaluate whether an offer was seriously underwritten or just guessed at.",
+  "This isn't a substitute for a formal appraisal, which some sellers do commission for estate or tax purposes, but it explains the same logic buyers use informally when they build a purchase offer."
+ ],
+ "sections": [
+  {
+   "heading": "Decline curve analysis",
+   "paragraphs": [
+    "For producing wells, the starting point is almost always decline curve analysis: plotting historical production month by month and fitting a curve to project how output will fall over time. Unconventional wells typically show a steep initial decline followed by a long, shallow tail that can continue producing at low volumes for many years. Where your well sits on that curve right now, early and steep versus late and flattening, has a large effect on how a buyer values remaining production.",
+    "This is also why a single strong month of production tells a buyer very little on its own. They need enough history to see the shape of the curve, well beyond one isolated point on it. A well that spiked briefly due to an operational adjustment, then settled back down, reads very differently than one on a smooth, predictable decline, and only a longer production history reveals which pattern applies."
+   ]
+  },
+  {
+   "heading": "Discounted cash flow",
+   "paragraphs": [
+    "Once future production is projected, a buyer typically discounts those future royalty payments back to a present value using a discount rate that reflects the risk involved, things like commodity price volatility, the operator's track record, and how confident the decline projection actually is. A higher perceived risk means a higher discount rate, which lowers the present value even if the projected production numbers look identical to a lower-risk well.",
+    "This is the mechanism behind the multiple-of-checks shorthand buyers often quote. The multiple is really a simplified stand-in for a full discounted cash flow calculation, compressed into a single number for conversation."
+   ]
+  },
+  {
+   "heading": "Comparable sales",
+   "paragraphs": [
+    "For undeveloped or unleased minerals with no production history to project, buyers lean on comparable sales: what similar acreage nearby has recently sold for, adjusted for differences in formation depth, operator activity, and proximity to permits or active rigs. This method is inherently less precise than cash flow analysis, which is part of why non-producing acreage tends to get quoted as a wider range rather than a tight number."
+   ]
+  },
+  {
+   "heading": "Risking",
+   "paragraphs": [
+    "Layered on top of either method is risking, an adjustment for the chance that projected outcomes simply don't happen. A permit near your acreage might never turn into a drilled well. A projected decline curve might undershoot if the operator re-fracs or refines completion technique. Buyers build in a margin for this uncertainty, which is part of why offers tend to sit below a purely optimistic projection rather than matching it exactly."
+   ]
+  },
+  {
+   "heading": "Sensitivity to commodity prices",
+   "paragraphs": [
+    "All of these methods run on a commodity price assumption, and that assumption matters more than owners often expect. A cash flow projection built on pricing at the time of the offer will shift if oil or gas prices move meaningfully before closing, which is part of why buyers periodically revisit a preliminary number rather than treating it as fixed from the first conversation onward.",
+    "This works in a seller's favor as often as against it. Rising commodity prices can support a stronger revised offer during a longer due diligence period, just as falling prices can pull one down, which is another reason to treat any early figure as a starting point tied to a specific moment rather than a permanent ceiling or floor."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between decline curve analysis and comparable sales?",
+   "answer": "Decline curve analysis projects future production from an existing well's history and is used for producing interests. Comparable sales looks at what similar nearby acreage has sold for, and is used when there's no production history to project."
+  },
+  {
+   "question": "Why do buyers discount future royalty payments instead of just adding them up?",
+   "answer": "Money received years from now is worth less today than the same amount received now, and future production carries risk. Discounting accounts for both, which is standard practice in valuing any future income stream."
+  },
+  {
+   "question": "What is risking in a mineral appraisal?",
+   "answer": "It's an adjustment for the probability that projected outcomes, like a permit turning into an active well, don't actually happen, which buyers build into their pricing rather than assuming the best case."
+  },
+  {
+   "question": "Should I get an independent appraisal before selling?",
+   "answer": "It can be worthwhile, particularly for estate or tax purposes, or for larger interests where you want an independent benchmark before comparing buyer offers."
+  },
+  {
+   "question": "Why is undeveloped acreage priced as a range instead of a specific number?",
+   "answer": "Without production history to run decline curve or cash flow analysis on, buyers rely on comparable sales, which is inherently a less precise method and naturally produces a range rather than a fixed figure."
+  }
+ ],
+ "wordCount": 884,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-mineralrightspurchase-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

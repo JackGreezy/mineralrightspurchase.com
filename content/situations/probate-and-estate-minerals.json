@@ -1,0 +1,73 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights During Probate | What Closing Requires",
+ "metaDescription": "An executor can sell mineral rights during probate, but the closing file needs Letters Testamentary and sometimes a court order first. Here's the sequence.",
+ "heroLead": "An estate can sign a mineral deed before probate closes, but the buyer's closing file has to prove the signer actually had authority to sign it.",
+ "intro": [
+  "Most people assume mineral rights sit frozen until probate wraps up. They don't have to. Once a personal representative is appointed, that person usually has authority to sell estate assets, including mineral and royalty interests, well before the estate formally closes. What changes the timeline isn't the minerals themselves, it's what the probate court requires before a sale of real property is valid, because mineral interests are real property in every producing state.",
+  "The closing mechanics run on documents, not intentions. A buyer's title examiner is going to ask three questions before funds move: who has legal authority to convey, does the court process for this estate require independent authorization to sell, and is the chain from decedent to seller unbroken on the county records. Get ahead of those three questions and a probate sale closes about as fast as any other."
+ ],
+ "sections": [
+  {
+   "heading": "What has to exist before a mineral deed gets signed",
+   "paragraphs": [
+    "The starting document is Letters Testamentary, if there's a will, or Letters of Administration, if there isn't. These are issued by the probate court and name the personal representative with authority to act for the estate. A title examiner will want a certified copy, dated recently, because some states require the letters to be current within a set window to prove the appointment hasn't been revoked and the estate hasn't closed.",
+    "Whether that's enough depends on the estate's administration type. In an independent administration, common in Texas and several other states, the executor can often sell real property, including minerals, without going back to the judge for a specific order. In a dependent or supervised administration, the executor typically has to petition the court for authority to sell, sometimes with notice to heirs and a waiting period, and the buyer's deed won't record clean without that order in the file."
+   ]
+  },
+  {
+   "heading": "Small estates and affidavit procedures",
+   "paragraphs": [
+    "Not every mineral interest goes through full probate. Many states allow a small estate affidavit when the estate's total value falls under a statutory threshold, which lets heirs transfer the decedent's interests without opening a formal probate case. Mineral interests, especially small fractional ones inherited from an original family allotment or an old severed royalty, often qualify because the on-paper value looks modest even though the interest is real and salable.",
+    "The affidavit route is faster but the buyer still needs the underlying chain documented: death certificate, the affidavit itself recorded in the county where the minerals sit, and confirmation that all heirs signed if the affidavit doesn't designate one person with sole authority. A buyer who has closed probate deals before will usually walk the affidavit through with you rather than requiring a full probate filing just because the paperwork looks unfamiliar."
+   ]
+  },
+  {
+   "heading": "Multiple heirs and one estate deed",
+   "paragraphs": [
+    "If the will divides the mineral interest among several heirs, the personal representative can often still convey the whole interest in one deed during administration, with proceeds distributed per the will's shares afterward. That's frequently cleaner than waiting for the estate to close and distribute the minerals to heirs individually, who would then each need to sign a separate deed, coordinate signatures across whatever states they live in, and duplicate notary and closing costs for the same net acreage.",
+    "Where heirs disagree about selling, the personal representative's authority to sell doesn't disappear, but a buyer will want to see that disagreement isn't going to surface as a title claim later. A short written acknowledgment from disputing heirs, even if they're not signing the deed, tends to satisfy underwriters without dragging the family into litigation over a decision the will already delegated to the executor."
+   ]
+  },
+  {
+   "heading": "What slows a probate closing down",
+   "paragraphs": [
+    "The most common delay isn't the court, it's the county clerk's office where the minerals are recorded. If prior deeds, the will, or the letters haven't been recorded in that specific county, or if the legal description in the original severance deed doesn't match what the estate inventory lists, the title examiner sends the file back for correction before anything else moves. That correction step, not the probate court itself, is usually where weeks get lost.",
+    "The other common snag is an estate that spans multiple counties or states because the decedent held interests scattered across a play. Each county's records have to independently show the chain of title, so ancillary probate or a certified letters filing in each county may be required even though there's only one estate and one executor. A buyer who's done this before will tell you upfront which counties need that extra filing instead of finding out after the deed is drafted."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights before probate is finalized?",
+   "answer": "In most independent administration states, yes. Letters Testamentary give the executor authority to convey estate assets, including minerals, without waiting for the estate to formally close. Dependent administrations usually require a specific court order authorizing the sale first."
+  },
+  {
+   "question": "Do all the heirs have to sign if the estate is still in probate?",
+   "answer": "Not usually. While the estate is open and the personal representative holds authority, that one person can typically sign the mineral deed on the estate's behalf. Once the estate distributes the minerals to heirs individually, each heir becomes a separate signer for any future sale of their share."
+  },
+  {
+   "question": "What if the mineral interest wasn't listed on the estate inventory?",
+   "answer": "It happens more than people expect, especially with old severed interests the family forgot about or never received statements on. The inventory can usually be amended, but that amendment needs to happen before or alongside the sale so the chain of title matches what's being conveyed."
+  },
+  {
+   "question": "Does a small estate affidavit work for mineral rights specifically?",
+   "answer": "Often yes, if the estate's overall value is under your state's threshold and the affidavit is recorded in the county where the minerals are located, rather than only the county of the decedent's residence. Some states set separate, lower thresholds specifically for mineral or royalty interests."
+  },
+  {
+   "question": "How long does a probate mineral sale usually take to close?",
+   "answer": "If the letters are current, the administration type doesn't require a separate court order, and prior deeds are properly recorded in the county, a probate sale can close on roughly the same timeline as any other mineral deed. Add court-order or multi-county requirements and it extends, sometimes by several weeks."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1106,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-mineralrightspurchase-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

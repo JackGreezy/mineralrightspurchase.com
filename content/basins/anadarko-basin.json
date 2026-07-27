@@ -1,0 +1,76 @@
+{
+ "slug": "anadarko-basin",
+ "title": "Anadarko Basin Mineral Rights",
+ "type": "basin",
+ "group": "OK/TX",
+ "primaryKeyword": "anadarko basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Anadarko Basin Mineral Rights Purchase Explained",
+ "metaDescription": "Selling Anadarko Basin minerals in Oklahoma or the Texas Panhandle? Learn how OCC forced pooling and deep-basin title review shape the purchase.",
+ "heroLead": "If your Anadarko Basin minerals are in Oklahoma, there's a real chance you were pooled into a unit whether you signed a lease or not, and that changes what documents diligence needs to pull.",
+ "intro": [
+  "The Anadarko Basin spans western Oklahoma and the Texas Panhandle, holding one of the deepest and most geologically complex stacked-pay sections in the country, with formations from the shallow Mississippian down through the Woodford, Springer, and deep Hunton and Arbuckle intervals all potentially productive under the same acreage. Development has run in waves for decades, so title chains here are often longer and older than in newer shale plays.",
+  "The Oklahoma side adds a wrinkle most sellers haven't dealt with elsewhere: forced pooling. If you never signed a lease but your minerals sit inside a unit the Oklahoma Corporation Commission approved, you may already be receiving payments under a pooling order rather than a negotiated lease, and that status matters for how we structure the purchase."
+ ],
+ "sections": [
+  {
+   "heading": "Forced pooling and what it means for a purchase",
+   "paragraphs": [
+    "Under Oklahoma law, an operator can bring a nonconsenting mineral owner into a drilling unit through an OCC pooling order rather than a voluntary lease, offering the owner a choice among bonus-and-royalty, working interest participation, or another statutory election. If you were pooled rather than leased, the pooling order itself — not a lease — is the governing document, and we pull it directly from OCC records during diligence to confirm your election and current payment status.",
+    "This matters at closing because a pooled interest transfers differently on paper than a leased one; the assignment needs to reference the pooling order and cause number so the operator's records match cleanly after the sale. We handle that filing correctly so your buyer doesn't inherit a mismatch between the county deed records and the OCC docket."
+   ]
+  },
+  {
+   "heading": "Deep stacked pay and formation-specific activity",
+   "paragraphs": [
+    "Anadarko Basin wells can run two miles deep or more, targeting the Woodford, Springer sands, or the Mississippi Lime shallower up-section, and different operators have historically worked different intervals in the same county at different times. Some western Oklahoma counties saw heavy Mississippi Lime activity years ago that has since slowed, while deeper Woodford and Springer targets remain active in specific fairways. We check current permitting and completion activity by formation for your section rather than pricing off the basin's overall reputation, which spans decades of uneven development."
+   ]
+  },
+  {
+   "heading": "Title review on older Anadarko Basin chains",
+   "paragraphs": [
+    "Because parts of this basin have been under lease and production since the mid-20th century, chains of title frequently run through several generations of heirs, older probate records, and sometimes court-ordered partitions. County clerk digitization varies widely across western Oklahoma and the Texas Panhandle, so we scope the title timeline county by county rather than assuming a standard turnaround, and escrow holds funds until that chain is confirmed clean."
+   ]
+  },
+  {
+   "heading": "What we ask for before making an offer",
+   "paragraphs": [
+    "Before pricing an Anadarko Basin interest, we typically request the most recent royalty statement or pooling order, the original lease or a copy of the deed, and, where available, any prior division order correspondence from the operator. This lets us confirm your decimal interest independently rather than relying solely on your description of the tract.",
+    "If any of these documents are missing, that's not a dealbreaker. We can pull deed and lease records directly from the relevant county clerk and, where a pooling order applies, from the Oklahoma Corporation Commission's public docket, so a seller without a complete paper file can still move forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I never signed a lease. Can I still sell my minerals?",
+   "answer": "Yes. If you were force-pooled by an OCC order, that order establishes your terms and payment status, and we can still purchase the underlying mineral interest. We pull the pooling order as part of diligence to confirm exactly what was elected on your behalf."
+  },
+  {
+   "question": "What is a pooling election, and does it affect what I can sell?",
+   "answer": "When pooled, an owner typically elects between a cash bonus with royalty, working interest participation, or another statutory option. Your prior election affects what interest you currently hold, which we confirm from the OCC docket before structuring an offer."
+  },
+  {
+   "question": "Are all Anadarko Basin formations equally active right now?",
+   "answer": "No. Activity has shifted between the Mississippi Lime, Woodford, and Springer over different periods, and some areas that were heavily drilled years ago have quieted while others remain active. We check current permit and completion data for your specific section rather than generalizing across the basin."
+  },
+  {
+   "question": "How does closing work if my interest came from a pooling order rather than a lease?",
+   "answer": "The assignment we record references the pooling order and cause number alongside the standard deed language, so the operator's internal records and the county clerk's records stay consistent after the sale. This is standard for us on Oklahoma pooled interests."
+  },
+  {
+   "question": "What documents speed up an Anadarko Basin closing?",
+   "answer": "A recent royalty statement or pooling order and your deed are the most useful starting point. We can pull the rest directly from county and OCC records if your own file is incomplete."
+  }
+ ],
+ "wordCount": 872,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-anadarko-basin-mineralrightspurchase-com.jpg",
+  "alt": "Anadarko Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

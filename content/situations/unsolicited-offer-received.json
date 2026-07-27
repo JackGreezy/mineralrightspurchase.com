@@ -1,0 +1,66 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer? Read Before Signing",
+ "metaDescription": "An unsolicited mineral rights purchase agreement often has clauses a negotiated deal wouldn't. Here's what to check before you sign anything that arrived by mail.",
+ "heroLead": "A purchase agreement that shows up in your mailbox unprompted is written entirely by the buyer's attorney, which means every ambiguous clause in it was drafted to favor them.",
+ "intro": [
+  "Getting an unsolicited offer for your mineral rights isn't unusual, buyers scan county records for owners of interests near active drilling and send offers cold, sometimes to hundreds of owners in a section at once. The offer itself isn't a red flag by itself. What matters is that it arrived as a finished document you're being asked to sign, not a negotiated agreement built with your input, and finished documents drafted unilaterally tend to include terms a negotiated deal wouldn't.",
+  "None of this means don't sell, or don't trust the offer. It means read the actual purchase and sale agreement in full, beyond the cover letter summarizing the price, before signing anything, because the clauses that matter are rarely the ones highlighted in the marketing language."
+ ],
+ "sections": [
+  {
+   "heading": "Clauses worth reading twice",
+   "paragraphs": [
+    "Look for a mother hubbard or after-acquired title clause, which can sweep in interests you own nearby that weren't part of the original offer's description, sometimes far beyond what the price was calculated against. Look at how the legal description is written, whether it names your specific tract precisely or uses broad language that could be read to cover more acreage than intended. And look for a due diligence or inspection period clause that lets the buyer walk away or renegotiate after you've already signed, while you're bound from the moment you sign.",
+    "Also worth checking: whether the agreement includes a warranty of title clause that puts the burden on you to defend against any title defect discovered later, versus a quitclaim structure where you're only conveying what you actually have with no further obligation if something turns up wrong. The difference matters more on older, less-documented family interests where a title gap is more likely to surface after closing."
+   ]
+  },
+  {
+   "heading": "How to know if the price is reasonable",
+   "paragraphs": [
+    "An unsolicited offer's price is a starting point, not a verdict on your interest's value. Because the buyer sourced it from public records without your input, it's worth getting a second read on your specific tract, its position in the play, whether it's leased or unleased, producing or not, before deciding the number is fair or low. That doesn't require an appraisal, just a comparison against what similar tracts nearby have recently sold or leased for, which a buyer working in that specific area can usually speak to.",
+    "It's also fair to simply ask the original buyer to explain how they arrived at the number. A buyer confident in their offer will walk through their reasoning, activity nearby, comparable recent deals, the interest's decimal size, rather than treat the number as non-negotiable and unexplained."
+   ]
+  },
+  {
+   "heading": "You're not on the clock the letter implies",
+   "paragraphs": [
+    "Unsolicited offers frequently include language suggesting urgency, an expiration date on the offer, or wording implying the price won't be available later. Sometimes that's genuine, buyers do move on to other tracts if an owner doesn't respond. But it's rarely true that a reasonable, informed decision has to happen within the days the letter suggests, and a buyer unwilling to give you time to have the agreement reviewed is telling you something about how the rest of the deal will go.",
+    "Taking the purchase agreement to an attorney, even for a brief review rather than a full negotiation, before signing is a normal step, not an insult to the buyer, and any legitimate offer survives that delay."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it normal to receive an unsolicited offer for my mineral rights?",
+   "answer": "Yes. Buyers regularly source owner names and addresses from public county records and mail offers to owners near drilling activity. Receiving one isn't itself a warning sign, but read the actual agreement carefully before signing."
+  },
+  {
+   "question": "What is a mother hubbard clause and why does it matter?",
+   "answer": "It's language that can sweep in mineral interests you own nearby beyond what the offer specifically described and priced. Check the legal description closely to see whether it's limited to the intended tract or written more broadly."
+  },
+  {
+   "question": "Should I get the agreement reviewed by an attorney before signing?",
+   "answer": "It's a reasonable and common step, especially since the agreement was drafted entirely by the buyer's side. A legitimate offer will still be there after a brief review, and talk to your attorney about anything in the terms you don't fully understand."
+  },
+  {
+   "question": "How do I know if the offered price is fair?",
+   "answer": "Compare it against recent leasing and sale activity for similar tracts nearby, and ask the buyer to explain how they calculated the number. A confident, legitimate buyer will walk through their reasoning rather than treat the price as fixed and unexplained."
+  },
+  {
+   "question": "The letter says the offer expires soon, does that mean I have to decide fast?",
+   "answer": "Not necessarily. Some urgency is genuine, but a buyer unwilling to give you reasonable time to review the agreement is worth being cautious about. A fair offer generally survives a short delay for review."
+  }
+ ],
+ "status": "written",
+ "wordCount": 868,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-mineralrightspurchase-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate | What Actually Gets Conveyed",
+ "metaDescription": "Owning the surface doesn't mean owning what's beneath it. Here's how a split estate closing confirms exactly which rights a mineral deed conveys.",
+ "heroLead": "Owning the land your house sits on and owning what's beneath it are two separate legal estates, and a closing on either one needs to be precise about which is actually changing hands.",
+ "intro": [
+  "In most of the country, land ownership is unified, the same person owns the surface and everything beneath it. In much of the historic oil and gas producing states, that's not the case, and split estates, where the surface belongs to one owner and the mineral rights beneath it belong to another, entirely unrelated, owner, are common enough to be the norm rather than the exception. Split estates happen when a prior owner sold the surface but kept the minerals, or sold the minerals and kept the surface, sometimes generations ago.",
+  "This matters directly to anyone buying or selling minerals, because confirming that a mineral deed is conveying only the mineral estate, not accidentally implicating surface rights, or confirming that a surface sale isn't accidentally including minerals the seller assumed went with the land, is one of the first things a title examiner checks, and getting it wrong creates real disputes later."
+ ],
+ "sections": [
+  {
+   "heading": "How the severance actually happened",
+   "paragraphs": [
+    "Every split estate traces back to a severance deed, the original instrument where surface and minerals were split apart. Finding and reading that deed is essential to a mineral closing because it establishes exactly what was reserved or conveyed, whether it covers all minerals or only specific ones like oil and gas versus coal or other solid minerals, and whether it includes any surface use rights for the mineral owner to access and develop what's beneath the ground.",
+    "If the severance deed is old or unclear about scope, that ambiguity carries forward into every later transfer, including the one you're now considering. Confirming the original severance language before pricing or closing a sale avoids inheriting a dispute that predates everyone currently involved."
+   ]
+  },
+  {
+   "heading": "The mineral owner's right to use the surface",
+   "paragraphs": [
+    "Under the dominant estate doctrine, followed in most states with split estates, the mineral estate is legally dominant over the surface estate, meaning the mineral owner or their lessee generally has an implied right to use as much of the surface as reasonably necessary to explore for and produce minerals, even without the surface owner's separate consent. That right is typically limited to what's reasonably necessary and doesn't authorize unnecessary damage, but it's a real legal principle that affects how development plays out on split-estate land.",
+    "This is why buying a mineral interest doesn't require also buying or controlling the surface, the legal framework already grants reasonable access, though in practice operators today usually negotiate a surface use agreement with the surface owner to avoid disputes and cover damages, even where they're not strictly required to."
+   ]
+  },
+  {
+   "heading": "What a mineral deed does and doesn't include",
+   "paragraphs": [
+    "A mineral deed conveys the mineral estate: the substances themselves, the right to lease and develop them, and royalty income from production. It does not convey any interest in the surface unless the deed specifically says so, which is uncommon in a straightforward mineral sale. If you're selling minerals but you also happen to own the surface over that same tract, make sure the deed's language is limited to minerals only, so you don't inadvertently convey surface rights you meant to keep, or vice versa.",
+    "Conversely, if you're buying a tract described as including minerals, confirm the seller actually held the mineral estate at all, since it's entirely possible for someone to own and be willing to sell surface land they believe includes minerals when in fact those minerals were severed away by a prior owner generations before them."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If I own the surface, do I automatically own the minerals underneath?",
+   "answer": "Not necessarily. In split estate states, surface and mineral ownership are frequently held by different, unrelated parties as a result of a prior severance deed, and owning one doesn't imply owning the other."
+  },
+  {
+   "question": "Can a mineral owner access my surface property without my permission?",
+   "answer": "Under the dominant estate doctrine followed in most split-estate states, mineral owners generally have an implied right to reasonable surface use for development, though most operators today still negotiate a surface use agreement in practice."
+  },
+  {
+   "question": "How do I find out if my minerals were severed from the surface?",
+   "answer": "By tracing the deed history back to find the original severance instrument, which shows exactly when and how surface and minerals were split, and what scope of minerals it covers."
+  },
+  {
+   "question": "Does selling my mineral rights affect my ownership of the surface?",
+   "answer": "No, as long as the deed's language is properly limited to the mineral estate, which is standard in a straightforward mineral sale. Surface ownership is unaffected unless the deed specifically includes it."
+  },
+  {
+   "question": "What if the severance deed doesn't clearly say which minerals were included?",
+   "answer": "That ambiguity carries forward into every later transfer and is worth resolving before pricing or closing a sale, since it affects exactly what's being conveyed and can otherwise surface as a dispute later."
+  }
+ ],
+ "status": "written",
+ "wordCount": 857,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-mineralrightspurchase-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

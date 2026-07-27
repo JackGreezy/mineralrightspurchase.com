@@ -1,0 +1,70 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Mineral Rights Held in a Trust | Trustee Authority",
+ "metaDescription": "A trustee can usually sell trust-owned mineral rights without beneficiary sign-off, but the closing file needs the trust document to prove it. Details here.",
+ "heroLead": "A trustee's signature alone can often convey trust-owned mineral rights, but the buyer's closing file has to see the trust document to know that authority actually exists.",
+ "intro": [
+  "Mineral interests placed in a trust, whether set up for estate planning, to avoid probate, or as part of a family succession plan, are conveyed differently than interests owned outright. The trustee signs the deed, not the beneficiaries, but a buyer can't simply take the trustee's word for it that they have authority to sell. The trust instrument itself has to demonstrate that power, and how much of that instrument gets reviewed depends on the state and the type of trust.",
+  "For a trustee handling this for the first time, the process feels more document-heavy than a straightforward individual sale, but it's a well-worn path. Trusts holding mineral interests are common enough, especially in families that structured their estate planning around exactly this kind of asset, that buyers and title companies have standard ways of confirming authority without requiring the entire trust document to become part of the public record."
+ ],
+ "sections": [
+  {
+   "heading": "Proving trustee authority without exposing the whole trust",
+   "paragraphs": [
+    "Most states allow a certification of trust, sometimes called a trust summary or trustee's certificate, which discloses the trust's existence, the trustee's identity and powers, and confirms the trust is still in effect, without requiring the full trust document, including its private beneficiary and distribution terms, to be recorded publicly. That certification is usually what a title examiner asks for first, and it's often sufficient on its own.",
+    "If the certification doesn't clearly address the power to sell mineral or real property specifically, or if the trust is unusual in structure, the examiner may need to see the relevant sections of the trust itself, the powers clause specifically, though even then it's common to redact or omit the distribution and beneficiary sections that don't bear on the sale."
+   ]
+  },
+  {
+   "heading": "Successor trustees and trust amendments",
+   "paragraphs": [
+    "If the person selling is a successor trustee, meaning the original trustee has died, resigned, or become incapacitated, the closing file needs documentation of that transition too, typically the original trustee's death certificate or resignation and whatever the trust document specifies for how a successor is appointed. Skipping this step is a common reason trust closings stall, because the deed gets drafted with the successor's name before the file actually proves they're the valid current trustee.",
+    "Trusts amended after the mineral interest was placed into them also need the amendment reviewed if it changed trustee powers or successor provisions, since an outdated original trust document alone won't reflect who currently has authority to sign."
+   ]
+  },
+  {
+   "heading": "Revocable vs. irrevocable trusts at closing",
+   "paragraphs": [
+    "A revocable living trust, common in estate planning specifically to avoid probate, usually gives the trustee, often the same person who created the trust while they're alive, broad authority to buy and sell trust assets without beneficiary consent, since the beneficiaries' interests haven't vested yet. These tend to close nearly as fast as an individual sale once the certification of trust is in hand.",
+    "Irrevocable trusts vary more. Some give the trustee similarly broad discretion; others require beneficiary consent, a court order, or a specific finding that the sale serves the trust's purpose before a sale of trust property is authorized. Reading the trust's specific powers clause, not assuming based on the trust being irrevocable, is what settles which category yours falls into."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can a trustee sell mineral rights without the beneficiaries signing?",
+   "answer": "Usually yes, if the trust document grants the trustee authority to sell trust property, which most trusts do. Beneficiaries typically don't need to sign or separately consent unless the trust specifically requires it."
+  },
+  {
+   "question": "What is a certification of trust and why does the buyer need it?",
+   "answer": "It's a summary document confirming the trust exists, naming the trustee, and describing their powers, without disclosing the full trust including private beneficiary terms. Most title examiners accept it in place of the complete trust document."
+  },
+  {
+   "question": "I'm a successor trustee, what extra paperwork do I need?",
+   "answer": "Documentation showing how you became trustee, typically the prior trustee's death certificate or resignation plus the trust's succession provisions. This has to be in the closing file before the deed can be drafted in your name as trustee."
+  },
+  {
+   "question": "Does it matter if the trust is revocable or irrevocable?",
+   "answer": "It affects how much authority the trustee has by default. Revocable trusts usually give the trustee broad discretion to sell. Irrevocable trusts vary and sometimes require beneficiary consent or a court finding, so the specific powers clause needs to be checked."
+  },
+  {
+   "question": "Do beneficiaries get notified when trust-owned minerals are sold?",
+   "answer": "That depends on the trust document and, in some states, on trustee duties of disclosure to beneficiaries, but it's typically a matter between the trustee and beneficiaries rather than a requirement for the sale itself to close."
+  },
+  {
+   "question": "What if the trust was created in a different state than where the minerals sit?",
+   "answer": "That's common and generally not a problem. The trust is governed by its own state's law for questions of trustee authority, while the deed itself still records in the county where the mineral interest is physically located."
+  }
+ ],
+ "status": "written",
+ "wordCount": 884,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-mineralrightspurchase-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

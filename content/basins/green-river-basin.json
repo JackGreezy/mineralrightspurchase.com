@@ -1,0 +1,87 @@
+{
+ "slug": "green-river-basin",
+ "title": "Green River Basin Mineral Rights",
+ "type": "basin",
+ "group": "WY",
+ "primaryKeyword": "green river basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Green River Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Wyoming Green River Basin minerals near Pinedale or Jonah Field? Learn how federal BLM leasing and tight gas activity shape a sale.",
+ "heroLead": "A large share of Green River Basin mineral acreage sits alongside or checkerboarded with federal land managed by the Bureau of Land Management, and that overlay affects how a unit gets configured around your tract.",
+ "intro": [
+  "The Green River Basin in southwest Wyoming is one of the country's major tight gas basins, home to the Pinedale and Jonah fields, developed through extensive, closely spaced drilling over the past two decades. Federal mineral ownership plays a large role here, with BLM-administered leases interspersed among private and state minerals in many areas, a pattern rooted in historic railroad land grants that created the checkerboard ownership common across the American West.",
+  "For a private mineral owner in this basin, that federal overlay doesn't change your ownership, but it does affect how spacing units get configured and what documentation we check during diligence."
+ ],
+ "sections": [
+  {
+   "heading": "Checkerboard ownership and unit configuration",
+   "paragraphs": [
+    "Historic railroad land grants left much of the Green River Basin in an alternating pattern of federal and private sections, and when an operator builds a horizontal spacing unit today, it often crosses both federal BLM leasehold and private minerals within the same unit. We confirm how your tract's unit is configured, including whether federal leasing terms apply to any portion of the unit, since federal lease royalty and reporting rules differ somewhat from private lease terms and can affect how the overall unit's production is allocated."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent royalty statement and division order let us confirm your decimal interest against the current spacing unit configuration, including whether any portion of that unit involves federal BLM leasehold. If your tract has been leased but isn't yet producing, we work from the lease and any BLM or state permitting records tied to your section instead.",
+    "We're also glad to walk through how the checkerboard pattern specifically affects your tract, since it's one of the more commonly misunderstood aspects of owning minerals in this basin and worth understanding before you evaluate any offer."
+   ]
+  },
+  {
+   "heading": "Tight gas development in Pinedale and Jonah fields",
+   "paragraphs": [
+    "The Pinedale Anticline and Jonah Field have been developed with some of the tightest well spacing in the country, targeting the Lance and Mesaverde formations, and both fields have long, well-documented production histories at this point. We review current well density and production data for your specific tract, since these fields have been developed in phases over many years and activity levels vary depending on where within the field your acreage sits."
+   ]
+  },
+  {
+   "heading": "Title and closing on Sublette and Sweetwater County tracts",
+   "paragraphs": [
+    "Core Green River Basin activity concentrates in Sublette and Sweetwater Counties, where county clerk records are generally organized but where the mixed federal, state, and private mineral pattern means title work often involves cross-referencing BLM records alongside county deed records. We handle that cross-referencing directly during diligence and structure escrow and closing around confirmed, clean title, consistent with how we close in any basin."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does bordering federal BLM land affect my private mineral ownership?",
+   "answer": "No, it doesn't change your ownership, but it can affect how a spacing unit is configured if your tract borders or is checkerboarded with federal leasehold. We confirm unit configuration during diligence so you understand exactly what's being priced."
+  },
+  {
+   "question": "Is Pinedale and Jonah Field development still active?",
+   "answer": "Both fields have long development histories with production still ongoing, though the pace of new drilling has varied over the years. We check current activity for your specific tract rather than assuming a constant development pace across the whole field."
+  },
+  {
+   "question": "Why is there a mix of federal and private minerals in my area?",
+   "answer": "This traces back to historic railroad land grants that created an alternating, checkerboard pattern of federal and private land across much of the American West, including the Green River Basin. It's a common historical feature of this region, not anything unusual about your specific tract."
+  },
+  {
+   "question": "Does federal lease involvement slow down closing?",
+   "answer": "It can add a documentation step if your unit includes federal leasehold, since we cross-reference BLM records alongside county records. We scope this into the closing timeline upfront so it doesn't create a late surprise."
+  },
+  {
+   "question": "Do you buy minerals that border but aren't inside federal land?",
+   "answer": "Yes. Bordering federal land doesn't change your private ownership, though we do confirm how nearby BLM leasehold affects any unit your tract might be included in."
+  },
+  {
+   "question": "Does state trust land nearby affect my private minerals the same way federal land does?",
+   "answer": "Wyoming state trust land can similarly factor into unit configuration alongside federal and private minerals, and we confirm whichever combination applies to your specific tract during diligence."
+  },
+  {
+   "question": "Is Sublette County or Sweetwater County more active right now?",
+   "answer": "Activity levels shift over time in both counties depending on pricing and operator focus. We check current permitting and production for your specific tract rather than generalizing by county."
+  },
+  {
+   "question": "Do you buy interests with only partial, older production records available?",
+   "answer": "Yes, we can reconstruct most of a well's current production picture directly from Wyoming state and operator records, so an incomplete personal file isn't a barrier to getting an offer."
+  }
+ ],
+ "wordCount": 871,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-green-river-basin-mineralrightspurchase-com.jpg",
+  "alt": "Green River Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

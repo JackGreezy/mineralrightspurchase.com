@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mineralrightspurchase.com/sitemap.xml
+# AI: https://mineralrightspurchase.com/llms.txt

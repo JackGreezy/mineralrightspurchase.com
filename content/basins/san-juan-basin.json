@@ -1,0 +1,87 @@
+{
+ "slug": "san-juan-basin",
+ "title": "San Juan Basin Mineral Rights",
+ "type": "basin",
+ "group": "NM/CO",
+ "primaryKeyword": "san juan basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "San Juan Basin Mineral Rights Purchase Guide",
+ "metaDescription": "Selling New Mexico or Colorado San Juan Basin minerals? Learn how mature CBM production and Navajo Nation allotted land affect a purchase.",
+ "heroLead": "Parts of the San Juan Basin overlap Navajo Nation allotted lands, and where that's the case, a mineral transfer runs through Bureau of Indian Affairs approval rather than the county clerk alone.",
+ "intro": [
+  "The San Juan Basin, spanning northwest New Mexico and southwest Colorado, is one of the country's oldest and most mature natural gas basins, with development stretching back to the 1950s and expanding significantly through coalbed methane production in the 1980s and 1990s. Most tracts we evaluate here have decades of production history behind them, and ownership can range from straightforward private fee minerals to interests tied to allotted trust land within the Navajo Nation, which follow an entirely different transfer process.",
+  "The core purchase steps are the same as any basin, but San Juan Basin diligence starts with confirming what type of ownership you actually hold, since that determines which agencies and records govern the transfer."
+ ],
+ "sections": [
+  {
+   "heading": "Fee minerals versus Navajo Nation allotted trust land",
+   "paragraphs": [
+    "If your minerals are private fee ownership, meaning they trace through a standard chain of deeds outside any tribal trust status, the purchase follows the normal county-based process. If your interest is instead an allotted trust interest tied to Navajo Nation land, any transfer requires approval through the Bureau of Indian Affairs rather than a simple county deed recording, and the timeline and documentation requirements are materially different. We confirm which category applies to your specific interest at the very start of diligence, since it changes the entire process from there forward."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "For fee mineral interests, a recent royalty statement and the original lease or deed are the key documents we start with. For allotted trust interests, we instead work primarily from Bureau of Indian Affairs records, and we'll walk you through exactly what documentation that process requires, since it differs meaningfully from a standard county-based sale.",
+    "Given how many San Juan Basin interests have passed through multiple generations, we also commonly help coordinate a sale across several heirs who each hold a fractional share of the same original interest."
+   ]
+  },
+  {
+   "heading": "Mature CBM and conventional gas production",
+   "paragraphs": [
+    "San Juan Basin gas production spans both older conventional wells from the mid-20th century and coalbed methane wells from the later boom, and many tracts have both types of production history layered on the same or adjacent acreage. Decades in, most wells here have settled into long, low-decline production, and we evaluate current, documented output for your specific tract rather than the basin's historical peak output from its more active development decades."
+   ]
+  },
+  {
+   "heading": "Title review across decades of San Juan Basin leasing",
+   "paragraphs": [
+    "Because leasing here began generations ago in some areas, title chains commonly run through multiple rounds of inheritance, and New Mexico and Colorado county records in core counties like San Juan and La Plata require careful chain-of-title work to confirm current ownership accurately. We handle that research directly, and for any interest touching allotted trust land, we coordinate the BIA approval process as part of getting to a clean closing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my minerals are fee ownership or Navajo Nation allotted trust land?",
+   "answer": "This is typically documented in your original conveyance or, for trust interests, through Bureau of Indian Affairs records rather than a standard county deed. We confirm this early in diligence since it determines the entire transfer process."
+  },
+  {
+   "question": "Does selling an allotted trust interest take longer than a standard sale?",
+   "answer": "Generally yes, since it requires Bureau of Indian Affairs approval in addition to standard title work. We coordinate that process directly and build the realistic timeline into the transaction from the start."
+  },
+  {
+   "question": "Is my San Juan Basin well too old to still be producing?",
+   "answer": "Many San Juan Basin wells, including decades-old conventional and CBM wells, continue producing at mature, low-decline levels. We check current, documented production for your specific well before valuing the interest."
+  },
+  {
+   "question": "Can you buy a fractional interest that's been split among many heirs over decades?",
+   "answer": "Yes. We regularly trace multi-generation heirship chains in this basin and can work with individual heirs who want to sell their specific fractional share."
+  },
+  {
+   "question": "Can multiple heirs sell their shares of the same interest separately?",
+   "answer": "Yes, we can work with individual heirs on their specific fractional shares, whether or not other family members choose to sell at the same time."
+  },
+  {
+   "question": "What if I only recently learned I inherited a San Juan Basin interest?",
+   "answer": "That's common, and we can help you get oriented, starting with confirming whether the interest is fee or trust land and pulling the current operator and production record from there."
+  },
+  {
+   "question": "Do you buy interests where production has been essentially flat for years?",
+   "answer": "Yes, a long, flat, low-decline production profile is typical and expected for mature San Juan Basin wells, and we price against that documented, stable pattern rather than treating it as a red flag."
+  },
+  {
+   "question": "Do you handle the Bureau of Indian Affairs paperwork for me on a trust interest?",
+   "answer": "Yes, we coordinate the required BIA documentation and approval steps directly as part of the transaction, walking you through what's needed rather than leaving you to manage that process alone."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-san-juan-basin-mineralrightspurchase-com.jpg",
+  "alt": "San Juan Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

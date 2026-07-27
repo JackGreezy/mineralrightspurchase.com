@@ -1,0 +1,70 @@
+{
+ "slug": "wyoming",
+ "title": "Sell Mineral Rights in Wyoming",
+ "type": "state",
+ "group": "Powder River, Green River",
+ "primaryKeyword": "mineral rights wyoming",
+ "seo": {
+  "vol": 210,
+  "cpc": 17.66
+ },
+ "metaTitle": "Sell Mineral Rights in Wyoming | Powder River & Green River",
+ "metaDescription": "Campbell, Sublette, or Sweetwater County minerals? Wyoming's checkerboard federal ownership shapes how a purchase gets titled and closed. What to expect.",
+ "heroLead": "Wyoming's mineral map looks like a checkerboard because, in a lot of places, it literally is one, and that pattern changes how a purchase gets put together.",
+ "intro": [
+  "Wyoming's two major producing regions couldn't be more different. Campbell County and the surrounding Powder River Basin built its reputation on coalbed methane through the 1990s and 2000s before shifting toward horizontal oil development in the Niobrara and other formations, with Gillette serving as the region's hub. Out west, the Green River Basin, spanning Sublette and Sweetwater counties, is deep, high-pressure tight gas country, home to some of the most prolific gas fields in the Rockies. Both regions share a Wyoming trait that shapes almost every mineral transaction here: an unusual amount of federal and state trust land interlaced with private minerals, a legacy of 19th-century railroad land grants that alternated sections of federal and private ownership in a checkerboard pattern still visible on land maps today.",
+  "If you own private minerals in either basin, understanding how your tract sits relative to that checkerboard, and relative to Wyoming's older coalbed methane leasing history if you're in Powder River country, is the starting point for a real conversation about value."
+ ],
+ "sections": [
+  {
+   "heading": "The checkerboard and what it means for your title",
+   "paragraphs": [
+    "Because railroad land grants alternated sections between federal ownership and private ownership across large parts of Wyoming, it's common for a single spacing unit to combine BLM federal minerals with privately held fee minerals from adjacent sections. Your private minerals remain fully transferable in a standard sale, but a title examiner needs to confirm precisely which sections your interest covers and that it's genuinely private fee ownership rather than federal, since only the private portion can be conveyed to you as a buyer. This is routine work in Wyoming specifically because the pattern is so widespread, not a special complication limited to your tract."
+   ]
+  },
+  {
+   "heading": "Coalbed methane legacy leases in the Powder River Basin",
+   "paragraphs": [
+    "Campbell County and its neighbors saw an enormous wave of coalbed methane leasing and drilling starting in the late 1990s, much of it on shallow wells that produced steadily for years before declining. If your Powder River Basin minerals sit under one of these older CBM leases, that lease stays in place through a sale, and the buyer takes over your lessor position going forward. A good number of these older CBM wells have slowed considerably or been plugged over the past decade as the initial boom aged out, so bring recent check stubs to the conversation so a buyer can value your interest against current, not historical, production."
+   ]
+  },
+  {
+   "heading": "Green River Basin's deep, high-pressure gas",
+   "paragraphs": [
+    "Sublette and Sweetwater County minerals sit over some of the deepest, most technically demanding gas development in the Rockies, fields that require significant capital and specialized completion techniques to develop. That technical intensity means development pace here can be more sensitive to gas prices than in some other basins, and a buyer's valuation reflects both your unit's current production and a realistic view of how active drilling is likely to stay in the near term."
+   ]
+  },
+  {
+   "heading": "How closing works across Wyoming's spread-out counties",
+   "paragraphs": [
+    "Wyoming counties are large geographically and comparatively sparsely staffed relative to their land area, so a title search covering your specific tract, run at the county clerk's office in Gillette, Pinedale, or Green River, may take a bit longer than in a densely developed county elsewhere. Once title is confirmed, a title company holds funds in escrow while the mineral deed is drafted, signed, and recorded, releasing payment once the recording is confirmed clean. Because so much of Wyoming ownership touches the checkerboard pattern, expect the title company to be explicit about confirming your interest is private fee minerals before finalizing paperwork, and expect a little extra lead time built into the schedule to account for the distances involved."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What does it mean that my minerals are part of a checkerboard pattern?",
+   "answer": "It means your spacing unit likely combines private fee minerals from some sections with federal BLM minerals from adjacent sections, a legacy of 19th-century railroad land grants. Your private minerals are fully transferable; the federal portions are not."
+  },
+  {
+   "question": "My coalbed methane lease is decades old and the well has slowed down. Is my interest still worth selling?",
+   "answer": "Often yes, though value reflects current production rather than the well's output during the CBM boom years. Bring recent check stubs so a buyer can value your interest accurately against present-day activity."
+  },
+  {
+   "question": "How long does closing take in a large, rural Wyoming county?",
+   "answer": "Typically four to six weeks. Wyoming counties cover large land areas with comparatively smaller staff, so pulling and confirming title records can take longer than in more densely populated counties."
+  },
+  {
+   "question": "Why does Green River Basin gas development seem more sensitive to prices than other areas?",
+   "answer": "The formations there are deep and high-pressure, requiring significant capital and specialized completion work. That technical intensity makes drilling pace there more responsive to gas price swings than in shallower, cheaper-to-develop basins."
+  }
+ ],
+ "status": "written",
+ "wordCount": 856,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-wyoming.jpg",
+  "alt": "Replacement Minerals in Wyoming location",
+  "width": 1600,
+  "height": 1000
+ }
+}

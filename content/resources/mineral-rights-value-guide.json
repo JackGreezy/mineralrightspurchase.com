@@ -1,0 +1,66 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Mineral Rights Worth? How Pricing Gets Built",
+ "metaDescription": "Learn how mineral rights purchase prices actually get built from royalty history, decline curves, and comparable sales, instead of chasing a single per-acre number.",
+ "heroLead": "There is no lookup table for what mineral rights are worth. There is a method, and once you understand the method the number stops feeling arbitrary.",
+ "intro": [
+  "Almost every owner who calls a buyer starts with the same question, phrased the same way: what's my mineral rights worth. The honest answer is that it depends on which of two very different pricing methods applies to your interest, and neither one produces a fixed number that holds still for long.",
+  "This page walks through both methods so that when you get an offer, you can tell whether it was built on real inputs or guessed at."
+ ],
+ "sections": [
+  {
+   "heading": "Producing minerals: the multiple-of-checks approach",
+   "paragraphs": [
+    "If your interest is already generating royalty income, buyers typically price it as a multiple of your recent monthly or quarterly payments, annualized and then adjusted downward for expected decline. Unconventional wells, the kind common in shale plays, tend to produce steeply in the first one to three years and then flatten into a long, low tail. A buyer pricing that stream has to guess how far along the decline curve your well already sits, because a check today from a five-year-old well is worth a very different multiple than the same size check from a well six months old.",
+    "This is why two owners with identical current royalty checks can get different offers. The one on the older well is closer to the flat part of the curve, meaning less future decline risk, and that typically supports a higher multiple. The one on the newer well still has a steep drop-off ahead, which a buyer has to discount for."
+   ]
+  },
+  {
+   "heading": "Non-producing minerals: comparable sales and proximity",
+   "paragraphs": [
+    "Undeveloped mineral acreage with no lease or no well yet is priced differently, because there is no check to build a multiple from. Buyers instead look at recent per-acre sales of comparable tracts nearby, active permitting within a mile or two, and whether your acreage sits inside a unit that operators have shown interest in leasing. Acreage in the core of an active play with recent permits close by will typically be quoted at a different range than acreage on the flank of the same play with no nearby activity, and that range moves with permitting and rig counts, not on a fixed schedule.",
+    "Be wary of any number quoted with total confidence and no context about nearby activity. A serious buyer will explain what comparable data the number is drawn from, and will usually hedge it as a range rather than a single figure, because that is genuinely how the market works."
+   ]
+  },
+  {
+   "heading": "What actually moves the number",
+   "paragraphs": [
+    "Beyond the two methods above, a handful of factors push value up or down inside whatever range applies to your interest: net mineral acres versus gross acres in the unit, whether you own all the minerals under the tract or a fractional share, the specific formation and its historical productivity in that county, and how many operators are actively drilling nearby versus just holding leases without activity.",
+    "Risking also matters more than most owners expect. A buyer has to weigh what a well might produce, and separately, the chance it underperforms, gets shut in, or the operator delays development entirely. That risk gets baked into the multiple or the per-acre range, which is part of why offers on paper interests never quite match what a producing neighbor's acre sold for.",
+    "Title itself factors into the number too. A tract with a clean, easily verified chain of ownership tends to close faster and with fewer surprises than one with unresolved heirship or a decades-old lease that was never formally released, and buyers sometimes build a little cushion into an early offer to account for that uncertainty before title work confirms exactly what's involved."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a standard per-acre price for mineral rights?",
+   "answer": "No. Per-acre pricing depends heavily on play, county, proximity to active permits, and current market conditions, and it shifts as those change, so any flat number quoted without that context should be treated skeptically."
+  },
+  {
+   "question": "Why did my neighbor get a different offer than me for similar acreage?",
+   "answer": "Even adjacent tracts can differ in net mineral acres owned, formation rights included, lease status, and whether recent permits sit closer to one tract than the other, all of which shift the range a buyer will quote."
+  },
+  {
+   "question": "Do royalty checks alone determine value?",
+   "answer": "They're the starting point for producing interests, but the multiple applied depends on how far along the well's decline curve you are, beyond the size of the current check alone."
+  },
+  {
+   "question": "Will oil and gas prices affect my offer?",
+   "answer": "Commodity prices influence both current royalty income and how aggressively operators are permitting new wells nearby, so yes, offers do move with broader market activity."
+  },
+  {
+   "question": "Should I get multiple offers before selling?",
+   "answer": "It's reasonable to compare, though be aware that offers made without completed title work are preliminary, and the most useful comparison is which buyer explains their pricing method, rather than which number happens to be highest on paper."
+  }
+ ],
+ "wordCount": 865,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-mineralrightspurchase-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

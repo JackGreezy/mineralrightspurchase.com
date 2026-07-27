@@ -1,0 +1,235 @@
+{
+  "_": "This voice belongs only to mineralrightspurchase.com in Oklahoma City. It is a closing-table teacher walking an owner through a mineral purchase file in sequence: define the interest, match the evidence, reconcile the decimal, list title exceptions, confirm the deed exhibit, explain settlement math, coordinate signatures and funding, record the conveyance, and follow the operator or payor transfer. It must never be copied into a reusable voice pack or reused for another domain.",
+  "taxonomy_titles": {
+    "situations": "Ownership Situations",
+    "locations": "Mineral Rights by State",
+    "basins": "Producing Basins",
+    "interest-types": "Mineral Interest Types",
+    "resources": "Owner Resources",
+    "investing": "Purchase Analysis",
+    "exchange-1031": "Mineral 1031 Exchange Guides"
+  },
+  "scrub": [
+    [
+      "lead.generation",
+      "purchase-file intake"
+    ],
+    [
+      "\\bguarantee(d|s)?\\b",
+      "document"
+    ],
+    [
+      "\\bhighest offer\\b",
+      "documented purchase proposal"
+    ],
+    [
+      "\\bbest price\\b",
+      "interest-specific consideration"
+    ],
+    [
+      "\\binstant valuation\\b",
+      "preliminary file review"
+    ],
+    [
+      "\\bno risk\\b",
+      "no obligation to accept"
+    ],
+    [
+      "\\btax advice\\b",
+      "guidance from your tax professional"
+    ],
+    [
+      "\\blegal advice\\b",
+      "guidance from your attorney"
+    ],
+    [
+      "\\baward-winning\\b",
+      "experienced"
+    ],
+    [
+      "\\bsince 19\\d\\d\\b",
+      "with mineral transaction experience"
+    ],
+    [
+      "Eastern Shipbuilding Group",
+      "Mineral Rights Purchase"
+    ],
+    [
+      "\\bESG\\b",
+      "the closing desk"
+    ],
+    [
+      "shipbuilding",
+      "mineral purchasing"
+    ],
+    [
+      "\\bvessel(s)?\\b",
+      "mineral interest"
+    ]
+  ],
+  "heroes": [
+    [
+      "A Mineral Purchase Explained From File Open to Funding",
+      "Start with the owner, county, legal description, interest type, decimal, and documents already in hand. We show what each item proves and which questions remain open."
+    ],
+    [
+      "Know What the Buyer Priced Before You Sign",
+      "The purchase schedule, title evidence, acreage or fraction, included depths, consideration, and adjustment rules should describe the same mineral interest."
+    ],
+    [
+      "Turn Title Exceptions Into a Written Closing List",
+      "Probate gaps, name differences, trust authority, entity signatures, corrective instruments, and missing exhibits belong on a curative list with an owner and next step."
+    ],
+    [
+      "Make the Deed Exhibit Match the Purchase File",
+      "Grantor, grantee, county, tract, legal description, fraction, acres, depths, reservations, effective date, and warranty language should be checked against the priced schedule."
+    ],
+    [
+      "Follow the Transfer After Documents and Funds Move",
+      "Recording is not the last step. The operator or payor may still need a recorded deed, ownership packet, tax form, contact details, and time to update its records."
+    ]
+  ],
+  "copy": {
+    "home_title": "Mineral Rights Purchase | Oklahoma City Closing Desk",
+    "home_meta": "An Oklahoma City mineral purchase desk explaining title evidence, ownership decimals, deed exhibits, curative items, settlement math, signatures, funding, recording, and post-closing transfer.",
+    "home_hero_title": "A Mineral Purchase Explained From File Open to Funding",
+    "home_intro_title": "Owner Resources for the Documents That Move a Purchase",
+    "home_intro": "Use the guides to identify what you own, organize the deed and payor evidence, understand purchase terms, compare the schedule to the conveyance, and keep unresolved title items visible.",
+    "home_situations_title": "Every Purchase Starts With the Ownership Situation",
+    "home_situations": "An inherited interest, probate estate, trust, family co-ownership, divorce transfer, unsolicited offer, or non-producing tract changes who can sign and which records belong in the file.",
+    "home_investing_title": "Nine Checkpoints.",
+    "home_investing_tail": "One Coherent Closing File.",
+    "home_investing": "The purchase agreement, ownership schedule, title findings, adjustment list, deed exhibit, settlement statement, signature packet, funding instructions, and transfer follow-up should all describe the same interest.",
+    "home_interests_title": "Name the Interest Before Pricing It",
+    "home_interests": "Fee minerals, royalty interests, NPRIs, overriding royalties, and working interests carry different rights, burdens, control, and liabilities. The file should identify which one is being conveyed.",
+    "home_locations_title": "State and County Records Supply the Evidence",
+    "home_locations": "Recording systems, probate procedures, regulatory records, unit descriptions, and payor requirements vary. The review follows the state, county, tract, operator, and documents tied to the owner.",
+    "home_basins_title": "Basin Context.",
+    "home_basins_tail": "Tract-Specific Documents.",
+    "home_basins": "The Anadarko, SCOOP/STACK, Permian, Bakken, Haynesville, Marcellus, and other basin labels organize activity evidence. The deed still conveys a specific tract, fraction, acreage, and depth description.",
+    "home_exchange_title": "Keep the Closing Calendar and Exchange Calendar Aligned",
+    "home_exchange": "A potential 1031 exchange adds intermediary instructions and deadlines. It does not replace title review, deed accuracy, final settlement math, or advice from the owner's legal and tax professionals.",
+    "home_about_title": "A Closing Desk That Teaches the Sequence",
+    "home_about": "Mineral Rights Purchase organizes each file so an owner can see what has been established, what remains assumed, what could change consideration, what must be signed, and what happens after recording.",
+    "hero_cta": "Open a Purchase File",
+    "index_tagline": "A closing-table guide to {title}: what the record proves, which terms belong in writing, and what must agree before documents and funds move.",
+    "detail_cta_title": "Want to organize the documents, title questions, and closing sequence for your mineral interest?",
+    "faq_heading": "Questions Owners Ask Before Closing",
+    "about_title": "How the Purchase File Moves",
+    "about_p1": "Mineral Rights Purchase is an Oklahoma City closing desk built around one understandable sequence: identify the interest, match the evidence, reconcile the ownership math, document title exceptions, confirm the conveyance, settle the consideration, coordinate signatures and funding, record the deed, and follow the transfer.",
+    "about_p2": "Each step has a defined question, supporting document, responsible party, and written result so the owner can tell the difference between an established fact, an open title item, and a purchase assumption.",
+    "contact_title": "Open a Mineral Purchase File",
+    "contact_intro": "Send the county and state, owner name, operator or payor, recent statement, deed reference, lease, division order, probate record, trust document, entity record, or written offer you already have. The desk will start with the evidence in hand.",
+    "contact_section_title": "Start With the Evidence Already in Hand",
+    "footer_tagline": "An Oklahoma City mineral purchase desk for owners who want the title, decimal, exhibit, adjustment, settlement, signature, funding, recording, and transfer sequence explained plainly.",
+    "privacy": "Mineral Rights Purchase uses submitted contact, ownership, property, production, lease, title, probate, trust, entity, document, and offer information only to answer an inquiry and evaluate a possible mineral-interest purchase. We do not sell submitted personal information. Do not submit bank credentials, government identification numbers, or original documents through this website.",
+    "terms": "This website provides general educational and transaction information, not legal, title, tax, accounting, investment, engineering, reserve, or appraisal advice. Any purchase proposal depends on record ownership, curative requirements, production, lease terms, operator activity, commodity conditions, diligence, funding, and the exact interest conveyed. Consult your own qualified professionals before signing a mineral or royalty conveyance.",
+    "nf_title": "That Purchase File Is Not in This Index",
+    "nf_body": "Return to the ownership situations, interest definitions, producing basins, state record guides, owner resources, purchase analysis, exchange guides, or contact page.",
+    "nf_cta": "Return to Mineral Rights Purchase"
+  },
+  "form_fields": [
+    [
+      "firstName",
+      "text",
+      "First name",
+      true
+    ],
+    [
+      "lastName",
+      "text",
+      "Last name",
+      true
+    ],
+    [
+      "emailAddress",
+      "email",
+      "Email address",
+      true
+    ],
+    [
+      "phoneNumber",
+      "tel",
+      "Phone number",
+      true
+    ],
+    [
+      "propertyLocation",
+      "text",
+      "County, state, and legal description if known",
+      true
+    ],
+    [
+      "fileEvidence",
+      "text",
+      "Operator, payor, decimal, acres, lease, deed, probate, trust, or offer clues",
+      false
+    ],
+    [
+      "propertyDetails",
+      "textarea",
+      "What you own, what documents you have, and which purchase or title questions are open",
+      true
+    ]
+  ],
+  "about_blocks": [
+    [
+      "Identify the Interest and Signing Party",
+      "The file begins with the record owner, current vesting, county, legal description, tract, interest type, fraction or net mineral acres, lease status, depths, reservations, operator, payor, unit, wells, and the person or entity expected to sign. A deed, probate order, trust instrument, entity record, lease, division order, or statement should support each material fact."
+    ],
+    [
+      "Reconcile the Ownership Decimal",
+      "The owner decimal should be tested against the ownership fraction, net mineral acres, lease royalty, unit allocation, and payor records. Suspense, pooled tracts, depth limitations, prior reservations, and corrections can explain a mismatch. The file keeps the difference visible until the evidence resolves it."
+    ],
+    [
+      "Convert Title Findings Into Curative Steps",
+      "A name variation, missing probate instrument, unsigned conveyance, trust authority issue, entity authorization, omitted spouse, defective acknowledgment, or conflicting legal description becomes a written exception. The list states what document may cure it, who prepares it, who must sign, and whether consideration or timing could change."
+    ],
+    [
+      "Make the Schedule, Settlement, and Deed Agree",
+      "The priced schedule, purchase agreement, adjustment language, settlement statement, deed, and exhibit should match on grantor, grantee, county, tract, legal description, fraction, acres, depths, formations, included rights, reservations, exclusions, effective date, warranty, and final consideration."
+    ],
+    [
+      "Coordinate Signatures, Funding, and Recording",
+      "The closing checklist confirms the approved document version, signer authority, notarization, delivery method, funding condition, payment instructions, recordation responsibility, effective date, post-effective-date revenue treatment, and the point at which documents and funds are released."
+    ],
+    [
+      "Follow the Operator or Payor Transfer",
+      "After recording, the owner and buyer may need a certified or recorded deed, ownership packet, tax form, contact information, and payor-specific request. The file tracks submission, suspense questions, transfer timing, and the first statement or payment showing the new ownership record."
+    ]
+  ],
+  "taxonomy_enrichment": {
+    "investing": [
+      [
+        "Build a Purchase Schedule Before Comparing a Price",
+        "A purchase analysis of {name} should begin with a schedule detailed enough to identify exactly what would change hands. The schedule should name the record owner, county and state, legal description, tract, interest type, net mineral acres or fraction, lease royalty, executive rights if relevant, depth or formation limits, reservations, unit, operator, payor, wells, and current decimal. Each line should point to a deed, assignment, probate instrument, trust record, entity record, lease, division order, statement, regulatory filing, or labeled assumption. A headline multiple is not meaningful until those inputs reconcile. Two interests can produce similar checks and still carry different value because one includes additional depths, undeveloped locations, a cleaner title chain, a different royalty burden, or a decimal that better matches the underlying acreage. When sources conflict, preserve the conflict as a diligence item instead of silently selecting whichever number produces the more attractive result."
+      ],
+      [
+        "Separate Producing Cash Flow From Development Assumptions",
+        "For {name}, existing production should be organized by well, product, sales month, volume, price, taxes, deductions, owner decimal, and net payment. Suspense releases, catch-up checks, prior-period corrections, and one-time adjustments should be separated from recurring revenue. The file should state well age, decline stage, downtime, operator changes, product mix, commodity assumptions, terminal decline, and discounting. Possible future value belongs in a separate case organized around spacing, permits, offsets, completion results, formation or bench, operator inventory, lease terms, and realistic timing. Nearby drilling can be relevant evidence without proving the subject tract will participate. Keeping the cases separate lets the owner see which part of consideration is tied to payments already received and which part depends on future wells, commodity conditions, timing, and operator decisions."
+      ],
+      [
+        "Trace Every Material Adjustment Into the Closing Documents",
+        "{name} is not ready for closing when a spreadsheet produces a number; it is ready when the analysis, purchase schedule, title findings, adjustment rules, settlement statement, deed, and exhibit describe the same interest. The file should show how corrected acreage, a different lease burden, a decimal change, excluded depth, missing tract, title cure, operator transfer, or well-status change affects consideration. It should distinguish a preliminary range from a purchase proposal supported by records and identify which conditions remain open. The purchase agreement should define diligence timing, curative responsibility, funding conditions, extension rights, post-effective-date revenue, and the method used for title or acreage adjustments. The conveyance then needs to match the priced schedule on parties, counties, tracts, fractions, acres, depths, formations, included rights, reservations, exclusions, effective date, and warranty language."
+      ]
+    ],
+    "exchange-1031": [
+      [
+        "Keep the Mineral Purchase File and Exchange File Distinct",
+        "A review of {name} should use one consistent description of the mineral interest across the purchase agreement, schedule, exhibit, deed, settlement statement, owner records, and qualified-intermediary instructions. The mineral purchase file remains responsible for the owner, county, legal description, tract, fraction or acres, lease status, depths, reservations, title exceptions, consideration, and adjustment mechanics. The exchange file remains responsible for qualification, assignments, identification, deadlines, replacement-property decisions, and adviser approvals. A buyer can explain transaction terms without deciding whether an exchange qualifies, while an intermediary can administer timing without deciding what acreage or depths the mineral deed conveys. If diligence changes the ownership fraction, excludes a tract, or changes expected proceeds, the revision should move through the purchase schedule before it reaches exchange planning."
+      ],
+      [
+        "Run the Dates From a Written Closing Calendar",
+        "For {name}, the working calendar should identify the anticipated mineral closing, any assignment to a qualified intermediary, expected gross proceeds, expected net proceeds after adjustments and costs, the identification deadline, the acquisition deadline, proposed replacement properties, backup choices, adviser review points, and the person responsible for each action. The same checklist should track the vesting deed, probate or trust authority, entity approvals, lease, statements, division order, purchase agreement, title exceptions, curative documents, settlement statement, deed, intermediary instructions, and funding conditions. Estimated proceeds should remain separate from final proceeds because title loss, acreage corrections, excluded interests, closing costs, and retained cash can change the amount available."
+      ],
+      [
+        "Do Not Trade Title Diligence for Calendar Speed",
+        "{name} can create legitimate timing pressure, but the owner still needs to establish who can convey, what interest is included, whether probate or corrective instruments are required, how title exceptions affect consideration, and whether the deed matches the priced schedule. The file should identify who prepares each cure, who approves unresolved exceptions, how an acreage or decimal adjustment is calculated, and what happens if an item remains open on the funding date. It should state signature and notarization requirements, payment instructions, effective date, responsibility for recordation, treatment of revenue received after the effective date, and post-closing notice to the operator or payor. The intermediary and the owner's legal and tax advisers control exchange qualification and elections; the purchase desk controls the facts and conditions behind its proposal."
+      ],
+      [
+        "Document the Handoffs Between Every Participant",
+        "For {name}, the owner should know which decisions belong to the buyer, qualified intermediary, title reviewer, closing coordinator, attorney, accountant, and replacement-property team. A written handoff identifies the document being delivered, the version date, the recipient, the deadline, the fact or instruction it supports, and any approval still needed. The purchase desk should provide the executed agreement, current schedule, title adjustment status, anticipated consideration, settlement statement, deed version, and expected funding date without making the owner's exchange elections. The intermediary should provide assignment and proceeds instructions without deciding what mineral interest the deed conveys. The owner's advisers should address qualification, tax consequences, vesting, and legal effect. Clear handoffs prevent an outdated acreage figure, preliminary proceeds estimate, unsigned assignment, or unresolved title exception from quietly moving into the exchange file as if it were final."
+      ]
+    ]
+  }
+}

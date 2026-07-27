@@ -1,0 +1,83 @@
+{
+ "slug": "utica-shale",
+ "title": "Utica Shale Mineral Rights",
+ "type": "basin",
+ "group": "OH",
+ "primaryKeyword": "utica shale mineral rights",
+ "seo": {
+  "vol": 10,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Utica Shale Mineral Rights Purchase Guide",
+ "metaDescription": "Selling Ohio Utica Shale minerals? Learn how the deeper Utica interacts with Marcellus rights above it, plus Ohio's mandatory pooling process.",
+ "heroLead": "In parts of eastern Ohio, the same acreage can carry separately valuable Marcellus rights above and Utica rights below, so the first diligence question is which interval your lease actually covers.",
+ "intro": [
+  "The Utica Shale sits beneath the Marcellus across much of eastern Ohio, and while the two formations are sometimes discussed together because they're stacked in the same region, they're separately targeted intervals with their own lease terms, operators, and in some cases separate ownership history. Ohio's Utica development has concentrated in a fairway of counties in the eastern part of the state, with liquids-rich and dry-gas windows behaving differently depending on location, similar in concept to the Eagle Ford's window structure but specific to this play.",
+  "The purchase process runs through the standard title, offer, escrow, and closing sequence, with particular attention paid to which formation your lease actually covers and, where relevant, Ohio's mandatory pooling process for unleased owners."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming which formation your lease actually covers",
+   "paragraphs": [
+    "Some eastern Ohio leases were written broadly enough to cover multiple formations, while others were negotiated or amended specifically for Utica rights after an earlier, separate Marcellus lease. Before structuring an offer, we confirm exactly which depths and formations your specific lease and any amendments cover, since an owner can hold Utica rights, Marcellus rights, or both, with potentially different operators and royalty terms attached to each. This is one of the more common sources of confusion we see in this play, and it's worth clarifying before any valuation conversation."
+   ]
+  },
+  {
+   "heading": "Ohio's mandatory pooling process",
+   "paragraphs": [
+    "Ohio allows an operator to apply to the Ohio Department of Natural Resources for a mandatory pooling order that brings unleased or nonconsenting owners into a unit under defined terms, functioning similarly in effect to Oklahoma's forced pooling but administered through a different state agency and process. If your minerals were pooled rather than leased, we pull the ODNR pooling order to confirm your election and current payment status as part of diligence, and we structure the assignment at closing to reference that order alongside the standard deed."
+   ]
+  },
+  {
+   "heading": "Liquids-rich versus dry gas window position",
+   "paragraphs": [
+    "The Utica fairway in Ohio has a liquids-rich window, where wells produce meaningful oil and natural gas liquids alongside gas, and a dry gas window further east and south where output is almost entirely gas. This affects royalty character in the same way an oil-versus-gas window distinction does in other plays — liquids-rich production tends to carry different pricing dynamics than dry gas. We check your specific county and production mix as part of valuation rather than assuming uniform behavior across the whole Utica fairway."
+   ]
+  },
+  {
+   "heading": "What we ask for before pricing your interest",
+   "paragraphs": [
+    "A recent royalty statement and the lease or lease amendment specifying which formation depths are covered are the most important documents for a Utica Shale review, since confirming exactly what's leased is often the central question here. For interests brought into a unit through ODNR mandatory pooling rather than a lease, we request that order directly.",
+    "If you're unsure whether your documents cover Utica rights, Marcellus rights, or both, we review the language directly rather than assuming, since this is one of the most common points of confusion in this play."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I own Marcellus rights, Utica rights, or both?",
+   "answer": "It depends on the specific depths named in your lease and any amendments. We review the lease language directly rather than assuming based on your county, since ownership of the two formations is sometimes split or covered separately even on the same tract."
+  },
+  {
+   "question": "I was pooled by an ODNR order rather than a signed lease. Can I still sell?",
+   "answer": "Yes. We pull the mandatory pooling order to confirm your election and payment terms, and we can purchase the interest with the assignment referencing that order so the operator's records and the county deed record stay consistent."
+  },
+  {
+   "question": "Is liquids-rich Utica acreage worth more than dry gas Utica acreage?",
+   "answer": "It depends on current pricing and documented production for your specific tract; liquids-rich production carries different revenue characteristics than dry gas. We evaluate your actual production mix rather than applying a blanket assumption based on general window location."
+  },
+  {
+   "question": "How mature is Utica Shale development compared to the Marcellus above it?",
+   "answer": "Utica development in Ohio generally started somewhat later than Marcellus development in Pennsylvania and West Virginia, so some Utica tracts have shorter production histories. We work from whatever current data exists for your specific well or unit."
+  },
+  {
+   "question": "What if my lease doesn't specify a formation at all?",
+   "answer": "Older or broadly worded leases sometimes don't name a specific formation. We review the full depth and habendum language to determine what's actually covered before structuring an offer."
+  },
+  {
+   "question": "Can the same tract have separate Marcellus and Utica leases with different terms?",
+   "answer": "Yes, this happens when a Marcellus lease was signed first and a separate Utica lease or amendment came later, often with different royalty terms. We review each lease independently."
+  },
+  {
+   "question": "Do liquids-rich Utica wells decline differently than dry gas Utica wells?",
+   "answer": "Production character differs somewhat between the two windows, and we evaluate your well's actual documented decline pattern rather than applying a generic Utica-wide assumption."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-utica-shale-mineralrightspurchase-com.jpg",
+  "alt": "Utica Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

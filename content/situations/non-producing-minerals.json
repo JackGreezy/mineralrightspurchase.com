@@ -1,0 +1,70 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Selling Non-Producing Mineral Rights | No Royalty Check Needed",
+ "metaDescription": "Minerals with no well, no lease, and no royalty history can still close. Here's how a buyer verifies ownership and location without production records.",
+ "heroLead": "No royalty statement to point to doesn't mean there's nothing to sell, it just means the closing file leans on the deed history instead of a check stub.",
+ "intro": [
+  "Producing minerals come with a built-in verification trail: division orders, monthly statements, an operator who already recognizes the owner by name. Non-producing minerals, tracts that have never been leased, or were leased once and the lease lapsed years ago without a well ever going in, don't have that trail. The interest is just as real, and just as ownable and salable, but confirming what it is takes a different kind of legwork.",
+  "For an owner, this is often the interest that's easiest to overlook entirely, especially if it was inherited alongside other, producing interests and just never generated any mail. It's worth treating separately, because a buyer evaluates it on different terms than they would a check-generating royalty interest."
+ ],
+ "sections": [
+  {
+   "heading": "How ownership gets confirmed without an operator's records",
+   "paragraphs": [
+    "Without a division order to cross-reference, the deed chain in the county records becomes the entire verification story. That means tracing the interest back through however many transfers, sales, or inheritances separate you from the original severance or reservation of minerals, and confirming each link recorded correctly. For older non-producing tracts this can mean pulling records that go back generations, sometimes to an original homestead patent or an early 20th-century severance deed.",
+    "It's more paperwork than a producing interest requires, but it's routine work for a title examiner who does this regularly, and it doesn't require the owner to do the digging themselves. Having whatever old paperwork the family kept, even partial or unclear documents, speeds the process considerably."
+   ]
+  },
+  {
+   "heading": "What determines interest even without production",
+   "paragraphs": [
+    "Location inside a play matters more than production history for a non-producing tract, because it's the location and geology, not a check history, that tells a buyer what future leasing or drilling odds look like. A tract sitting inside an active operator's core acreage, even with zero production to date, carries a different profile than a similar tract on the flank of a play where activity has stayed sparse for years.",
+    "Depth severance also matters here in a way it doesn't always for producing tracts. Some older deeds severed only certain depths or formations, meaning a tract could be non-producing at the shallow horizon everyone drilled decades ago while still holding rights to a deeper formation that wasn't targeted until horizontal drilling made it economic. Confirming exactly what depths and formations your deed covers is part of establishing what's actually being sold."
+   ]
+  },
+  {
+   "heading": "Why a buyer wants tracts with no production history",
+   "paragraphs": [
+    "It might seem counterintuitive that anyone would want to buy an interest that's generated nothing so far, but non-producing acreage inside an active or expanding play is exactly the kind of position that can become valuable when the next lease cycle comes through, and buyers who specialize in this space are pricing that future optionality, not the current, nonexistent cash flow.",
+    "For the seller, that means a non-producing interest isn't worthless just because it's quiet, but it also shouldn't be priced against a producing neighbor's royalty check. Value discussion on these tracts stays tied to comparable leasing and land activity in the area, not to income the tract has never generated."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights that have never produced any royalty?",
+   "answer": "Yes. Ownership and salability don't depend on production history. The closing relies more heavily on the recorded deed chain to confirm what you own, since there's no operator division order to cross-reference."
+  },
+  {
+   "question": "How does a buyer figure out what my non-producing interest is worth?",
+   "answer": "Mainly through location inside or near an active play, recent leasing and land activity in the area, and what formations or depths the deed actually covers, rather than any income history, since there isn't one yet."
+  },
+  {
+   "question": "What if my family's paperwork on this tract is incomplete or old?",
+   "answer": "Partial or old documentation still helps and is worth providing as-is. A title examiner can trace the remaining chain through county records even when the family's own file has gaps."
+  },
+  {
+   "question": "Does my deed cover all depths or just certain formations?",
+   "answer": "That depends on the original severance language. Some older deeds only reserved certain depths, so a tract can be non-producing at a shallow horizon while still holding rights to a deeper formation. Reading the original deed language settles this."
+  },
+  {
+   "question": "Is it worth selling a non-producing interest now versus waiting?",
+   "answer": "That depends on your own timeline and how comfortable you are holding an asset with uncertain future income. A buyer prices non-producing acreage on its location and optionality, which can make sense to sell now or to hold, depending on your priorities."
+  },
+  {
+   "question": "How long can county records go back for an old non-producing tract?",
+   "answer": "In older producing states it's not unusual for a title examiner to trace a chain back to an early homestead patent or a severance deed recorded decades before the family's current generation was born. Whatever records the family still has, even partial ones, help shorten that search considerably."
+  }
+ ],
+ "status": "written",
+ "wordCount": 869,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-mineralrightspurchase-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

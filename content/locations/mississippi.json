@@ -1,0 +1,74 @@
+{
+ "slug": "mississippi",
+ "title": "Sell Mineral Rights in Mississippi",
+ "type": "state",
+ "group": "TMS, Jurassic salt basins",
+ "primaryKeyword": "mineral rights mississippi",
+ "seo": {
+  "vol": 70,
+  "cpc": 1.19
+ },
+ "metaTitle": "Sell Mineral Rights in Mississippi: Closing Basics",
+ "metaDescription": "Mississippi records land through the Chancery Clerk, not a recorder, and TMS and legacy Jurassic salt basin acreage each price differently. Here is how a purchase closes.",
+ "heroLead": "If you have only ever dealt with a county recorder in other states, Mississippi's Chancery Clerk system is the first thing to get used to before selling a mineral interest here.",
+ "intro": [
+  "Mississippi's oil and gas activity splits between two eras. The Tuscaloosa Marine Shale, a horizontal oil play spanning the southwestern part of the state and crossing into Louisiana, has seen intermittent drilling activity since the early 2010s with results that vary significantly by county and operator. Further north and east, legacy Jurassic-age fields tied to the state's historic salt basin structures have been producing steadily, in some cases for over half a century, from conventional vertical wells.",
+  "This page covers what a purchase looks like in each situation, plus the Chancery Clerk recording system that applies to every mineral deed in the state."
+ ],
+ "sections": [
+  {
+   "heading": "Tuscaloosa Marine Shale acreage and activity variability",
+   "paragraphs": [
+    "TMS drilling results have varied more county by county and even well by well than in more established shale plays, which means a buyer evaluating your interest in Amite, Wilkinson, or Adams county will weigh recent activity nearby heavily, since a lease sitting idle in a quieter stretch of the play is priced differently from one near a currently active operator. If your acreage has not been leased or drilled recently, expect an offer that reflects the play's overall uncertainty rather than assuming imminent development.",
+    "Because TMS leasing has come in waves over the past decade, check whether an older lease on your acreage has expired or is still being held by production, since an expired lease with no current operator activity is a meaningfully different asset than one currently generating royalty income."
+   ]
+  },
+  {
+   "heading": "Legacy Jurassic salt basin production",
+   "paragraphs": [
+    "Mississippi's older conventional fields, tied to salt structures from the Jurassic-age Smackover and related formations, have produced steadily for decades in counties across the central and southern part of the state. If your interest is in one of these established fields, a buyer's offer is typically grounded in a long, stable royalty history rather than speculation, similar to how a mature Gulf Coast field would be evaluated.",
+    "These older leases sometimes carry legacy language that predates modern pooling and unitization practices, so a title examiner will check whether your specific tract's production has been properly accounted for under any unit agreement that was put in place after the original lease was signed."
+   ]
+  },
+  {
+   "heading": "The Chancery Clerk and title examination",
+   "paragraphs": [
+    "Mississippi is unusual in that land records, including mineral deeds, are recorded and maintained by the Chancery Clerk in each county rather than a separate recorder's office, the same office that also handles probate and other equity matters. A title examiner will pull your deed and prior conveyances from the Chancery Clerk's land records, and if your interest passed through an estate, the same office's probate records typically hold the file needed to confirm your ownership.",
+    "If any part of your family's chain of title was handled informally or a will was never formally probated, a curative affidavit or a more formal probate proceeding through the Chancery Court may be needed before a buyer's title company will insure the purchase."
+   ]
+  },
+  {
+   "heading": "Escrow and the closing statement",
+   "paragraphs": [
+    "Once title is cleared, funds are typically held in escrow through a title company until the mineral deed is signed and notarized. The closing statement itemizes the purchase price, any prorated royalty owed for production before closing, and the net amount paid to you.",
+    "The deed is recorded with the Chancery Clerk, and the buyer sends a copy to the operator so the division order reflects the new owner. If your interest is in the TMS specifically, ask the buyer to confirm in writing whether the purchase includes only the currently producing zone or all depths under your tract, since play activity there has occasionally moved to different target formations than originally leased."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does Mississippi use a Chancery Clerk instead of a county recorder?",
+   "answer": "Mississippi's land records have historically been kept as part of the Chancery Court system, so the Chancery Clerk in each county maintains deed records, probate files, and other equity matters together, rather than a separate recorder's office handling deeds alone."
+  },
+  {
+   "question": "Is Tuscaloosa Marine Shale acreage worth selling if it has never been leased?",
+   "answer": "It can still have value depending on nearby operator activity, though offers on unleased or previously idle TMS acreage typically reflect the play's uncertain development pace rather than assuming a well will be drilled soon."
+  },
+  {
+   "question": "How is a legacy Jurassic-era Mississippi interest priced differently from a TMS interest?",
+   "answer": "Legacy interests in long-producing conventional fields are typically valued against a stable, established royalty history, while newer or intermittently active TMS acreage is priced with more uncertainty since drilling activity there has been inconsistent."
+  },
+  {
+   "question": "What if my family's mineral interest was never formally probated?",
+   "answer": "A curative affidavit can often resolve a straightforward gap, but if the estate is larger or contested, a formal probate proceeding through the county Chancery Court is typically required before a buyer's title company will insure the purchase."
+  }
+ ],
+ "status": "written",
+ "wordCount": 864,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-mississippi.jpg",
+  "alt": "Sell Mineral Rights in Mississippi location",
+  "width": 1600,
+  "height": 1000
+ }
+}
