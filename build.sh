@@ -40,6 +40,23 @@ if os.path.isdir(source):
 PY
 
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
+python3 - "$PROJ/public/index.html" "$PROJ/public/404.html" <<'PY'
+import re
+import sys
+from pathlib import Path
+from bs4 import BeautifulSoup
+
+source_path, target_path = map(Path, sys.argv[1:])
+source = BeautifulSoup(source_path.read_text(), "html.parser")
+target = target_path.read_text()
+if not BeautifulSoup(target, "html.parser").find("header"):
+    header = source.find("header")
+    match = re.search(r"<body\b[^>]*>", target, flags=re.I)
+    if header is None or match is None:
+        raise SystemExit("Unable to restore the captured header on 404.html")
+    target = target[:match.end()] + str(header) + target[match.end():]
+    target_path.write_text(target)
+PY
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 
 python3 - "$PROJ" <<'PY'
