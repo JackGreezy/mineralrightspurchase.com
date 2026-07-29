@@ -47,7 +47,7 @@
  ],
  "faqs": [
   {
-   "question": "My deed lists 20 acres, but I'm only paid on a fraction of that. Why?",
+   "question": "Your deed lists 20 acres, but you're only paid on a fraction of that. Why?",
    "answer": "Your royalty is calculated against your share of the spacing unit, not your raw acreage. If your 20 net mineral acres sit inside a 640-acre unit, your decimal reflects that ratio times your royalty fraction, which is normal and something we verify against the division order before buying."
   },
   {
@@ -55,7 +55,7 @@
    "answer": "The Wolfcamp is often split into Wolfcamp A, B, C, and sometimes D benches, each potentially operated or permitted separately. We check which specific bench any active or planned well targets, since that determines what's actually generating revenue against your interest."
   },
   {
-   "question": "How current does my royalty statement need to be to sell?",
+   "question": "How current does your royalty statement need to be to sell?",
    "answer": "We typically ask for the most recent two to three months of statements to gauge current activity, plus the division order. Older or missing statements aren't disqualifying; we can still work from the operator's current production record."
   },
   {
@@ -63,7 +63,7 @@
    "answer": "Usually an incomplete heirship chain from a prior generation, not the operator or the county. Once title is confirmed clean, closing in this basin tends to move faster than average because most county records here are already digitized."
   },
   {
-   "question": "Can you work directly with my existing operator to confirm my decimal interest?",
+   "question": "Can the closing desk work with an owner's operator to confirm the decimal interest?",
    "answer": "Yes, we routinely verify decimal interests directly against operator division order records rather than relying solely on documents you provide."
   }
  ],

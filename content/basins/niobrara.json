@@ -46,11 +46,11 @@
  ],
  "faqs": [
   {
-   "question": "My division order says \"Niobrara\" — how do I know which basin that means?",
+   "question": "Your division order says \"Niobrara\" — how do you know which basin that means?",
    "answer": "The county listed on your deed or division order tells us the basin. We confirm this in the first step of review, since the Niobrara formation crosses the DJ, Powder River, and Piceance Basins with very different activity levels in each."
   },
   {
-   "question": "Does it matter which basin my Niobrara minerals are in for pricing?",
+   "question": "Does it matter which basin your Niobrara minerals are in for pricing?",
    "answer": "Significantly. Well density, operator activity, and recent comparable transactions differ by basin, so we price against your specific basin and county rather than a general \"Niobrara\" figure, which isn't meaningful across such different areas."
   },
   {
@@ -58,15 +58,15 @@
    "answer": "Generally the DJ Basin's Wattenberg Field has a longer, denser development history. Powder River Basin Niobrara horizontal activity has grown substantially in recent years but tract-by-tract activity still varies more than in the mature Wattenberg core."
   },
   {
-   "question": "What if my minerals are under the Niobrara in the Piceance Basin?",
+   "question": "What if your minerals are under the Niobrara in the Piceance Basin?",
    "answer": "Piceance Basin Niobrara gas has historically been a secondary target behind the Mesaverde formation, so activity and diligence there look more like a Piceance Basin gas tract than a DJ Basin oil tract. We assess it under that basin's framework."
   },
   {
-   "question": "What if my documents don't clearly state a county?",
+   "question": "What if your documents don't clearly state a county?",
    "answer": "We can usually determine your county from a legal description, township and range, or even the operator name on a statement, so incomplete paperwork isn't a barrier to getting started."
   },
   {
-   "question": "What if my legal description spans a county line?",
+   "question": "What if your legal description spans a county line?",
    "answer": "We confirm the operative county from the specific section, township, and range on your document rather than a mailing address, since that's what actually determines the governing basin and jurisdiction."
   }
  ],

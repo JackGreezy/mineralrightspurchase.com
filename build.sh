@@ -61,6 +61,7 @@ python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.jso
 
 python3 - "$PROJ" <<'PY'
 import pathlib
+import re
 import sys
 from bs4 import BeautifulSoup
 
@@ -88,7 +89,19 @@ donor_terms = (
 
 for page in pages:
     soup = BeautifulSoup(page.read_text(errors="ignore"), "html.parser")
-    visible = " ".join(soup.get_text(" ", strip=True).split())
+    visible_soup = BeautifulSoup(str(soup), "html.parser")
+    for hidden in visible_soup.select("script,style,noscript"):
+        hidden.decompose()
+    visible = " ".join(visible_soup.get_text(" ", strip=True).split())
+    h1s = visible_soup.find_all("h1")
+    if len(h1s) != 1:
+        failures.append(f"{page.relative_to(project)}: expected exactly one H1, found {len(h1s)}")
+    if re.search(r"(?<![A-Za-z])(I|me|my)(?![A-Za-z])", visible, flags=re.I):
+        failures.append(f"{page.relative_to(project)}: singular first-person copy is forbidden")
+    if page.name == "index.html":
+        home_h1 = " ".join(h1s[0].get_text(" ", strip=True).split()) if len(h1s) == 1 else ""
+        if "Mineral Rights Purchase" not in home_h1 or "Oklahoma City" not in home_h1:
+            failures.append(f"{page.relative_to(project)}: homepage H1 must name Mineral Rights Purchase and Oklahoma City")
     for forbidden in address_fragments + donor_terms:
         if forbidden.lower() in visible.lower():
             failures.append(f"{page.relative_to(project)}: visible forbidden text: {forbidden}")
@@ -116,7 +129,7 @@ if failures:
     print("\n".join(f"  {failure}" for failure in failures))
     raise SystemExit(1)
 
-print(f"COMPLIANCE: PASS — {len(pages)} pages, 0 visible addresses, 0 footer media, 0 miniature image regressions, 1 map embed")
+print(f"COMPLIANCE: PASS — {len(pages)} pages, 1 H1/page, SEO homepage H1, 0 singular first-person hits, 0 visible addresses, 0 footer media, 0 miniature image regressions, 1 map embed")
 PY
 
 QA_PORT="$(python3 -c 'import socket; s=socket.socket(); s.bind(("127.0.0.1", 0)); print(s.getsockname()[1]); s.close()')"
