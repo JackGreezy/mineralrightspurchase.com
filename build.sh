@@ -57,6 +57,9 @@ if not BeautifulSoup(target, "html.parser").find("header"):
     target = target[:match.end()] + str(header) + target[match.end():]
     target_path.write_text(target)
 PY
+python3 "$S/website_taste_fleet.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ" --check
+python3 "$S/website_taste_fleet.py" --project "$PROJ" --check
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 
 python3 - "$PROJ" <<'PY'
@@ -106,7 +109,7 @@ for page in pages:
         if forbidden.lower() in visible.lower():
             failures.append(f"{page.relative_to(project)}: visible forbidden text: {forbidden}")
     footer = soup.select_one("footer")
-    if footer and footer.select("img,picture,svg,video,canvas,iframe,source"):
+    if footer and footer.select("img,picture,svg,video,canvas,source"):
         failures.append(f"{page.relative_to(project)}: footer media must be zero")
     for image in soup.select("img"):
         try:
@@ -117,19 +120,23 @@ for page in pages:
         if (width and width <= 32) or (height and height <= 32):
             failures.append(f"{page.relative_to(project)}: miniature image regression: {image.get('src', '')}")
     maps = soup.select('iframe[src*="google.com/maps"]')
+    footer_maps = footer.select('iframe[src*="google.com/maps"]') if footer else []
+    contact_maps = soup.select('iframe[data-rr-contact-map-frame]')
     map_count += len(maps)
-    if page.name == "contact.html" and len(maps) != 1:
-        failures.append(f"{page.relative_to(project)}: expected exactly one Google Maps embed")
+    if footer and len(footer_maps) != 1:
+        failures.append(f"{page.relative_to(project)}: expected exactly one Google Maps embed in the footer")
+    if page.name == "contact.html" and len(contact_maps) != 1:
+        failures.append(f"{page.relative_to(project)}: expected exactly one marked Google Maps embed in the contact body")
+    if page.name != "contact.html" and contact_maps:
+        failures.append(f"{page.relative_to(project)}: contact-body map is permitted only on contact.html")
 
-if map_count != 1:
-    failures.append(f"sitewide Google Maps embed count is {map_count}, expected 1")
 
 if failures:
     print("COMPLIANCE FAIL:")
     print("\n".join(f"  {failure}" for failure in failures))
     raise SystemExit(1)
 
-print(f"COMPLIANCE: PASS — {len(pages)} pages, 1 H1/page, SEO homepage H1, 0 singular first-person hits, 0 visible addresses, 0 footer media, 0 miniature image regressions, 1 map embed")
+print(f"COMPLIANCE: PASS — {len(pages)} pages, 1 H1/page, SEO homepage H1, 0 singular first-person hits, 0 visible addresses, 0 non-map footer media, 0 miniature image regressions, 1 footer map/page, 1 contact-body map")
 PY
 
 QA_PORT="$(python3 -c 'import socket; s=socket.socket(); s.bind(("127.0.0.1", 0)); print(s.getsockname()[1]); s.close()')"

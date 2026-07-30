@@ -130,45 +130,27 @@
   },
   "form_fields": [
     [
-      "firstName",
+      "name",
       "text",
-      "First name",
+      "Name",
       true
     ],
     [
-      "lastName",
-      "text",
-      "Last name",
-      true
-    ],
-    [
-      "emailAddress",
       "email",
-      "Email address",
+      "email",
+      "Email",
       true
     ],
     [
-      "phoneNumber",
+      "phone",
       "tel",
-      "Phone number",
+      "Phone",
       true
     ],
     [
-      "propertyLocation",
-      "text",
-      "County, state, and legal description if known",
-      true
-    ],
-    [
-      "fileEvidence",
-      "text",
-      "Operator, payor, decimal, acres, lease, deed, probate, trust, or offer clues",
-      false
-    ],
-    [
-      "propertyDetails",
+      "message",
       "textarea",
-      "What you own, what documents you have, and which purchase or title questions are open",
+      "Message",
       true
     ]
   ],

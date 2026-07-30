@@ -67,19 +67,19 @@ function leadFrom(body, req) {
   const first = clean(body.firstName);
   const last = clean(body.lastName);
   return {
-    name: [first, last].filter(Boolean).join(" "),
-    email: clean(body.emailAddress),
-    phone: clean(body.phoneNumber),
+    name: clean(body.name) || [first, last].filter(Boolean).join(" "),
+    email: clean(body.email || body.emailAddress),
+    phone: clean(body.phone || body.phoneNumber),
     propertyLocation: clean(body.propertyLocation),
     recordClues: clean(body.fileEvidence || body.recordClues),
-    details: clean(body.propertyDetails),
+    message: clean(body.message || body.propertyDetails),
     honeypot: clean(body.website),
     source: clean(req.headers.referer || SITE.siteUrl + "/contact")
   };
 }
 
 function invalid(lead) {
-  if (!lead.name || !lead.email || !lead.phone || !lead.propertyLocation || !lead.details) {
+  if (!lead.name || !lead.email || !lead.phone || !lead.message) {
     return "Please complete each required field.";
   }
   if (!/^\S+@\S+\.\S+$/.test(lead.email)) return "Please enter a valid email address.";
@@ -113,11 +113,11 @@ async function sendEmail(to, lead) {
     ["Name", lead.name],
     ["Email", lead.email],
     ["Phone", lead.phone],
-    ["Mineral location", lead.propertyLocation],
-    ["Record clues", lead.recordClues || "Not provided"],
-    ["Ownership and transaction facts", lead.details],
+    ["Message", lead.message],
     ["Source", lead.source]
   ];
+  if (lead.propertyLocation) rows.splice(3, 0, ["Mineral location", lead.propertyLocation]);
+  if (lead.recordClues) rows.splice(4, 0, ["Record clues", lead.recordClues]);
   const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
   const html = rows.map(([label, value]) =>
     `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`
@@ -132,7 +132,7 @@ async function sendEmail(to, lead) {
       from: { email: from, name: SITE.businessName },
       reply_to: { email: lead.email, name: lead.name },
       personalizations: [{ to: [{ email: to }] }],
-      subject: `Mineral file request: ${lead.propertyLocation}`,
+      subject: `Mineral purchase inquiry: ${lead.name}`,
       content: [
         { type: "text/plain", value: text },
         { type: "text/html", value: html }
