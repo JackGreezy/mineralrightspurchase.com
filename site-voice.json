@@ -214,5 +214,13 @@
       ]
     ]
   },
-  "_business_voice": "Write all company and educational copy in the business voice using we, our, and us. Never narrate as an individual in first-person singular. Customer-perspective FAQ questions may still use the customer voice."
+  "_business_voice": "Write all company and educational copy in the business voice using we, our, and us. Never narrate as an individual in first-person singular. Customer-perspective FAQ questions may still use the customer voice.",
+  "slug_ui": {
+    "related_kicker": "Purchase sequence",
+    "related_heading": "Advance the file toward funding",
+    "related_intro": "Keep the document set and title questions from {item} attached as the purchase moves into these next review stages.",
+    "related_action": "View the Purchase Sequence",
+    "faq_kicker": "File open to funding",
+    "faq_intro": "Use these answers to define what is ready, what remains curative, and what must be confirmed before funds are released."
+  }
 }

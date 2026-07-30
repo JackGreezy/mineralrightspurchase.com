@@ -63,17 +63,30 @@ async function payload(req) {
   return Object.fromEntries(new URLSearchParams(raw).entries());
 }
 
+function first(body, keys) {
+  for (const key of keys) {
+    const value = clean(body[key]);
+    if (value) return value;
+  }
+  return "";
+}
+
 function leadFrom(body, req) {
-  const first = clean(body.firstName);
-  const last = clean(body.lastName);
+  const legacyName = [clean(body.firstName), clean(body.lastName)].filter(Boolean).join(" ");
   return {
-    name: clean(body.name) || [first, last].filter(Boolean).join(" "),
-    email: clean(body.email || body.emailAddress),
-    phone: clean(body.phone || body.phoneNumber),
-    propertyLocation: clean(body.propertyLocation),
-    recordClues: clean(body.fileEvidence || body.recordClues),
-    message: clean(body.message || body.propertyDetails),
-    honeypot: clean(body.website),
+    name: first(body, ["name", "contact_name", "owner_name"]) || legacyName,
+    email: first(body, ["email", "emailAddress"]),
+    phone: first(body, ["phone", "phoneNumber"]),
+    message: first(body, [
+      "message",
+      "propertyDetails",
+      "property_details",
+      "property_question",
+      "property_checkpoint",
+      "valuationQuestion",
+      "review_context"
+    ]),
+    honeypot: first(body, ["website", "url"]),
     source: clean(req.headers.referer || SITE.siteUrl + "/contact")
   };
 }
@@ -116,8 +129,6 @@ async function sendEmail(to, lead) {
     ["Message", lead.message],
     ["Source", lead.source]
   ];
-  if (lead.propertyLocation) rows.splice(3, 0, ["Mineral location", lead.propertyLocation]);
-  if (lead.recordClues) rows.splice(4, 0, ["Record clues", lead.recordClues]);
   const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
   const html = rows.map(([label, value]) =>
     `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`
@@ -132,7 +143,7 @@ async function sendEmail(to, lead) {
       from: { email: from, name: SITE.businessName },
       reply_to: { email: lead.email, name: lead.name },
       personalizations: [{ to: [{ email: to }] }],
-      subject: `Mineral purchase inquiry: ${lead.name}`,
+      subject: `${SITE.businessName} inquiry: ${lead.name}`,
       content: [
         { type: "text/plain", value: text },
         { type: "text/html", value: html }
@@ -146,7 +157,6 @@ async function sendEmail(to, lead) {
 module.exports = async function handler(req, res) {
   if (req.method !== "POST") return json(res, 405, { ok: false, error: "Method not allowed." });
   if (!rateLimit(req)) return json(res, 429, { ok: false, error: "Please wait before trying again." });
-
   try {
     const lead = leadFrom(await payload(req), req);
     const error = invalid(lead);
@@ -162,6 +172,6 @@ module.exports = async function handler(req, res) {
     return redirect(res, "/contact?submitted=1");
   } catch (error) {
     console.error(error);
-    return json(res, 500, { ok: false, error: "We could not submit the mineral file. Please call or email us." });
+    return json(res, 500, { ok: false, error: "The form could not be submitted. Please call or email the team." });
   }
 };

@@ -58,6 +58,7 @@ if not BeautifulSoup(target, "html.parser").find("header"):
     target_path.write_text(target)
 PY
 python3 "$S/website_taste_fleet.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ"
 python3 "$S/footer_maps.py" --project "$PROJ" --check
 python3 "$S/website_taste_fleet.py" --project "$PROJ" --check
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
