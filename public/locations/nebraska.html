@@ -1520,7 +1520,8 @@ a:not(.button):not(.button-outline):focus, a:not(.button):not(.button-outline):h
 <style id="rr-chrome">
 .skip-link,.visually-hidden{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
 .rr-wordmark{display:flex;flex-direction:column;justify-content:center;line-height:1.08;text-decoration:none;color:inherit;white-space:nowrap}
-.rr-wordmark,.rr-wordmark:before,.rr-wordmark:after{background:none!important;background-image:none!important;content:normal!important}
+.rr-wordmark,.rr-wordmark:before,.rr-wordmark:after,.rr-brand-force,.rr-brand-force:before,.rr-brand-force:after,.rr-brand-force *,.rr-brand-force *:before,.rr-brand-force *:after{background:none!important;background-image:none!important}
+.rr-wordmark:before,.rr-wordmark:after,.rr-brand-force:before,.rr-brand-force:after,.rr-brand-force *:before,.rr-brand-force *:after{content:none!important;display:none!important}
 .rr-wordmark .rr-wm-1{font-weight:800;font-size:19px;color:inherit;white-space:nowrap}
 .rr-wordmark .rr-wm-2{font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.13em;opacity:.85;white-space:nowrap}
 .rr-brand-logo{display:block!important;width:auto!important;max-width:min(300px,48vw)!important;max-height:58px!important;object-fit:contain!important;visibility:visible!important;opacity:1!important}
@@ -1550,8 +1551,10 @@ html body [data-rr-mobile]{position:fixed!important;top:0!important;right:0!impo
 html body.rr-nav-open [data-rr-mobile]{width:min(86vw,320px)!important;max-width:min(86vw,320px)!important;transform:translateX(0)!important;
   left:auto!important;right:0!important;overflow:auto!important;box-shadow:-8px 0 30px rgba(0,0,0,.25)!important;padding:64px 20px 20px!important;pointer-events:auto!important}
 html body [data-rr-mobile] .rr-m-link,html body [data-rr-mobile] .rr-x{display:none!important}
+html body [data-rr-mobile] .rr-brand-logo{visibility:hidden!important;opacity:0!important}
 html body.rr-nav-open [data-rr-mobile] .rr-m-link{display:block!important}
 html body.rr-nav-open [data-rr-mobile] .rr-x{display:block!important}
+html body.rr-nav-open [data-rr-mobile] .rr-brand-logo{visibility:visible!important;opacity:1!important}
 @media(min-width:901px){html body [data-rr-mobile],html body .rr-scrim{display:none!important}}
 body.rr-nav-open{overflow:hidden!important}
 .rr-x{position:absolute;top:12px;right:14px;width:34px;height:34px;background:none;border:0;cursor:pointer;color:#17171b!important;z-index:2}
@@ -1576,11 +1579,7 @@ body>img[border="0"][alt=""],body>div[style*="width: 1px"][style*="position: abs
 [data-rr-band] h2,[data-rr-band] h3,[data-rr-band] h4,[data-rr-band] h5,[data-rr-band] p{overflow-wrap:break-word!important;word-break:normal!important}
 [data-rr-band] [class*="title"],[data-rr-band] [class*="Title"],[data-rr-band] [class*="name"],[data-rr-band] [class*="Name"]{opacity:1!important;visibility:visible!important;white-space:normal!important;overflow-wrap:break-word!important}
 .global-search,.e-search-form,.gl-search,.property-search,[class*="property-search"],[class*="PropertySearch"]{display:none!important}
-.lead-promo-art__video-button,[class*="video-button"],[class*="VideoButton"],[class*="play-button"],[class*="PlayButton"]{display:none!important}</style><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." name="description"/><meta content="Sell Mineral Rights in Nebraska | Mineral Rights Purchase" property="og:title"/><meta content="Mineral Rights Purchase" property="og:site_name"/><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." property="og:description"/><meta content="https://mineralrightspurchase.com/locations/nebraska" property="og:url"/><meta content="Sell Mineral Rights in Nebraska | Mineral Rights Purchase" name="twitter:title"/><meta content="Mineral Rights Purchase" name="twitter:site"/><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." name="twitter:description"/><link href="https://mineralrightspurchase.com/locations/nebraska" rel="canonical"/><style id="rr-footer-map-style">
-footer .rr-footer-map{position:relative!important;display:block!important;grid-column:1/-1!important;flex:0 0 auto!important;clear:both!important;box-sizing:border-box!important;width:min(100%,72rem)!important;max-width:calc(100% - 2rem)!important;height:clamp(15rem,30vw,21rem)!important;min-height:clamp(15rem,30vw,21rem)!important;margin:clamp(1.5rem,4vw,3.5rem) auto 0!important;padding:0!important;overflow:hidden!important;border:1px solid rgba(127,127,127,.28)!important;border-radius:.35rem!important;background:#e7e7e7!important;box-shadow:0 14px 34px rgba(0,0,0,.14)!important;isolation:isolate!important}
-footer .rr-footer-map iframe{position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important;border-radius:inherit!important;background:#e7e7e7!important}
-@media(max-width:700px){footer .rr-footer-map{width:100%!important;max-width:100%!important;height:16rem!important;min-height:16rem!important;margin-top:1.5rem!important;border-radius:.25rem!important}}
-</style><style id="rr-mineral-taste">
+.lead-promo-art__video-button,[class*="video-button"],[class*="VideoButton"],[class*="play-button"],[class*="PlayButton"]{display:none!important}</style><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." name="description"/><meta content="Sell Mineral Rights in Nebraska | Mineral Rights Purchase" property="og:title"/><meta content="Mineral Rights Purchase" property="og:site_name"/><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." property="og:description"/><meta content="https://mineralrightspurchase.com/locations/nebraska" property="og:url"/><meta content="Sell Mineral Rights in Nebraska | Mineral Rights Purchase" name="twitter:title"/><meta content="Mineral Rights Purchase" name="twitter:site"/><meta content="Nebraska mineral ownership sits mostly in dormant or lightly-active acreage near the Colorado line. Here's what a real purchase and closing looks like there." name="twitter:description"/><link href="https://mineralrightspurchase.com/locations/nebraska" rel="canonical"/><style id="rr-mineral-taste">
 :root{--rr-taste-accent:#006ba1;--rr-taste-dark:#062c54;--rr-taste-light:#f4f6f7}
 html,body{max-width:100%!important;overflow-x:clip!important}
 .rr-home-h1{position:relative!important;z-index:2!important;max-width:15ch!important;margin:.8rem 0 1.25rem!important;color:#fff!important;font-family:inherit!important;font-size:clamp(3rem,7vw,7.5rem)!important;font-weight:700!important;letter-spacing:-.045em!important;line-height:.92!important;text-wrap:balance!important}
@@ -1588,10 +1587,12 @@ body.rr-taste-slug *:not(.rr-taste-hero){background-image:none!important}
 .rr-taste-hero{position:relative!important;left:auto!important;display:grid!important;grid-column:1/-1!important;align-items:end!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;min-height:clamp(24rem,45vw,40rem)!important;margin:0!important;padding:clamp(2rem,6vw,6rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important;overflow:hidden!important;float:none!important;transform:none!important;writing-mode:horizontal-tb!important;isolation:isolate!important}
 .rr-taste-hero::after{content:""!important;position:absolute!important;z-index:1!important;inset:0!important;display:block!important;background:linear-gradient(90deg,rgba(0,0,0,.68),rgba(0,0,0,.18))!important;pointer-events:none!important}
 .rr-taste-hero-media{position:absolute!important;z-index:0!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important}
-.rr-taste-hero>:not(.rr-taste-hero-media){position:relative!important;z-index:2!important;height:auto!important;min-height:0!important;margin-top:0!important;margin-bottom:0!important;align-self:end!important}
-.rr-taste-hero-copy{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:min(1180px,100%)!important;min-width:0!important;max-width:none!important;margin:0 auto!important}
+.rr-taste-hero>:not(.rr-taste-hero-media):not(.rr-taste-hero-copy){display:none!important}
+.rr-taste-hero>.rr-taste-hero-copy{position:relative!important;z-index:2!important;grid-area:1/1!important;height:auto!important;min-height:0!important;margin-top:0!important;margin-bottom:0!important;align-self:end!important}
+.rr-taste-hero-copy{position:relative!important;z-index:3!important;display:block!important;grid-area:1/1!important;align-self:end!important;box-sizing:border-box!important;width:min(1180px,100%)!important;min-width:0!important;max-width:none!important;margin:0 auto!important}
+.rr-taste-hero-copy .hero__subtitle{display:block!important;max-width:52rem!important;margin:1.25rem 0 0!important;color:rgba(255,255,255,.88)!important;font-size:clamp(1rem,1.7vw,1.25rem)!important;line-height:1.55!important}
 .rr-taste-hero h1,.rr-taste-hero h2{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:auto!important;min-width:min(100%,18rem)!important;max-width:18ch!important;margin:0!important;color:#fff!important;font-size:clamp(2.5rem,6vw,6.5rem)!important;line-height:.98!important;text-wrap:balance!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important;writing-mode:horizontal-tb!important;text-orientation:mixed!important}
-.rr-taste-hero .byline{margin-top:1.25rem!important;color:rgba(255,255,255,.82)!important}
+.rr-taste-hero .byline,.rr-taste-hero .rr-taste-byline{margin-top:1.25rem!important;color:rgba(255,255,255,.82)!important}
 .rr-taste-prose-shell{position:relative!important;left:50%!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;margin:0!important;transform:translateX(-50%)!important;float:none!important;grid-column:1/-1!important}
 [data-rr-taste-prose]{position:relative!important;left:auto!important;display:block!important;box-sizing:border-box!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin-left:auto!important;margin-right:auto!important;padding-top:clamp(3.5rem,7vw,6.5rem)!important;translate:none!important;transform:none!important;float:none!important;grid-column:1/-1!important}
 [data-rr-taste-prose]>h2,[data-rr-taste-prose]>h3,[data-rr-taste-prose]>p,[data-rr-taste-prose]>ul,[data-rr-taste-prose]>ol,[data-rr-taste-prose]>blockquote{display:block!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;float:none!important;writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}
@@ -1652,7 +1653,7 @@ body.rr-taste-variant-3 .rr-taste-link{min-height:0!important;border-right:0!imp
 #contact-form input{min-height:3.7rem!important}
 #contact-form textarea{min-height:11rem!important;resize:vertical!important}
 #contact-form input:focus,#contact-form textarea:focus{outline:3px solid color-mix(in srgb,var(--rr-taste-accent) 30%,transparent)!important;outline-offset:2px!important;border-color:var(--rr-taste-accent)!important}
-#contact-form>button{justify-self:start!important;min-width:min(100%,18rem)!important;min-height:3.6rem!important;padding:.85rem 1.3rem!important;border:2px solid var(--rr-taste-accent)!important;border-radius:0!important;background:var(--rr-taste-accent)!important;color:#fff!important;font:inherit!important;font-weight:800!important;cursor:pointer!important}
+#contact-form>button{justify-self:start!important;min-width:min(100%,18rem)!important;min-height:3.6rem!important;padding:.85rem 1.3rem!important;border:2px solid var(--rr-taste-accent)!important;border-radius:0!important;background:var(--rr-taste-accent)!important;color:var(--rr-taste-dark)!important;font:inherit!important;font-weight:800!important;cursor:pointer!important}
 header .rr-header-explore{position:relative!important}
 header .rr-header-explore-toggle{display:inline-flex!important;align-items:center!important;color:inherit!important;text-decoration:none!important;white-space:nowrap!important}
 header .rr-header-explore-toggle::after{content:""!important;display:block!important;width:.45rem!important;height:.45rem!important;margin-left:.55rem!important;border-right:2px solid currentColor!important;border-bottom:2px solid currentColor!important;transform:translateY(-2px) rotate(45deg)!important}
@@ -1664,8 +1665,11 @@ header .rr-dropdown-menu .rr-dropdown-link{position:relative!important;display:f
 header .rr-dropdown-menu .rr-dropdown-link:hover,header .rr-dropdown-menu .rr-dropdown-link:focus-visible{background:#eef3f5!important;color:#0b161d!important}
 header .rr-dropdown-menu .rr-dropdown-link--all{margin-top:6px!important;border-top:1px solid rgba(18,28,36,.12)!important;border-radius:0 0 2px 2px!important;font-weight:800!important}
 body.rr-ref-cesiumastro-com header .rr-dropdown-host:has(>.rr-dropdown-menu:only-child){display:none!important}
-header .rr-header-submenu{position:absolute!important;z-index:99999!important;top:100%!important;right:0!important;display:block!important;width:250px!important;margin:0!important;padding:14px 0 0!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important;transform:translateY(-5px)!important;transition:opacity .18s ease,transform .18s ease!important}
-header .rr-header-submenu::before{content:""!important;position:absolute!important;z-index:-1!important;inset:14px 0 0!important;display:block!important;background:#fff!important;box-shadow:0 18px 42px rgba(0,0,0,.2)!important}
+header .rr-header-explore{position:relative!important;display:flex!important;align-items:stretch!important;align-self:stretch!important;overflow:visible!important}
+header .rr-header-explore::after{content:""!important;position:absolute!important;z-index:99998!important;top:100%!important;right:0!important;width:100%!important;height:12px!important;pointer-events:auto!important}
+header .rr-header-explore-toggle{display:flex!important;align-items:center!important;min-height:100%!important}
+header .rr-header-submenu{position:absolute!important;z-index:99999!important;top:100%!important;right:0!important;display:block!important;width:250px!important;margin:0!important;padding:0!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important;transform:translateY(-5px)!important;transition:opacity .18s ease,transform .18s ease!important}
+header .rr-header-submenu::before{content:""!important;position:absolute!important;z-index:-1!important;inset:0!important;display:block!important;background:#fff!important;box-shadow:0 18px 42px rgba(0,0,0,.2)!important}
 header .rr-header-explore:hover>.rr-header-submenu,header .rr-header-explore:focus-within>.rr-header-submenu,header .rr-header-explore.is-open>.rr-header-submenu{visibility:visible!important;opacity:1!important;pointer-events:auto!important;transform:none!important}
 header .rr-header-submenu li{display:block!important;margin:0!important;padding:0!important}
 header .rr-header-submenu a{display:block!important;padding:.9rem 1.15rem!important;border-bottom:1px solid #e6e6e6!important;background:#fff!important;color:#111!important;font-size:.9rem!important;line-height:1.3!important;text-decoration:none!important;white-space:normal!important}
@@ -1800,10 +1804,14 @@ body.rr-design-eastern-shipyard .rr-taste-faq details{counter-increment:rr-faq!i
 body.rr-design-eastern-shipyard .rr-taste-faq summary{padding-left:3rem!important}
 body.rr-design-eastern-shipyard .rr-taste-faq summary::before{content:counter(rr-faq,decimal-leading-zero)!important;position:absolute!important;left:0!important;color:var(--rr-taste-accent)!important;font-weight:900!important}
 @media(max-width:720px){body.rr-design-eastern-shipyard .rr-taste-hero{left:0!important;width:100%!important;margin:0!important;min-height:31rem!important;border-radius:0!important;clip-path:none!important;transform:none!important;padding:2rem 1.25rem!important}body.rr-design-eastern-shipyard .rr-taste-hero-media{inset:0!important;width:100%!important;border-radius:0!important}body.rr-design-eastern-shipyard .rr-taste-related{display:block!important;padding:2.4rem 1.2rem!important;border-radius:0!important}body.rr-design-eastern-shipyard .rr-taste-related-actions{grid-column:1!important}body.rr-design-eastern-shipyard .rr-taste-links{grid-template-columns:1fr!important}body.rr-design-eastern-shipyard .rr-taste-link{grid-row:auto!important;min-height:0!important;aspect-ratio:auto!important;margin-top:0!important;border-radius:0!important;text-align:left!important}body.rr-design-eastern-shipyard .rr-taste-cta{display:grid!important;grid-template-columns:1fr!important;width:calc(100vw - 32px)!important;padding:2.4rem 1.2rem!important;border-radius:0!important;clip-path:none!important;box-shadow:none!important}body.rr-design-eastern-shipyard .rr-taste-cta-actions{display:flex!important}body.rr-design-eastern-shipyard .rr-taste-faq{width:calc(100vw - 32px)!important;border-radius:0!important;padding:2.4rem 1.2rem!important}}
+</style><style id="rr-footer-map-style">
+footer .rr-footer-map{position:relative!important;display:block!important;grid-column:1/-1!important;flex:0 0 auto!important;clear:both!important;box-sizing:border-box!important;width:min(100%,72rem)!important;max-width:calc(100% - 2rem)!important;height:clamp(15rem,30vw,21rem)!important;min-height:clamp(15rem,30vw,21rem)!important;margin:clamp(1.5rem,4vw,3.5rem) auto 0!important;padding:0!important;overflow:hidden!important;border:1px solid rgba(127,127,127,.28)!important;border-radius:.35rem!important;background:#e7e7e7!important;box-shadow:0 14px 34px rgba(0,0,0,.14)!important;isolation:isolate!important}
+footer .rr-footer-map iframe{position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important;border-radius:inherit!important;background:#e7e7e7!important}
+@media(max-width:700px){footer .rr-footer-map{width:100%!important;max-width:100%!important;height:16rem!important;min-height:16rem!important;margin-top:1.5rem!important;border-radius:.25rem!important}}
 </style></head>
-<body class="wp-singular post-template-default single single-post postid-1451 single-format-standard wp-theme-mosaic-sections-theme rr-taste-slug rr-taste-slug rr-taste-variant-1 rr-ref-easternshipbuilding-com rr-design-eastern-shipyard" data-rr-page="internal">
+<body class="wp-singular post-template-default single single-post postid-1451 single-format-standard wp-theme-mosaic-sections-theme rr-taste-slug rr-taste-variant-1 rr-ref-easternshipbuilding-com rr-design-eastern-shipyard" data-rr-page="internal">
 <div class="container" style="padding-top: 0px;">
-<header class="header sticky rr-header-consolidated" style="position: static; left: auto; top: auto; z-index: 99998;">
+<header class="header sticky" style="position: static; left: auto; top: auto; z-index: 99998;">
 <div class="header-wrapper">
 <div class="logo-wrapper">
 <div>
@@ -1815,25 +1823,19 @@ body.rr-design-eastern-shipyard .rr-taste-faq summary::before{content:counter(rr
 <nav class="nav-main" id="main">
 <input class="toggle" id="toggle" type="checkbox"/>
 <div class="navigation">
-<ul class="menu" id="menu-main-menu">
-
-
-
+<ul class="menu" id="menu-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-815" id="menu-item-815"><a href="/situations">Situations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255" id="menu-item-255"><a href="/interest-types">Interests</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608" id="menu-item-608"><a href="/basins">Basins</a></li>
+<li class="rr-header-explore" data-rr-header-dropdown=""><a aria-expanded="false" aria-haspopup="true" class="rr-header-explore-toggle" href="/resources">Explore</a><ul aria-label="Explore" class="rr-header-submenu"><li><a href="/resources">Resources</a></li><li><a href="/about">About</a></li></ul></li><li class="rr-header-phone-item"><a class="rr-header-phone" href="tel:+14055551012">405-555-1012</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339 rr-header-cta-item" id="menu-item-339"><a class="rr-header-cta" href="/contact#contact-form">Contact</a></li>
 </ul> </div>
 </nav>
 <button aria-label="Menu" class="rr-burger" type="button"><span></span><span></span><span></span></button></div>
 </div>
-<div aria-label="Contact options" class="rr-header-utility"><div class="rr-header-explore" data-rr-header-dropdown=""><a aria-expanded="false" aria-haspopup="true" class="rr-header-explore-toggle" href="/situations">Explore</a><ul aria-label="Explore" class="rr-header-submenu"><li><a href="/situations">Situations</a></li><li><a href="/interest-types">Interests</a></li><li><a href="/basins">Basins</a></li><li><a href="/resources">Resources</a></li><li><a href="/about">About</a></li></ul></div><a class="rr-header-phone" href="tel:+4055551012">405-555-1012</a><a class="rr-header-cta" href="/contact#contact-form">Open a Purchase File</a></div></header>
+</header>
 <div class="contentwrapper">
 <div class="section-wrapper">
-<section "="" assets-f="" center="" class="mosaic-section section-banner color-two has-overlay rr-taste-hero rr-taste-hero--long rr-taste-hero rr-taste-hero--long" cover="" ee6db5c9da367e.jpg")="" img="" no-repeat;="" style="--rr-hero-image:url('/ours/locations/sell-mineral-rights-nebraska.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/locations/sell-mineral-rights-nebraska.jpg"/>
-<div class="banner-wrapper sub-contents image-center align-middle full-width">
-<div class="banner-content-wrapper">
-<div class="banner-content">
-<h2 class="h1 mb-0" style="text-align: center;">Mineral Rights by State</h2> </div>
-</div>
-</div>
-<div class="rr-taste-hero-copy"><h1>Sell Mineral Rights in Nebraska</h1></div></section><div class="rr-taste-prose-shell"><div class="rr-taste-generated-prose" data-rr-prose="detail" data-rr-taste-prose=""><p>Nebraska isn't a headline drilling state, and that changes what selling a mineral interest here actually looks like from the paperwork side.</p><p>If you own minerals in Nebraska, chances are they sit in the far southwest corner of the state, in Kimball or Banner County, on the edge of the same DJ Basin and Niobrara chalk formation that's kept Colorado's Weld County busy for years. A smaller pocket of activity has historically touched the Denver-Julesburg trend as it crosses the state line. Most of that Nebraska acreage isn't currently drilling; it's held quietly, sometimes leased and sitting idle, sometimes not leased at all.</p><p>That matters because a lot of the mineral-buying conversation online assumes you're in a hot play with wells going in next door. In Nebraska, the more common situation is an inherited interest nobody's paid much attention to since a lease bonus check showed up years ago, or an unleased tract someone forgot they own a piece of. This page covers what a purchase process looks like when your minerals aren't sitting under an active rig.</p><h2>Why so little of Nebraska is actively drilling</h2><p>The Niobrara chalk that made Weld County, Colorado productive does extend north into Nebraska, but the rock quality and thickness thin out as you move away from the Colorado line, and operators have generally found the economics harder to justify on the Nebraska side except in narrow windows of high prices. That doesn't mean the acreage is worthless, it means the near-term production picture is quieter, and a buyer valuing your interest is weighing potential future activity more than a check you're cashing every month right now.</p><h2>Dormant leases and what they mean at closing</h2><p>A lot of Nebraska mineral owners are sitting on a lease that was signed years ago, went through its primary term, and then just kept renewing or sat held by production on a marginal well without much drama. If you're selling the mineral fee itself, the existing lease doesn't disappear; the buyer steps into your position as lessor and continues to receive whatever royalty that lease generates going forward. Before closing, expect the buyer to ask for a copy of the lease and any division orders so they know exactly what they're stepping into.</p><p>If your tract was never leased at all, the deed is simpler in one sense, since there's no existing lease to account for, but the buyer will still want to confirm you actually hold clean title before wiring anything, which brings us to the county courthouse.</p><h2>Title work in a low-activity county</h2><p>Kimball County's seat is Kimball, and Banner County's seat is Harrisburg, both small courthouses with limited staff compared to a busy Permian Basin county. That's not a problem for accuracy, but it can slow down how fast a title examiner gets a certified copy of an old instrument or a probate record. Build in a little patience on timeline if your closing depends on pulling a document that's forty or fifty years old.</p><p>Escrow works the same way here as anywhere else: a title company or closing attorney holds the purchase funds until the signed mineral deed is recorded at the county and confirmed clean, then releases payment to you. The mechanics don't change just because the county is quiet.</p><h2>Inherited fractional shares from farm and ranch land</h2><p>Nebraska's mineral ownership pattern leans heavily on old farm and ranch estates where the surface was sold or passed down separately from the mineral rights, sometimes generations ago. If you're one of several siblings or cousins who each inherited a slice of a quarter-section's minerals, your deed needs to describe your exact fractional interest, and the buyer's title company will want to see how that fraction traces back to the original owner. Talk to your CPA about how a sale of inherited minerals is taxed before you finalize numbers, since basis and holding period both come into play.</p><section class="rr-taste-faq rr-taste-faq--rivets" data-rr-design="eastern-shipyard" data-rr-taste-faq=""><div class="rr-taste-faq-head"><div><p class="rr-taste-kicker">File open to funding</p><h2>Questions Owners Ask Before Closing</h2></div><p class="rr-taste-faq-intro">Use these answers to define what is ready, what remains curative, and what must be confirmed before funds are released.</p></div><div class="rr-taste-faq-items"><details class="rr-taste-faq-item"><summary>Is your Nebraska mineral interest even worth selling if nothing is drilling nearby?</summary><div class="rr-taste-faq-answer"><p>It can be, depending on lease status, proximity to the active Colorado side of the DJ Basin, and whether your tract has ever been permitted or unitized. A buyer will look at all of that before quoting a number rather than assuming zero activity means zero value.</p></div></details><details class="rr-taste-faq-item"><summary>How long does a Nebraska mineral purchase take to close?</summary><div class="rr-taste-faq-answer"><p>Plan on three to five weeks in most cases. Small rural counties can take longer to pull older courthouse records, especially if your chain of title runs back through a probate from decades ago.</p></div></details><details class="rr-taste-faq-item"><summary>What happens to your existing lease if you sell the minerals underneath it?</summary><div class="rr-taste-faq-answer"><p>The lease stays in place and the buyer simply takes over your position as lessor, collecting any royalty the lease generates going forward. Your sale price reflects the value of that ongoing lease position, not a fresh unleased tract.</p></div></details><details class="rr-taste-faq-item"><summary>Do you need to do anything before requesting an offer?</summary><div class="rr-taste-faq-answer"><p>Pulling together your most recent division order, lease copy if one exists, and any deed or probate document showing your fractional share will speed up the whole process and get you a more accurate initial number.</p></div></details></div></section><section aria-label="Related Mineral Rights by State" class="rr-taste-related rr-taste-related--bays" data-rr-design="eastern-shipyard" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">Purchase sequence</p><h2>Advance the file toward funding</h2></div><p class="rr-taste-related-intro">Keep the document set and title questions from Sell Mineral Rights in Nebraska attached as the purchase moves into these next review stages.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/locations/california" style="--rr-link-index:1"><span aria-hidden="true" class="rr-taste-link-index">01</span><strong>Sell Mineral Rights in California</strong><small>Legacy San Joaquin and LA basin mineral interests often carry a century of fractional heirship. Here is how a California purchase moves from offer to recorded deed.</small></a><a class="rr-taste-link" href="/locations/alaska" style="--rr-link-index:2"><span aria-hidden="true" class="rr-taste-link-index">02</span><strong>Sell Mineral Rights in Alaska</strong><small>Private mineral ownership on the North Slope is unusual since most subsurface acreage is state or Native corporation land. Here is how a purchase closes when you hold title.</small></a><a class="rr-taste-link" href="/locations/oklahoma" style="--rr-link-index:3"><span aria-hidden="true" class="rr-taste-link-index">03</span><strong>Sell Mineral Rights in Oklahoma</strong><small>SCOOP, STACK, Osage, or Arkoma minerals? Oklahoma's Corporation Commission pooling orders and probate-heavy titles change how a purchase closes.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/locations">View the Purchase Sequence</a></div></section><section class="rr-taste-cta rr-taste-cta--dock" data-rr-design="eastern-shipyard" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Mineral Rights Purchase</p><h2>Want to organize the documents, title questions, and closing sequence for your mineral interest?</h2><p>Send the county and state, owner name, operator or payor, recent statement, deed reference, lease, division order, probate record, trust document, entity record, or written offer you already have.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Open a Purchase File</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+4055551012">Call 405-555-1012</a></div></section></div></div>
+<section "="" assets-f="" center="" class="mosaic-section section-banner color-two has-overlay rr-taste-hero rr-taste-hero--long" cover="" ee6db5c9da367e.jpg")="" img="" no-repeat;="" style="--rr-hero-image:url('/ours/locations/sell-mineral-rights-nebraska.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/locations/sell-mineral-rights-nebraska.jpg"/>
+<div class="rr-taste-hero-copy"><h1>Sell Mineral Rights in Nebraska</h1></div></section><div class="rr-taste-prose-shell"><div class="rr-taste-generated-prose" data-rr-prose="detail" data-rr-taste-prose=""><p>Nebraska isn't a headline drilling state, and that changes what selling a mineral interest here actually looks like from the paperwork side.</p><p>If you own minerals in Nebraska, chances are they sit in the far southwest corner of the state, in Kimball or Banner County, on the edge of the same DJ Basin and Niobrara chalk formation that's kept Colorado's Weld County busy for years. A smaller pocket of activity has historically touched the Denver-Julesburg trend as it crosses the state line. Most of that Nebraska acreage isn't currently drilling; it's held quietly, sometimes leased and sitting idle, sometimes not leased at all.</p><p>That matters because a lot of the mineral-buying conversation online assumes you're in a hot play with wells going in next door. In Nebraska, the more common situation is an inherited interest nobody's paid much attention to since a lease bonus check showed up years ago, or an unleased tract someone forgot they own a piece of. This page covers what a purchase process looks like when your minerals aren't sitting under an active rig.</p><h2>Why so little of Nebraska is actively drilling</h2><p>The Niobrara chalk that made Weld County, Colorado productive does extend north into Nebraska, but the rock quality and thickness thin out as you move away from the Colorado line, and operators have generally found the economics harder to justify on the Nebraska side except in narrow windows of high prices. That doesn't mean the acreage is worthless, it means the near-term production picture is quieter, and a buyer valuing your interest is weighing potential future activity more than a check you're cashing every month right now.</p><h2>Dormant leases and what they mean at closing</h2><p>A lot of Nebraska mineral owners are sitting on a lease that was signed years ago, went through its primary term, and then just kept renewing or sat held by production on a marginal well without much drama. If you're selling the mineral fee itself, the existing lease doesn't disappear; the buyer steps into your position as lessor and continues to receive whatever royalty that lease generates going forward. Before closing, expect the buyer to ask for a copy of the lease and any division orders so they know exactly what they're stepping into.</p><p>If your tract was never leased at all, the deed is simpler in one sense, since there's no existing lease to account for, but the buyer will still want to confirm you actually hold clean title before wiring anything, which brings us to the county courthouse.</p><h2>Title work in a low-activity county</h2><p>Kimball County's seat is Kimball, and Banner County's seat is Harrisburg, both small courthouses with limited staff compared to a busy Permian Basin county. That's not a problem for accuracy, but it can slow down how fast a title examiner gets a certified copy of an old instrument or a probate record. Build in a little patience on timeline if your closing depends on pulling a document that's forty or fifty years old.</p><p>Escrow works the same way here as anywhere else: a title company or closing attorney holds the purchase funds until the signed mineral deed is recorded at the county and confirmed clean, then releases payment to you. The mechanics don't change just because the county is quiet.</p><h2>Inherited fractional shares from farm and ranch land</h2><p>Nebraska's mineral ownership pattern leans heavily on old farm and ranch estates where the surface was sold or passed down separately from the mineral rights, sometimes generations ago. If you're one of several siblings or cousins who each inherited a slice of a quarter-section's minerals, your deed needs to describe your exact fractional interest, and the buyer's title company will want to see how that fraction traces back to the original owner. Talk to your CPA about how a sale of inherited minerals is taxed before you finalize numbers, since basis and holding period both come into play.</p><section class="rr-taste-faq rr-taste-faq--rivets" data-rr-design="eastern-shipyard" data-rr-taste-faq=""><div class="rr-taste-faq-head"><div><p class="rr-taste-kicker">File open to funding</p><h2>Questions Owners Ask Before Closing</h2></div><p class="rr-taste-faq-intro">Use these answers to define what is ready, what remains curative, and what must be confirmed before funds are released.</p></div><div class="rr-taste-faq-items"><details class="rr-taste-faq-item"><summary>Is your Nebraska mineral interest even worth selling if nothing is drilling nearby?</summary><div class="rr-taste-faq-answer"><p>It can be, depending on lease status, proximity to the active Colorado side of the DJ Basin, and whether your tract has ever been permitted or unitized. A buyer will look at all of that before quoting a number rather than assuming zero activity means zero value.</p></div></details><details class="rr-taste-faq-item"><summary>How long does a Nebraska mineral purchase take to close?</summary><div class="rr-taste-faq-answer"><p>Plan on three to five weeks in most cases. Small rural counties can take longer to pull older courthouse records, especially if your chain of title runs back through a probate from decades ago.</p></div></details><details class="rr-taste-faq-item"><summary>What happens to your existing lease if you sell the minerals underneath it?</summary><div class="rr-taste-faq-answer"><p>The lease stays in place and the buyer simply takes over your position as lessor, collecting any royalty the lease generates going forward. Your sale price reflects the value of that ongoing lease position, not a fresh unleased tract.</p></div></details><details class="rr-taste-faq-item"><summary>Do you need to do anything before requesting an offer?</summary><div class="rr-taste-faq-answer"><p>Pulling together your most recent division order, lease copy if one exists, and any deed or probate document showing your fractional share will speed up the whole process and get you a more accurate initial number.</p></div></details></div></section><section aria-label="Related Mineral Rights by State" class="rr-taste-related rr-taste-related--bays" data-rr-design="eastern-shipyard" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">Purchase sequence</p><h2>Advance the file toward funding</h2></div><p class="rr-taste-related-intro">Keep the document set and title questions from Sell Mineral Rights in Nebraska attached as the purchase moves into these next review stages.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/locations/california" style="--rr-link-index:1"><span aria-hidden="true" class="rr-taste-link-index">01</span><strong>Sell Mineral Rights in California</strong><small>Legacy San Joaquin and LA basin mineral interests often carry a century of fractional heirship. Here is how a California purchase moves from offer to recorded deed.</small></a><a class="rr-taste-link" href="/locations/alaska" style="--rr-link-index:2"><span aria-hidden="true" class="rr-taste-link-index">02</span><strong>Sell Mineral Rights in Alaska</strong><small>Private mineral ownership on the North Slope is unusual since most subsurface acreage is state or Native corporation land. Here is how a purchase closes when you hold title.</small></a><a class="rr-taste-link" href="/locations/oklahoma" style="--rr-link-index:3"><span aria-hidden="true" class="rr-taste-link-index">03</span><strong>Sell Mineral Rights in Oklahoma</strong><small>SCOOP, STACK, Osage, or Arkoma minerals? Oklahoma's Corporation Commission pooling orders and probate-heavy titles change how a purchase closes.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/locations">View the Purchase Sequence</a></div></section><section class="rr-taste-cta rr-taste-cta--dock" data-rr-design="eastern-shipyard" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Mineral Rights Purchase</p><h2>Want to organize the documents, title questions, and closing sequence for your mineral interest?</h2><p>Send the county and state, owner name, operator or payor, recent statement, deed reference, lease, division order, probate record, trust document, entity record, or written offer you already have.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Open a Purchase File</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+14055551012">Call 405-555-1012</a></div></section></div></div>
 </div>
 <section class="blog single">
 <article>
@@ -1871,7 +1873,7 @@ body.rr-design-eastern-shipyard .rr-taste-faq summary::before{content:counter(rr
 </div>
 </footer>
 </div>
-</div><div class="nav-secondary" data-rr-mobile=""><button aria-label="Close" class="rr-x" type="button"></button><a class="rr-m-link" href="/situations">Situations</a><a class="rr-m-link" href="/interest-types">Interests</a><a class="rr-m-link" href="/basins">Basins</a><a class="rr-m-link" href="/resources">Resources</a><a class="rr-m-link" href="/about">About</a><a class="rr-m-link" href="/contact">Contact</a><a class="rr-m-link" href="/contact">Open a Purchase File</a><a class="rr-m-link" href="tel:4055551012">405-555-1012</a></div><div class="rr-scrim"></div><script id="rr-nav">(function(){var B=document.body,navVersion=0;
+</div><div class="nav-secondary" data-rr-mobile=""><button aria-label="Close" class="rr-x" type="button"></button><a class="rr-m-link" href="/situations">Situations</a><a class="rr-m-link" href="/interest-types">Interests</a><a class="rr-m-link" href="/basins">Basins</a><a class="rr-m-link" href="/resources">Resources</a><a class="rr-m-link" href="/about">About</a><a class="rr-m-link" href="/contact">Contact</a><a class="rr-m-link" href="/contact">Open a Purchase File</a><a class="rr-m-link" href="tel:+14055551012">405-555-1012</a></div><div class="rr-scrim"></div><script id="rr-nav">(function(){var B=document.body,navVersion=0;
 function apply(open){B.classList.toggle('rr-nav-open',open);
 document.querySelectorAll('[data-rr-mobile]').forEach(function(d){
   if(open){
@@ -1900,17 +1902,46 @@ function ensureBurger(){
 ensureBurger();setTimeout(ensureBurger,180);setTimeout(ensureBurger,600);
 window.addEventListener('click',function(e){
   var b=e.target.closest('.rr-burger');if(b){e.preventDefault();e.stopImmediatePropagation();set(!B.classList.contains('rr-nav-open'));return;}
+  var searchToggle=e.target.closest('#searchBttn,#searchBttn_mobile,[data-rr-search-toggle]');
+  if(searchToggle){rrToggleSearch(e);e.stopImmediatePropagation();return;}
   if(e.target.closest('.rr-x')||e.target.classList.contains('rr-scrim')){e.preventDefault();e.stopImmediatePropagation();set(false);return;}
   var a=e.target.closest('[data-rr-mobile] a');if(a)set(false);},true);
 document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});
 window.addEventListener('resize',ensureBurger);
+function rrRunSearch(input){
+  if(!input)return;var q=input.value.trim().toLowerCase();if(!q)return;
+  var links=[].slice.call(document.querySelectorAll('a[href^="/"]'));
+  var match=links.find(function(a){return a.textContent.trim().toLowerCase().includes(q);});
+  var fallback=links.find(function(a){return a.getAttribute('href')==='/resources';})
+    ||links.find(function(a){return /^\/(?:services|equipment-types|locations|situations|interest-types)(?:\/|$)/.test(a.getAttribute('href')||'');})
+    ||links.find(function(a){return !/^\/(?:contact|privacy|terms|404)(?:\/|$)/.test(a.getAttribute('href')||'');});
+  window.location.href=match?match.getAttribute('href'):(fallback?fallback.getAttribute('href'):'/');
+}
+function rrToggleSearch(e){
+  e.preventDefault();B.classList.toggle('rr-search-open');
+  var panel=document.querySelector('#search,[data-rr-search-panel]'),input=panel&&panel.querySelector('input[type="search"]');
+  if(panel){var open=B.classList.contains('rr-search-open');panel.setAttribute('aria-hidden',String(!open));
+    panel.style.setProperty('display',open?'block':'none','important');if(open&&input)setTimeout(function(){input.focus();},20);}
+}
+document.querySelectorAll('#searchBttn,#searchBttn_mobile,[data-rr-search-toggle]').forEach(function(toggle){
+  toggle.setAttribute('role','button');toggle.setAttribute('tabindex','0');toggle.setAttribute('aria-label','Search');
+  toggle.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')rrToggleSearch(e);});
+});
 document.querySelectorAll('input[type="search"]').forEach(function(input){
-  input.addEventListener('keydown',function(e){
-    if(e.key!=='Enter')return;e.preventDefault();var q=input.value.trim().toLowerCase();
-    if(!q)return;var links=[].slice.call(document.querySelectorAll('a[href^="/"]'));
-    var match=links.find(function(a){return a.textContent.trim().toLowerCase().includes(q);});
-    window.location.href=match?match.getAttribute('href'):'/equipment-types';
-  });
+  input.addEventListener('keydown',function(e){if(e.key==='Enter'){e.preventDefault();rrRunSearch(input);}});
+  var form=input.closest('form');if(form&&!form.dataset.rrSearchReady){form.addEventListener('submit',function(e){e.preventDefault();rrRunSearch(input);});form.dataset.rrSearchReady='true';}
+});
+document.querySelectorAll('[data-href]').forEach(function(card){
+  var href=card.getAttribute('data-href');
+  if(!href||href==='#'||card.dataset.rrHrefReady)return;
+  card.setAttribute('role','link');card.setAttribute('tabindex','0');
+  function follow(e){
+    if(e.target.closest('a,button,input,select,textarea'))return;
+    e.preventDefault();window.location.href=href;
+  }
+  card.addEventListener('click',follow);
+  card.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')follow(e);});
+  card.dataset.rrHrefReady='true';
 });
 document.querySelectorAll('.MuiAccordionSummary-root').forEach(function(button){
   if(button.dataset.rrAccordionReady)return;
@@ -1943,24 +1974,21 @@ function rrEnsureControlPair(root,prev,next){
   var controls=root.querySelector(':scope > .rr-carousel-controls');
   var existingPrev=controls&&controls.querySelector('.rr-carousel-control--prev');
   var existingNext=controls&&controls.querySelector('.rr-carousel-control--next');
-  if(existingPrev&&existingNext)return {prev:existingPrev,next:existingNext};
-  [prev,next].forEach(function(legacy){
-    if(!legacy||!legacy.isConnected)return;
-    legacy.removeAttribute('aria-label');
-    legacy.removeAttribute('role');
-    legacy.removeAttribute('tabindex');
-    legacy.setAttribute('aria-hidden','true');
-    legacy.style.setProperty('display','none','important');
-  });
-  controls=document.createElement('div');
-  controls.className='rr-carousel-controls';
-  prev=document.createElement('button');next=document.createElement('button');
-  prev.type='button';next.type='button';
-  controls.appendChild(prev);controls.appendChild(next);
-  root.insertBefore(controls,root.firstChild);
-  prev.classList.add('rr-carousel-control','rr-carousel-control--prev');
-  next.classList.add('rr-carousel-control','rr-carousel-control--next');
-  [prev,next].forEach(function(control){
+  if(!controls){
+    controls=document.createElement('div');
+    controls.className='rr-carousel-controls';
+    root.appendChild(controls);
+  }
+  prev=existingPrev||prev;
+  next=existingNext||next;
+  if(!prev){prev=document.createElement('button');}
+  if(!next){next=document.createElement('button');}
+  if(prev.parentNode!==controls)controls.appendChild(prev);
+  if(next.parentNode!==controls)controls.appendChild(next);
+  if(prev.nextElementSibling!==next)controls.insertBefore(prev,next);
+  [[prev,'prev'],[next,'next']].forEach(function(pair){
+    var control=pair[0],direction=pair[1];
+    control.classList.add('rr-carousel-control','rr-carousel-control--'+direction);
     control.style.setProperty('position','relative','important');
     control.style.setProperty('display','grid','important');
     control.style.setProperty('visibility','visible','important');
@@ -1971,6 +1999,13 @@ function rrEnsureControlPair(root,prev,next){
     control.style.setProperty('min-width','44px','important');
     control.style.setProperty('height','44px','important');
     control.style.setProperty('min-height','44px','important');
+    control.style.setProperty('inset','auto','important');
+    control.style.setProperty('left','auto','important');
+    control.style.setProperty('right','auto','important');
+    control.style.setProperty('top','auto','important');
+    control.style.setProperty('bottom','auto','important');
+    control.style.setProperty('transform','none','important');
+    control.style.setProperty('margin','0','important');
   });
   prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
   prev.setAttribute('type','button');next.setAttribute('type','button');
@@ -2434,28 +2469,32 @@ document.querySelectorAll('[data-rr-carousel="slick"]').forEach(function(root){
 });
 document.querySelectorAll('[data-rr-carousel="native"]').forEach(function(root){
   if(root.dataset.rrNativeReady)return;
-  var items=[].slice.call(root.children).filter(function(el){return el.nodeType===1;});
+  var track=root.dataset.rrTrack?root.querySelector(root.dataset.rrTrack):root;
+  if(!track)track=root;
+  var items=root.dataset.rrSlides?[].slice.call(root.querySelectorAll(root.dataset.rrSlides)):[].slice.call(track.children).filter(function(el){return el.nodeType===1;});
   if(items.length<2)return;
-  var section=root.closest('section')||root.parentElement;
-  var controls=section&&section.querySelector('.f-properties__arrows-container');
-  if(!controls){controls=document.createElement('div');root.insertAdjacentElement('afterend',controls);}
-  var prev=document.createElement('button'),next=document.createElement('button');
-  prev.type=next.type='button';prev.className='slick-arrow slick-prev';next.className='slick-arrow slick-next';
-  prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
-  controls.appendChild(prev);controls.appendChild(next);
+  var pair=rrEnsureControlPair(root,null,null),prev=pair.prev,next=pair.next;
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,items.length);}
-  function render(smooth){
+  var tabs=root.dataset.rrTabs?[].slice.call(root.querySelectorAll(root.dataset.rrTabs)):[];
+  function render(){
     var count=visible(),max=Math.max(0,items.length-count);index=Math.max(0,Math.min(index,max));
-    var step=items[0].getBoundingClientRect().width;
-    root.scrollTo({left:index*step,behavior:smooth?'smooth':'auto'});
+    root.style.setProperty('overflow','hidden','important');
+    track.style.setProperty('display','flex','important');track.style.setProperty('flex-wrap','nowrap','important');track.style.setProperty('justify-content','flex-start','important');track.style.setProperty('align-items','stretch','important');track.style.setProperty('width','100%','important');track.style.setProperty('transform','translate3d('+(-index*(100/count))+'%,0,0)','important');track.style.setProperty('transition','transform 360ms ease','important');
+    items.forEach(function(item,n){var active=n>=index&&n<index+count;item.style.setProperty('display','block','important');item.style.setProperty('position','relative','important');item.style.setProperty('left','0','important');item.style.setProperty('top','0','important');item.style.setProperty('right','auto','important');item.style.setProperty('bottom','auto','important');item.style.setProperty('transform','none','important');item.style.setProperty('flex','0 0 '+(100/count)+'%','important');item.style.setProperty('min-width',(100/count)+'%','important');item.style.setProperty('width',(100/count)+'%','important');item.style.setProperty('visibility','visible','important');item.style.setProperty('opacity','1','important');item.style.setProperty('pointer-events',active?'auto':'none','important');item.classList.toggle('cmp-carousel__item--active',active);item.setAttribute('aria-hidden',String(!active));});
+    tabs.slice(0,items.length).forEach(function(tab,n){var active=n===index;tab.classList.toggle('cmp-carousel__indicator--active',active);tab.setAttribute('aria-selected',String(active));tab.setAttribute('tabindex',active?'0':'-1');});
     prev.classList.toggle('slick-disabled',index===0);next.classList.toggle('slick-disabled',index===max);
     prev.setAttribute('aria-disabled',String(index===0));next.setAttribute('aria-disabled',String(index===max));
+    root.dataset.rrCarouselIndex=String(index);
   }
-  prev.addEventListener('click',function(){index-=1;render(true);});
-  next.addEventListener('click',function(){index+=1;render(true);});
-  window.addEventListener('resize',function(){render(false);});
-  root.dataset.rrNativeReady='true';render(false);
+  prev.addEventListener('click',function(){index-=1;render();});
+  next.addEventListener('click',function(){index+=1;render();});
+  tabs.slice(0,items.length).forEach(function(tab,n){tab.addEventListener('click',function(e){e.preventDefault();index=n;render();});tab.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();index=n;render();}});});
+  var paused=false,delay=parseInt(root.dataset.rrAutoplay||'0',10)||0;
+  root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});
+  if(delay)window.setInterval(function(){if(!paused){var max=Math.max(0,items.length-visible());index=index>=max?0:index+1;render();}},delay);
+  window.addEventListener('resize',render);
+  root.dataset.rrNativeReady='true';render();
 });
 document.querySelectorAll('[data-rr-carousel="splide"]').forEach(function(root){
   if(root.dataset.rrSplideReady)return;
@@ -2504,7 +2543,7 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   Array.prototype.slice.call(list.children).forEach(function(el){if(el.classList.contains('swiper-slide-duplicate'))el.remove();});
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   var normalizedControls=null;
-  function isPrev(arrow){return arrow.classList.contains('rr-carousel-control--prev')||arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
+  function isPrev(arrow){var label=(arrow.getAttribute('aria-label')||'').toLowerCase();return label.indexOf('previous')!==-1||arrow.classList.contains('rr-carousel-control--prev')||arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function controls(){if(normalizedControls)return normalizedControls;var configured=[];if(root.dataset.rrPrev)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrPrev)));if(root.dataset.rrNext)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrNext)));if(configured.length)return configured;var own=root.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');if(own.length)return own;var host=root.closest('.elementor-widget')||root.parentElement||root;return host.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');}
   function bullets(){var host=root.dataset.rrCompanions?root.querySelector(root.dataset.rrCompanions):root.querySelector('.swiper-pagination');return host?[].slice.call(host.querySelectorAll('.swiper-pagination-bullet')):[];}
@@ -2512,8 +2551,6 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   var swiperPrev=foundControls.find(isPrev);
   var swiperNext=foundControls.find(function(control){return !isPrev(control);});
   var swiperControls=rrEnsureControlPair(root,swiperPrev,swiperNext);
-  swiperControls.prev.classList.add('swiper-button-prev');
-  swiperControls.next.classList.add('swiper-button-next');
   normalizedControls=[swiperControls.prev,swiperControls.next];
   function render(){
     var count=visible(),max=Math.max(0,slides.length-count);index=Math.max(0,Math.min(index,max));
@@ -2524,9 +2561,10 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*100/count)+'%','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
-    list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*100/slides.length)+'%,0,0)','important');
-    slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+(100/slides.length)+'%','important');slide.style.setProperty('width',(100/slides.length)+'%','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
+    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
+    list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
+    slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
     controls().forEach(function(arrow){var prev=isPrev(arrow);arrow.setAttribute('aria-disabled',String((prev&&index===0)||(!prev&&index===max)));});
     bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
   }
@@ -2544,6 +2582,41 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   if(delay){root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});window.setInterval(function(){if(!paused){var max=Math.max(0,slides.length-visible());index=index>=max?0:index+1;render();}},delay);}
   window.addEventListener('resize',render);root.dataset.rrSwiperReady='true';render();
 });
+document.querySelectorAll('[data-rr-carousel="bootstrap"]').forEach(function(root){
+  if(root.dataset.rrBootstrapReady)return;
+  var selector=root.dataset.rrSlides||'.carousel-item';
+  var slides=[].slice.call(root.querySelectorAll(selector));
+  if(slides.length<2)return;
+  var configuredPrev=root.dataset.rrPrev?root.querySelector(root.dataset.rrPrev):root.querySelector('.carousel-control-prev');
+  var configuredNext=root.dataset.rrNext?root.querySelector(root.dataset.rrNext):root.querySelector('.carousel-control-next');
+  var pair=rrEnsureControlPair(root,configuredPrev,configuredNext),prev=pair.prev,next=pair.next;
+  var indicators=[].slice.call(root.querySelectorAll('[data-bs-slide-to]'));
+  var requestedStart=parseInt(root.dataset.rrStart||'0',10);
+  var index=Number.isFinite(requestedStart)?requestedStart:0;
+  function render(){
+    index=(index%slides.length+slides.length)%slides.length;
+    slides.forEach(function(slide,n){
+      var active=n===index;
+      slide.classList.toggle('active',active);
+      slide.setAttribute('aria-hidden',String(!active));
+    });
+    indicators.forEach(function(indicator,n){
+      var active=n===index;
+      indicator.classList.toggle('active',active);
+      if(active)indicator.setAttribute('aria-current','true');else indicator.removeAttribute('aria-current');
+    });
+    root.dataset.rrCarouselIndex=String(index);
+    root.dataset.rrCarouselMax=String(slides.length-1);
+    prev.disabled=false;next.disabled=false;
+    prev.setAttribute('aria-disabled','false');next.setAttribute('aria-disabled','false');
+  }
+  prev.addEventListener('click',function(e){e.preventDefault();index-=1;render();});
+  next.addEventListener('click',function(e){e.preventDefault();index+=1;render();});
+  indicators.forEach(function(indicator,n){
+    indicator.addEventListener('click',function(e){e.preventDefault();index=n;render();});
+  });
+  root.dataset.rrBootstrapReady='true';render();
+});
 document.querySelectorAll('[data-rr-carousel="horizontal"],[data-rr-carousel="true"]').forEach(function(root){
   if(root.dataset.rrHorizontalReady||root.dataset.rrCarouselReady)return;
   var track=root.dataset.rrTrack?root.querySelector(root.dataset.rrTrack):null;
@@ -2552,7 +2625,9 @@ document.querySelectorAll('[data-rr-carousel="horizontal"],[data-rr-carousel="tr
   var slides=[].slice.call(track.querySelectorAll(':scope > '+selector)).filter(function(slide){return !slide.classList.contains('slick-cloned')&&!slide.classList.contains('splide__slide--clone')&&!slide.classList.contains('swiper-slide-duplicate');});
   if(!slides.length)slides=[].slice.call(track.children).filter(function(child){return child.nodeType===1;});
   if(slides.length<2)return;
-  var pair=rrEnsureControlPair(root,null,null),prev=pair.prev,next=pair.next;
+  var configuredPrev=root.dataset.rrPrev?root.querySelector(root.dataset.rrPrev):null;
+  var configuredNext=root.dataset.rrNext?root.querySelector(root.dataset.rrNext):null;
+  var pair=rrEnsureControlPair(root,configuredPrev,configuredNext),prev=pair.prev,next=pair.next;
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function render(){
@@ -2594,16 +2669,18 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-prose="detail"] h2,.rr-detail-prose h2{margin-top:42px!important;margin-bottom:16px!important;overflow:visible!important;text-overflow:clip!important;-webkit-line-clamp:unset;white-space:normal!important}
 [data-rr-prose="detail"] ul,.rr-detail-prose ul{padding-left:22px!important}
 [data-rr-band],[data-rr-static-grid]{overflow:visible!important;max-width:100%!important}
-[data-rr-static-grid],[data-rr-band]:not(:has([data-rr-carousel])) .elementor-loop-container,[data-rr-band]:not(:has([data-rr-carousel])) .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
+[data-rr-static-grid],[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .elementor-loop-container,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
 [data-rr-static-grid]>*{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;float:none!important;width:auto!important;max-width:100%!important;min-width:0!important;margin:0!important;transform:none!important;opacity:1!important;visibility:visible!important}
-[data-rr-band]:not(:has([data-rr-carousel])) .slick-list,[data-rr-band]:not(:has([data-rr-carousel])) .swiper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-wrapper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
+[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .slick-list,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-wrapper,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
 [data-rr-band] img:not([data-rr-carousel] img),[data-rr-static-grid] img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}
 [data-rr-carousel="slick"] .slick-list{overflow:hidden!important}
 [data-rr-band] .site-img img,[data-rr-band] .properties-img img,[data-rr-band] .communities-img img,[data-rr-band] figure img,[data-rr-band] [class*="image"] img,[data-rr-band] [class*="Image"] img{height:260px!important}
-[data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
-[data-rr-carousel] .rr-carousel-controls{display:flex!important;justify-content:flex-end!important;gap:10px!important;margin:24px 0 0!important}
+[data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
+[data-rr-carousel]{position:relative!important}
+[data-rr-carousel]>.rr-carousel-controls{position:absolute!important;right:20px!important;bottom:20px!important;left:auto!important;top:auto!important;z-index:30!important;display:flex!important;justify-content:flex-end!important;gap:10px!important;width:auto!important;height:auto!important;margin:0!important;transform:none!important}
 [data-rr-carousel] .rr-carousel-control{position:relative!important;display:grid!important;place-items:center!important;box-sizing:border-box!important;min-width:44px!important;width:44px!important;height:44px!important;padding:0!important;border:2px solid #fff!important;border-radius:999px!important;background:var(--rr-taste-dark,#111)!important;color:#fff!important;cursor:pointer!important}
 [data-rr-carousel] .rr-carousel-control::before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
+[data-rr-carousel] .rr-carousel-control::after{content:none!important;display:none!important}
 [data-rr-carousel] .rr-carousel-control--prev::before{transform:rotate(-135deg)!important;margin-left:4px!important}
 [data-rr-carousel] .rr-carousel-control--next::before{transform:rotate(45deg)!important;margin-right:4px!important}
 [data-rr-carousel] .rr-carousel-control.disabled,[data-rr-carousel] .rr-carousel-control:disabled{opacity:.35!important;cursor:default!important}
@@ -2671,7 +2748,7 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 .mk-gallery .mk-gallery-item,.mk-gallery .item-holder,.mk-gallery .image-hover-overlay{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;max-width:100%!important;min-width:0!important;height:auto!important;transform:none!important}
 .mk-gallery .mk-gallery-item img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;object-fit:cover!important}
 }
-</style><script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer="" src="/_vercel/insights/script.js"></script><script id="rr-mineral-header-script">
+</style><script id="rr-mineral-header-script">
 document.addEventListener("DOMContentLoaded",function(){
   document.querySelectorAll("[data-rr-dropdown-trigger]").forEach(function(trigger){
     trigger.addEventListener("click",function(event){
@@ -2741,4 +2818,4 @@ document.addEventListener("DOMContentLoaded",function(){
     });
   });
 });
-</script></body></html>
+</script><script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer="" src="/_vercel/insights/script.js"></script></body></html>
