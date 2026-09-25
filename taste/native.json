@@ -1,0 +1,30 @@
+{
+  "classes": {
+    "header a.rr-header-cta": "button button-outline button-small",
+    "#contact-form": "gform_fields",
+    "#contact-form .rr-contact-field": "gfield",
+    "#contact-form label": "gfield_label",
+    "#contact-form input": "ginput_container",
+    ".rr-taste-hero h1": "h1"
+  },
+  "remove": {
+    "all": [
+      "section.section-statistics",
+      ".timeline-info > h3.h6:not(.text-blue)"
+    ],
+    "slug": [
+      "section.blog.single"
+    ]
+  },
+  "slug_order": ["faq", "related", "cta"],
+  "slug_mounts": {
+    "cta": "div.contentwrapper"
+  },
+  "templates": {
+    "faq": "<section class=\"mosaic-section section-content-area color-one\"><div class=\"content-wrapper sub-contents\"><h2 class=\"h1 section-headline text-blue\">{heading}</h2><div class=\"mosaic-posts-shortcode posts-post\">{items}</div></div></section>",
+    "faq_item": "<div class=\"post post-post\"><div class=\"post-content\"><h3 class=\"h6\">{q}</h3><div class=\"entry-content\">{a}</div></div></div>",
+    "related": "<section class=\"mosaic-section section-content-area color-one\"><div class=\"content-wrapper sub-contents\"><h2 class=\"h1 section-headline text-blue\">{heading}</h2><div class=\"mosaic-posts-shortcode posts-post\">{items}</div><span class=\"shortcode-button-wrapper\"><a class=\"button button-outline shortcode-button\" href=\"{all_href}\">{all_label}</a></span></div></section>",
+    "related_item": "<div class=\"post post-post\"><div class=\"post-content\"><h3 class=\"h6\"><a href=\"{href}\">{name}</a></h3><div class=\"post-date\">{teaser}</div><span class=\"read-more-wrapper\"><a class=\"read-more\" href=\"{href}\">Read &gt;&gt;</a></span></div></div>",
+    "cta": "<section class=\"mosaic-section section-banner color-two footer-content-section\"><div class=\"banner-wrapper sub-contents\"><div class=\"row mosaic-grid\"><div class=\"col col-2 column-6\"><h3 class=\"headline\">{title}</h3><p>{intro}</p><span class=\"shortcode-button-wrapper\"><a class=\"button button-outline shortcode-button button-alt\" href=\"{contact_href}\">{label}</a></span><p class=\"small\">Or call <a href=\"{tel_href}\">{phone}</a></p></div></div></div></section>"
+  }
+}
