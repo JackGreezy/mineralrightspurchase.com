@@ -9,6 +9,16 @@
     "investing": "Purchase Analysis",
     "exchange-1031": "Mineral 1031 Exchange Guides"
   },
+  "hero_city_suffix": false,
+  "taxonomy_intros": {
+    "situations": "Every situation below starts the same way: name the owner's actual objective, then match the record that objective needs before a purchase file opens.",
+    "locations": "Ownership decimal, title evidence, and closing mechanics change state by state. Find the state, then read the recording and payor rules that apply to it.",
+    "basins": "A basin sets the operator, formation, and development context. The tract record and paid decimal still control the purchase file underneath it.",
+    "interest-types": "Minerals, royalties, overrides, and working interests carry different rights and burdens, and the purchase file has to name the exact one being conveyed.",
+    "resources": "Each guide answers one part of the same closing file: the deed exhibit, the division order, the settlement math, or the title exception list.",
+    "investing": "A purchase analysis is only as sound as the ownership decimal and title evidence behind it, not the multiple attached to the pitch.",
+    "exchange-1031": "Exchange timing runs on a federal clock; the title and closing work underneath it keeps its own separate schedule."
+  },
   "scrub": [
     [
       "lead.generation",
@@ -218,7 +228,7 @@
   "slug_ui": {
     "related_kicker": "Purchase sequence",
     "related_heading": "Related Guides",
-    "related_intro": "Keep the document set and title questions from {item} attached as the purchase moves into these next review stages.",
+    "related_intro": "Keep the same document set and title questions attached as the purchase moves into these next review stages.",
     "related_action": "View the Purchase Sequence",
     "faq_kicker": "File open to funding",
     "faq_intro": "Use these answers to define what is ready, what remains curative, and what must be confirmed before funds are released."

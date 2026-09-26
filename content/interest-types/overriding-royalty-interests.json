@@ -20,7 +20,7 @@
   {
    "heading": "What happens if the lease it's carved from expires",
    "paragraphs": [
-    "This is the risk unique to ORRIs among the interest types on this site: if the underlying lease terminates, whether because the well is plugged, the lease's terms lapse, or the operator lets it expire, the override terminates with it and reverts to nothing, since there's no longer a leasehold for it to attach to. A buyer purchasing an ORRI is pricing that risk directly, weighing the well's remaining productive life and the lease's likelihood of being maintained or renewed against the income stream being purchased.",
+    "This is the risk unique to ORRIs among mineral interest types: if the underlying lease terminates, whether because the well is plugged, the lease's terms lapse, or the operator lets it expire, the override terminates with it and reverts to nothing, since there's no longer a leasehold for it to attach to. A buyer purchasing an ORRI is pricing that risk directly, weighing the well's remaining productive life and the lease's likelihood of being maintained or renewed against the income stream being purchased.",
     "This is also why ORRI value tends to track the specific well or unit's production decline more tightly than a straight mineral royalty would, since a mineral royalty owner still holds the underlying minerals and can lease again to a new operator after an old lease expires, while an ORRI holder generally cannot unless the assignment specifically preserved that right."
    ]
   },

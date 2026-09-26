@@ -10,7 +10,8 @@
   "remove": {
     "all": [
       "section.section-statistics",
-      ".timeline-info > h3.h6:not(.text-blue)"
+      ".timeline-info > h3.h6:not(.text-blue)",
+      ".viewing-portal-thumbnails"
     ],
     "slug": [
       "section.blog.single"
