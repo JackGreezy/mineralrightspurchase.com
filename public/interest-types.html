@@ -1969,7 +1969,11 @@ function set(open){var version=++navVersion;apply(open);
 function visible(element){if(!element)return false;var rect=element.getBoundingClientRect(),style=getComputedStyle(element);return rect.width>2&&rect.height>2&&rect.right>0&&rect.bottom>0&&style.display!=='none'&&style.visibility!=='hidden';}
 function ensureBurger(){
   if(window.matchMedia('(min-width:981px)').matches)return;
-  if([].slice.call(document.querySelectorAll('.rr-burger')).some(visible))return;
+  var burgers=[].slice.call(document.querySelectorAll('.rr-burger'));
+  // A donor burger that was mid-transition on an earlier pass may be visible now: drop the fallback.
+  if(burgers.some(function(x){return !x.classList.contains('rr-burger-fallback')&&visible(x);})){
+    burgers.forEach(function(x){if(x.classList.contains('rr-burger-fallback'))x.remove();});return;}
+  if(burgers.some(visible))return;
   var header=document.querySelector('header');if(!header)return;
   var slots=[].slice.call(header.querySelectorAll('nav')).filter(visible),slot=slots[0]||header;
   var button=document.createElement('button');button.className='rr-burger rr-burger-fallback';button.type='button';button.setAttribute('aria-label','Menu');
@@ -2644,7 +2648,11 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    var viewport=list.parentElement;
+    // Pin the viewport to its track before measuring: a site that grids/flexes this ancestor
+    // would otherwise report the sum of its unsized slides and oversize every card.
+    if(viewport&&viewport!==root){viewport.style.setProperty('width','100%','important');viewport.style.setProperty('max-width','100%','important');viewport.style.setProperty('min-width','0','important');}
+    var viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
     root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
     list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
     slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
