@@ -42,6 +42,9 @@ for(const file of walk(pub).filter(file=>file.endsWith('.html'))){
  });
  const position=html.toLowerCase().lastIndexOf('</body>');
  html=html.slice(0,position)+block+html.slice(position);
+ for(const asset of html.matchAll(/\/(?:ours|brand)\/[^\s"'<>\)]+?\.(?:jpe?g|png|webp|avif|svg|ico)/gi)){
+  if(!fs.existsSync(path.join(pub,decodeURIComponent(asset[0]))))throw Error('Missing published image: '+asset[0]);
+ }
  if(html!==fs.readFileSync(file,'utf8')){fs.writeFileSync(file,html);changed++;}
  checked++;
 }
