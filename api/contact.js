@@ -4,6 +4,28 @@ const SITE = {
   siteUrl: "https://mineralrightspurchase.com"
 };
 
+const BRAND = {
+  "templateId": "d-c6cff7760ef649a98495492b3dfc4453",
+  "domain": "mineralrightspurchase.com",
+  "category": "mineralrightspurchase-com",
+  "phone": "405-709-5947",
+  "logo_url": "https://mineralrightspurchase.com/brand/logo.png",
+  "brand_accent": "#334b5e",
+  "accent_text": "#ffffff",
+  "header_bg": "#ffffff",
+  "cta_dark_bg": "#263746",
+  "bg_color": "#eef1f4",
+  "text_dark": "#172b3a",
+  "text_muted": "#64727f",
+  "text_body": "#3a4654",
+  "text_faint": "#8896a1",
+  "border_color": "#e3e8ed",
+  "card_header_bg": "#f6f8f9",
+  "heading_font_family": "'Montserrat',Helvetica,Arial,sans-serif",
+  "body_font_family": "'Montserrat',Helvetica,Arial,sans-serif",
+  "font_import": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap"
+};
+
 const WINDOW_MS = 60 * 1000;
 const REQUEST_LIMIT = 6;
 const buckets = new Map();
@@ -56,6 +78,12 @@ function readBody(req) {
 }
 
 async function payload(req) {
+  if (req.body && typeof req.body === "object") return req.body;
+  if (typeof req.body === "string") {
+    return clean(req.headers["content-type"]).toLowerCase().includes("application/json")
+      ? JSON.parse(req.body)
+      : Object.fromEntries(new URLSearchParams(req.body).entries());
+  }
   const raw = await readBody(req);
   if (clean(req.headers["content-type"]).toLowerCase().includes("application/json")) {
     return raw ? JSON.parse(raw) : {};
@@ -118,37 +146,62 @@ function solicitation(lead) {
     (text.match(/https?:\/\//g) || []).length > 2;
 }
 
-async function sendEmail(to, lead) {
+async function sendEmail(to, lead, notificationType = "internal_notification") {
   const apiKey = clean(process.env.SENDGRID_API_KEY);
   if (!apiKey) throw new Error("SENDGRID_API_KEY is missing");
   const from = clean(process.env.SENDGRID_FROM_EMAIL) || SITE.businessEmail;
-  const rows = [
-    ["Name", lead.name],
-    ["Email", lead.email],
-    ["Phone", lead.phone],
-    ["Message", lead.message],
-    ["Source", lead.source]
-  ];
-  const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
-  const html = rows.map(([label, value]) =>
-    `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`
-  ).join("");
+  const customer = notificationType === "customer_confirmation";
+  const subject = customer
+    ? `Thank you for your Mineral Rights inquiry | ${SITE.businessName}`
+    : `${SITE.businessName}: New Mineral Rights inquiry from ${lead.name}`;
+  const templateId = clean(process.env.SENDGRID_TEMPLATE_ID) || BRAND.templateId;
+  if (!templateId) throw new Error("SENDGRID_TEMPLATE_ID is missing");
   const response = await fetch("https://api.sendgrid.com/v3/mail/send", {
     method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json"
-    },
+    signal: AbortSignal.timeout(20000),
+    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
     body: JSON.stringify({
       from: { email: from, name: SITE.businessName },
-      reply_to: { email: lead.email, name: lead.name },
-      personalizations: [{ to: [{ email: to }] }],
-      subject: `${SITE.businessName} inquiry: ${lead.name}`,
-      content: [
-        { type: "text/plain", value: text },
-        { type: "text/html", value: html }
-      ],
-      categories: ["mineral-rights-lead", "mineralrightspurchase-com"]
+      reply_to: customer
+        ? { email: SITE.businessEmail, name: SITE.businessName }
+        : { email: lead.email, name: lead.name },
+      template_id: templateId,
+      personalizations: [{
+        to: [{ email: to }],
+        dynamic_template_data: {
+          ...BRAND,
+          logo_url: clean(process.env.SENDGRID_LOGO_URL) || BRAND.logo_url,
+          subject,
+          company_name: SITE.businessName,
+          city_state: "",
+          address_line: "",
+          preheader: customer ? "Your mineral rights inquiry has been received." : `New inquiry from ${lead.name}.`,
+          hero_title: customer ? `Thank you, ${lead.name}.` : "New Mineral Rights Inquiry",
+          hero_subtitle: customer
+            ? `${SITE.businessName} has received your inquiry. Our team will review your message and follow up.`
+            : `A new inquiry was submitted to ${SITE.businessName}.`,
+          details_title: customer ? "Your inquiry details" : "Contact and inquiry details",
+          lead: {
+            name: lead.name,
+            email: lead.email,
+            phone: lead.phone,
+            phone_plain: lead.phone.replace(/\D/g, ""),
+            projectDescription: lead.message
+          },
+          submitted_date: new Date().toLocaleDateString("en-US", { timeZone: "America/Los_Angeles", year: "numeric", month: "long", day: "numeric" }),
+          call_phone: BRAND.phone,
+          call_phone_plain: BRAND.phone.replace(/\D/g, ""),
+          call_cta_label: "Call Our Team",
+          site_cta_label: "Visit Our Website",
+          site_url: SITE.siteUrl,
+          footer_note: customer
+            ? `This confirmation relates to the inquiry you submitted to ${SITE.businessName}.`
+            : `Submitted through ${SITE.siteUrl}/contact.`,
+          notification_type: notificationType
+        }
+      }],
+      categories: ["mineral-rights-lead", BRAND.category, notificationType],
+      custom_args: { site_host: BRAND.domain, notification_type: notificationType }
     })
   });
   if (!response.ok) throw new Error(`SendGrid request failed (${response.status})`);
@@ -168,6 +221,7 @@ module.exports = async function handler(req, res) {
         SITE.businessEmail
       ).split(/[\n,;]/).map(clean).filter(Boolean);
       await Promise.all([...new Set(recipients)].map((to) => sendEmail(to, lead)));
+      await sendEmail(lead.email, lead, "customer_confirmation");
     }
     return redirect(res, "/contact?submitted=1");
   } catch (error) {
