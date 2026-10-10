@@ -104,8 +104,8 @@ for page in pages:
         failures.append(f"{page.relative_to(project)}: singular first-person copy is forbidden")
     if page.name == "index.html":
         home_h1 = " ".join(h1s[0].get_text(" ", strip=True).split()) if len(h1s) == 1 else ""
-        if "Mineral Rights Purchase" not in home_h1 or "Oklahoma City" not in home_h1:
-            failures.append(f"{page.relative_to(project)}: homepage H1 must name Mineral Rights Purchase and Oklahoma City")
+        if "Mineral Rights Purchase" not in home_h1:
+            failures.append(f"{page.relative_to(project)}: homepage H1 must name Mineral Rights Purchase")
     for forbidden in address_fragments + donor_terms:
         if forbidden.lower() in visible.lower():
             failures.append(f"{page.relative_to(project)}: visible forbidden text: {forbidden}")

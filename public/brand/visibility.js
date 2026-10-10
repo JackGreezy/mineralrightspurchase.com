@@ -50,20 +50,37 @@
       const context = canvas.getContext('2d', {willReadFrequently: true});
       context.drawImage(img, 0, 0, canvas.width, canvas.height);
       const data = context.getImageData(0, 0, canvas.width, canvas.height).data, values = [];
-      for (let i = 0; i < data.length; i += 4) if (data[i + 3] > 220) values.push(luminance([data[i], data[i + 1], data[i + 2]]));
+      for (let i = 0; i < data.length; i += 4) if (data[i + 3] > 220 && (i / 4) % canvas.width > canvas.width * .28) values.push(luminance([data[i], data[i + 1], data[i + 2]]));
       samples.set(img, values); return values;
     } catch { return []; }
   }
   function refresh() {
     document.querySelectorAll('img.rr-approved-logo,img.rr-brand-logo,img[src$="/brand/logo.png"]').forEach(img => {
-      if (img.closest('footer')) return;
+      if (img.closest('footer') || img.dataset.rrLogoOverlay) return;
       const bg = backdrop(img), values = ink(img);
       const ratio = light => (Math.max(light, bg) + .05) / (Math.min(light, bg) + .05);
       const originalReadable = values?.length && values.filter(v => ratio(v) >= 3).length / values.length >= .95;
-      const filter = originalReadable ? 'none' : (ratio(1) > ratio(0) ? 'brightness(0) invert(1)' : 'brightness(0)');
+      let filter = originalReadable ? 'none' : (ratio(1) > ratio(0) ? 'brightness(0) invert(1)' : 'brightness(0)');
+      let compositeRatio = null;
+      // Louisiana's colored river emblem must remain intact when its text changes tone.
+      if (script?.dataset.logoVariant === 'louisiana-split') {
+        const anchor = img.closest('a') || img.parentElement;
+        let overlay = anchor.querySelector('.rr-logo-text-overlay');
+        if (!overlay) {
+          overlay = img.cloneNode(); overlay.className = 'rr-logo-text-overlay'; overlay.alt = '';
+          overlay.setAttribute('aria-hidden', 'true'); overlay.dataset.rrLogoOverlay = 'true'; anchor.append(overlay);
+        }
+        if (getComputedStyle(anchor).position === 'static') anchor.style.position = 'relative';
+        const r = img.getBoundingClientRect(), p = anchor.getBoundingClientRect(), white = ratio(1) > ratio(0);
+        const styles = {position:'absolute',left:(r.x-p.x)+'px',top:(r.y-p.y)+'px',width:r.width+'px',height:r.height+'px','max-width':'none','max-height':'none',display:'block',visibility:'visible',opacity:'1','pointer-events':'none','object-fit':getComputedStyle(img).objectFit,'object-position':getComputedStyle(img).objectPosition,'clip-path':white?'inset(0 0 33% 22%)':'inset(67% 0 0 22%)',filter:white?'brightness(0) invert(1)':'brightness(0)'};
+        for (const [key,value] of Object.entries(styles)) overlay.style.setProperty(key,value,'important');
+        filter = 'none';
+        const contrasts = (values || []).map(v => ratio(white && v < .15 ? 1 : white ? v : 0)).sort((a,b)=>a-b);
+        compositeRatio = contrasts.length ? contrasts[Math.floor(contrasts.length*.05)] : Math.max(ratio(0),ratio(1));
+      }
       img.style.setProperty('filter', filter, 'important');
       const ratios = originalReadable ? values.map(ratio).sort((a, b) => a - b) : [];
-      img.dataset.contrastRatio = String(originalReadable ? ratios[Math.floor(ratios.length * .05)] : Math.max(ratio(0), ratio(1)));
+      img.dataset.contrastRatio = String(compositeRatio || (originalReadable ? ratios[Math.floor(ratios.length * .05)] : Math.max(ratio(0), ratio(1))));
       img.dataset.contrastBackground = String(bg);
     });
   }
@@ -92,7 +109,12 @@
     let scheduled = false;
     const schedule = () => { if (!scheduled) { scheduled = true; requestAnimationFrame(() => { scheduled = false; refresh(); }); } };
     addEventListener('scroll', schedule, {passive: true}); addEventListener('resize', schedule);
-    new MutationObserver(schedule).observe(document.body, {attributes: true, attributeFilter: ['class'], subtree: true});
+    addEventListener('load', schedule, {once:true});
+    document.addEventListener('load', schedule, true);
+    document.addEventListener('transitionend', schedule, true);
+    document.addEventListener('animationend', schedule, true);
+    matchMedia('(prefers-color-scheme: dark)').addEventListener('change', schedule);
+    new MutationObserver(schedule).observe(document.body, {attributes: true, attributeFilter: ['class','data-transparent','data-theme'], subtree: true});
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, {once: true}); else init();
 })();
