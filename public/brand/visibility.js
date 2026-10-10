@@ -9,15 +9,37 @@
     return sum + (v <= .04045 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4) * [.2126, .7152, .0722][i];
   }, 0);
   const samples = new WeakMap();
+  const surfaces = new WeakMap();
   function backdrop(img) {
+    const anchor = img.closest('a') || img.parentElement;
+    if (surfaces.has(anchor)) {
+      const original = surfaces.get(anchor);
+      anchor.style.removeProperty('background-color');
+      if (original.value) anchor.style.setProperty('background-color', original.value, original.priority);
+      surfaces.delete(anchor);
+    }
+    const surface = () => {
+      surfaces.set(anchor, {value:anchor.style.getPropertyValue('background-color'), priority:anchor.style.getPropertyPriority('background-color')});
+      anchor.style.setProperty('background-color', '#111111', 'important');
+      return luminance([17, 17, 17]);
+    };
     for (let p = img.parentElement; p; p = p.parentElement) {
+      if (p === document.body || p === document.documentElement) break;
       const style = getComputedStyle(p), rgb = colors(style.backgroundColor);
       if (rgb.length >= 3 && (rgb[3] === undefined || rgb[3] > .85)) return luminance(rgb);
       if (style.backgroundImage !== 'none') {
-        return luminance(colors(getComputedStyle(img.parentElement).color)) > .5 ? 0 : 1;
+        return surface();
       }
     }
-    return 1;
+    const rect = img.getBoundingClientRect(), x = rect.x + rect.width / 2, y = rect.y + rect.height / 2;
+    const photoBehind = [...document.images].some(photo => {
+      if (photo === img || photo.closest('footer') || /brand|logo/.test(photo.className + ' ' + photo.src)) return false;
+      const r = photo.getBoundingClientRect();
+      return r.width > 200 && r.height > 100 && x >= r.left && x <= r.right && y >= r.top && y <= r.bottom;
+    }) || getComputedStyle(document.body).backgroundImage !== 'none' || document.elementsFromPoint(x, y).some(el => !img.contains(el) && !el.contains(img) && getComputedStyle(el).backgroundImage !== 'none');
+    if (photoBehind) return surface();
+    const body = colors(getComputedStyle(document.body).backgroundColor);
+    return body.length >= 3 && (body[3] === undefined || body[3] > .85) ? luminance(body) : 1;
   }
   function ink(img) {
     if (samples.has(img)) return samples.get(img);
@@ -54,11 +76,12 @@
       call.title = 'Call ' + phone;
       const icon = document.createElement('span'); icon.className = 'rr-mobile-call-icon'; icon.setAttribute('aria-hidden', 'true'); call.append(icon);
       document.body.append(call);
-      const candidates = [...document.querySelectorAll('form button[type="submit"],a[href*="contact"],button')].filter(el => !el.closest('footer') && el.getBoundingClientRect().width > 0);
-      const source = candidates.find(el => { const rgb = colors(getComputedStyle(el).backgroundColor); return rgb.length >= 3 && (rgb[3] === undefined || rgb[3] > .8) && luminance(rgb) < .8; });
+      const roots = [...document.querySelectorAll('form button[type="submit"]'), ...document.querySelectorAll('main a[href*="contact"],[role="main"] a[href*="contact"]'), ...document.querySelectorAll('a[href*="contact"]')];
+      const candidates = roots.flatMap(el => [el, ...el.querySelectorAll('span,div')]).filter(el => !el.closest('footer') && el.getBoundingClientRect().width > 0);
+      const source = candidates.find(el => { const style = getComputedStyle(el), rgb = colors(style.backgroundColor); return /gradient\(/.test(style.backgroundImage) || rgb.length >= 3 && (rgb[3] === undefined || rgb[3] > .8) && luminance(rgb) < .8; });
       if (source) {
-        const style = getComputedStyle(source), bg = luminance(colors(style.backgroundColor));
-        call.style.setProperty('--call-bg', style.backgroundColor);
+        const style = getComputedStyle(source), gradient = /gradient\(/.test(style.backgroundImage), rgb = gradient ? colors(style.backgroundImage.match(/rgba?\([^)]+\)/)?.[0] || style.backgroundColor) : colors(style.backgroundColor), bg = luminance(rgb);
+        call.style.setProperty('--call-bg', gradient ? style.backgroundImage : style.backgroundColor);
         call.style.setProperty('--call-fg', (1.05 / (bg + .05)) > ((bg + .05) / .05) ? '#fff' : '#111');
         call.style.setProperty('--call-radius', style.borderRadius);
         call.style.setProperty('--call-font', style.fontFamily);
