@@ -207,11 +207,41 @@ async function sendEmail(to, lead, notificationType = "internal_notification") {
   if (!response.ok) throw new Error(`SendGrid request failed (${response.status})`);
 }
 
+async function verifyContactTurnstile(body) {
+  const secret = clean(process.env.TURNSTILE_SECRET_KEY);
+  if (!secret) return { status: 503, error: 'Verification is temporarily unavailable. Please call or email the team.' };
+  const token = body['cf-turnstile-response'];
+  if (typeof token !== 'string' || !token.trim() || token.length > 2048) {
+    return { status: 400, error: 'Please complete verification and try again.' };
+  }
+  try {
+    const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      signal: AbortSignal.timeout(10000),
+      body: JSON.stringify({ secret, response: token })
+    });
+    if (!response.ok) throw new Error('Verification service unavailable');
+    const result = await response.json();
+    const hostname = new URL(SITE.siteUrl).hostname.toLowerCase();
+    const allowed = [hostname, 'www.' + hostname.replace(/^www\./, '')];
+    if (result.success !== true || result.action !== 'contact' || !allowed.includes(String(result.hostname || '').toLowerCase())) {
+      return { status: 403, error: 'Verification expired or was unsuccessful. Please try again.' };
+    }
+    return null;
+  } catch {
+    return { status: 503, error: 'Verification is temporarily unavailable. Please retry or contact the team by phone or email.' };
+  }
+}
+
 module.exports = async function handler(req, res) {
   if (req.method !== "POST") return json(res, 405, { ok: false, error: "Method not allowed." });
   if (!rateLimit(req)) return json(res, 429, { ok: false, error: "Please wait before trying again." });
   try {
-    const lead = leadFrom(await payload(req), req);
+    const body = await payload(req);
+    const verification = await verifyContactTurnstile(body);
+    if (verification) return json(res, verification.status, { ok: false, error: verification.error });
+    const lead = leadFrom(body, req);
     const error = invalid(lead);
     if (error) return json(res, 400, { ok: false, error });
     if (!solicitation(lead)) {
@@ -223,6 +253,7 @@ module.exports = async function handler(req, res) {
       await Promise.all([...new Set(recipients)].map((to) => sendEmail(to, lead)));
       await sendEmail(lead.email, lead, "customer_confirmation");
     }
+    if (clean(req.headers.accept).includes("application/json")) return json(res, 200, { ok: true });
     return redirect(res, "/contact?submitted=1");
   } catch (error) {
     console.error(error);
